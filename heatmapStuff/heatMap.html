@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Heatmap</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+   <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7/leaflet.css" />
+</head>
+
+<body>
+<!--Load bootstrap and d3   -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script> 
+    //Use info from the window size to draw the svg:
+    var margin = {top: 0, left: 0, bottom: 0, right: 0}
+      , width = parseInt(d3.select('body').style('width'))
+      , mapRatio = (9/16)
+      , height = width * mapRatio; //this will need to be set to the default aspect ration for the WebThing
+
+    d3.select("body").append("div")
+        .attr("id","map")
+        .style("width", width)
+        .style("height", height);
+</script>
+<!--Load the leaflet stuff   -->
+<script src="http://cdn.leafletjs.com/leaflet-0.7/leaflet.js"> </script>
+<script src="http://leaflet.github.io/Leaflet.heat/dist/leaflet-heat.js"> </script>
+<script src="earthquakes.js"></script>
+    
+<script>
+
+        var map = new L.map('map', {
+            dragging: false,
+            touchZoom: false,
+            scrollWheelZoom: false,
+            doubleClickZoom: false,
+            zoomControl: false
+        });
+
+        map.fitBounds([
+                [16.51677, -128.02334],
+                [51.54059, -54.19521]
+        ]);
+
+        mapLink = 
+            '<a href="http://openstreetmap.org">OpenStreetMap</a>';
+
+           
+        L.tileLayer(
+            'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; ' + mapLink + ' Contributors',
+        }).addTo(map);
+        
+        var heat = L.heatLayer(quakePoints,{
+            radius: 20,
+            blur: 15, 
+        }).addTo(map);
+    
+</script>
+</body>
+</html>
