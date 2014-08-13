@@ -3,11 +3,11 @@ var upperLeft = [-151,58],
     bottomRight =[-54,10.5];
 
 //////////////////////////////////////////////////////////////////////////////////
-//load up the csv woith whatever data you are working with: 
+//load up the csv with whatever data you are working with: 
 
 //d3.csv("data/randomGeoData.csv",function(data){  //Random Data
-//d3.csv("data/latLonIfiedData.csv",function(data){ //Natural Gas data
-d3.csv("data/renewableStations.csv",function(data){ //renewable energy stations
+d3.csv("data/latLonIfiedData.csv",function(data){ //Natural Gas data
+//d3.csv("data/renewableStations.csv",function(data){ //renewable energy stations
 
 //Use info from the window size to draw the svg:
 var margin = {top: 0, left: 0, bottom: 0, right: 0}
@@ -125,7 +125,7 @@ d3.json("world-110m2.json", function(error, topology) {
             d3.select(this)
             .transition()
             .duration(400)
-            .attr("r", 10)
+            .attr("r", 6)
 
             svg.append("text")
                 //.text(d["Plant Name"])
@@ -140,14 +140,14 @@ d3.json("world-110m2.json", function(error, topology) {
             d3.select(this)
             .transition()
             .duration(400)
-            .attr("r",2)
+            .attr("r",1)
 
             d3.selectAll("#plantNameText")
                 .remove()
         })
-        //.transition()
-        //.duration(1000)
-        .attr("r", 2)
+        .attr("r", 5)
+        .attr("fill","blue")
+        .attr("fill-opacity",0.2)
         .attr("cx",function(d){
           return projection([d.lon, d.lat])[0]
         })

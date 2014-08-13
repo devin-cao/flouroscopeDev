@@ -21,21 +21,29 @@ var margin = {top: 0, left: 0, bottom: 0, right: 0}
   , mapRatio = (9/16)
   , height = width * mapRatio; //this will need to be set to the default aspect ration for the WebThing
 
-var svg = d3.select("body").append("svg")
-    .attr("width", width)
-    .attr("height", height);
+var div = d3.select("body").append("div")
+                            .attr("id", "container")
+                            .attr("width", width)
+                            .attr("height", height)
+                            
+var svg =  div
+            .append("svg")
+            .attr("width", width)
+            .attr("height", height)
 
 //set up blur for heatmap
 var filter = svg.append("defs")
   .append("filter")
     .attr("id", "blur")
+    //.attr("width",200)
+    //.attr("height",200)
   .append("feGaussianBlur")
-    .attr("stdDeviation", 3);
+    .attr("stdDeviation", 2)
 
 //set up gradient for heatmap
 var color = d3.scale.linear()
     .domain([minVal, maxVal])
-    .range(["blue", "red"]);
+    .range(["green", "red"]);
 
 
 //set up the projection: 
@@ -146,5 +154,46 @@ svg.append("text")
     .attr("text-anchor","start")
     .attr("font-size", 25)
 
-})
+/*
+var mapContainer = div.append("div")
+                        .attr("id","mapContainer")
+                        .attr("class","heatmap")
+                        .attr("width", width)
+                        .attr("height",height)
 
+mapContainer.append("div")
+            .attr("class","heatmap")
+            .attr("width", width)
+            .attr("height",height)
+
+// minimal heatmap instance configuration
+var heatmapInstance = h337.create({
+  // only container is required, the rest will be defaults
+  container: document.querySelector('.heatmap')
+});
+
+// now generate some random data
+var points = [];
+var max = 0;
+var len = 200;
+
+while (len--) {
+  var val = Math.floor(Math.random()*100);
+  max = Math.max(max, val);
+  var point = {
+    x: Math.floor(Math.random()*width),
+    y: Math.floor(Math.random()*height),
+    value: val
+  };
+  points.push(point);
+}
+// heatmap data format
+var newData = { 
+  max: max, 
+  data: points 
+};
+// if you have a set of datapoints always use setData instead of addData
+// for data initialization
+heatmapInstance.addData(newData);
+*/
+})
