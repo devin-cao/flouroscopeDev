@@ -1,22 +1,23 @@
-//values I expect sluice to give me"
+//values I expect sluice to give me
 var upperLeft = [-151,58], 
     bottomRight =[-54,10.5];
 
 //////////////////////////////////////////////////////////////////////////////////
-//load up the csv woith whatever data you are working with: 
+//load up the csv with whatever data you are working with: 
 
 //d3.csv("data/randomGeoData.csv",function(data){  //Random Data
 //d3.csv("data/latLonIfiedData.csv",function(data){ //Natural Gas data
-d3.csv("data/renewableStations.csv",function(data){ //renewable energy stations
+//d3.csv("data/renewableStations.csv",function(data){ //renewable energy stations
 
 //Use info from the window size to draw the svg:
 var margin = {top: 0, left: 0, bottom: 0, right: 0}
   , width = parseInt(d3.select('body').style('width'))
+  //, width = 600
   , mapRatio = (9/16)
   , height = width * mapRatio; //this will need to be set to the default aspect ration for the WebThing
+  //, height = 400
 
 var svg = d3.select("body").append("svg")
-    .attr("id","svg")
     .attr("width", width)
     .attr("height", height);
 
@@ -40,10 +41,10 @@ projection
     .scale(s)
     .translate(t);
 
-
 //Code to deal with a resizing of the WebThing:
 var g = svg.append("g");
 
+/*
 d3.select(window).on('resize', function(){ resize() });
 
 function resize() {
@@ -55,7 +56,7 @@ function resize() {
     svg
         .attr('width', width)
         .attr('height', height);
-/*
+
     // update projection
     var ulPoint = projection(upperLeft), 
         brPoint = projection(bottomRight),
@@ -69,7 +70,7 @@ function resize() {
 
     // resize the map
     g.selectAll('path').attr('d', path);
- */   
+   
     //move the data-nodes as well
     d3.selectAll("circle")
         .attr("cx",function(d){
@@ -102,6 +103,8 @@ var movingCircles = function(){
         })
 }
 
+*/
+
 // load and display the World
 d3.json("world-110m2.json", function(error, topology) {
     g.selectAll("path")
@@ -110,12 +113,7 @@ d3.json("world-110m2.json", function(error, topology) {
     .enter()
       .append("path")
       .attr("d", path)
-      .on("click", function(d){
-
-        console.log(projection.invert(path.bounds(d)[0])) //UL corner
-        console.log(projection.invert(path.bounds(d)[1])) //BR corner
-    })
-
+/*
     g.selectAll("circle")
         .data(data)
         .enter()
@@ -126,7 +124,7 @@ d3.json("world-110m2.json", function(error, topology) {
             d3.select(this)
             .transition()
             .duration(400)
-            .attr("r", 10)
+            .attr("r", 6)
 
             svg.append("text")
                 //.text(d["Plant Name"])
@@ -141,14 +139,14 @@ d3.json("world-110m2.json", function(error, topology) {
             d3.select(this)
             .transition()
             .duration(400)
-            .attr("r",2)
+            .attr("r",1)
 
             d3.selectAll("#plantNameText")
                 .remove()
         })
-        //.transition()
-        //.duration(1000)
-        .attr("r", 2)
+        .attr("r", 5)
+        .attr("fill","blue")
+        .attr("fill-opacity",0.2)
         .attr("cx",function(d){
           return projection([d.lon, d.lat])[0]
         })
@@ -156,23 +154,9 @@ d3.json("world-110m2.json", function(error, topology) {
           return projection([d.lon, d.lat])[1]
         })
         //.each("end",function(d,i){ movingCircles() })
-});
+*/
+//});
 
-
-svg.append("text")
-    .text("Natural Gas wells")
-    .attr("x", 15)
-    .attr("y", 40)
-    .attr("text-anchor","start")
-    .attr("font-size", 25)
-
-d3.select("body")
-    .append("canvas")
-    .attr("width", width)
-    .attr("height", height);
-
-// create a simpleheat object given an id or canvas reference
-var heat = simpleheat("canvas");
 
 })
 

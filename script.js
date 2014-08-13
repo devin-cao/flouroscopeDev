@@ -1,4 +1,4 @@
-//values I expect sluice to give me"
+//values I expect sluice to give me
 var upperLeft = [-151,58], 
     bottomRight =[-54,10.5];
 
@@ -6,8 +6,8 @@ var upperLeft = [-151,58],
 //load up the csv with whatever data you are working with: 
 
 //d3.csv("data/randomGeoData.csv",function(data){  //Random Data
-d3.csv("data/latLonIfiedData.csv",function(data){ //Natural Gas data
-//d3.csv("data/renewableStations.csv",function(data){ //renewable energy stations
+//d3.csv("data/latLonIfiedData.csv",function(data){ //Natural Gas data
+d3.csv("data/renewableStations.csv",function(data){ //renewable energy stations
 
 //Use info from the window size to draw the svg:
 var margin = {top: 0, left: 0, bottom: 0, right: 0}
@@ -39,10 +39,10 @@ projection
     .scale(s)
     .translate(t);
 
-
 //Code to deal with a resizing of the WebThing:
 var g = svg.append("g");
 
+/*
 d3.select(window).on('resize', function(){ resize() });
 
 function resize() {
@@ -54,7 +54,7 @@ function resize() {
     svg
         .attr('width', width)
         .attr('height', height);
-/*
+
     // update projection
     var ulPoint = projection(upperLeft), 
         brPoint = projection(bottomRight),
@@ -68,7 +68,7 @@ function resize() {
 
     // resize the map
     g.selectAll('path').attr('d', path);
- */   
+   
     //move the data-nodes as well
     d3.selectAll("circle")
         .attr("cx",function(d){
@@ -100,6 +100,8 @@ var movingCircles = function(){
                 })
         })
 }
+
+*/
 
 // load and display the World
 d3.json("world-110m2.json", function(error, topology) {
@@ -140,6 +142,49 @@ d3.json("world-110m2.json", function(error, topology) {
             d3.select(this)
             .transition()
             .duration(400)
+            .attr("r",2)
+
+            d3.selectAll("#plantNameText")
+                .remove()
+        })
+        .attr("r", 2)
+        .attr("fill","blue")
+        .attr("fill-opacity",0.5)
+        .attr("cx",function(d){
+          return projection([d.lon, d.lat])[0]
+        })
+        .attr("cy",function(d){
+          return projection([d.lon, d.lat])[1]
+        })
+        //.each("end",function(d,i){ movingCircles() })
+
+
+
+g.selectAll("circle")
+        .data(data)
+        .enter()
+        .append("circle")
+        //.attr("cx", 0)
+        //.attr("cy", 0)
+        .on("mouseover",function(d){
+            d3.select(this)
+            .transition()
+            .duration(400)
+            .attr("r", 6)
+
+            svg.append("text")
+                //.text(d["Plant Name"])
+                .text(d['Street Address'] + ", " + d['City'] + ", " + d["State"])
+                .attr("id", "plantNameText")
+                .attr("x",d3.select(this).attr("cx") - 10)
+                .attr("y",d3.select(this).attr("cy"))
+                .attr("text-anchor","end")
+                .attr("fill","blue")
+        })
+        .on("mouseout",function(){
+            d3.select(this)
+            .transition()
+            .duration(400)
             .attr("r",1)
 
             d3.selectAll("#plantNameText")
@@ -155,8 +200,8 @@ d3.json("world-110m2.json", function(error, topology) {
           return projection([d.lon, d.lat])[1]
         })
         //.each("end",function(d,i){ movingCircles() })
-});
 
+});
 
 svg.append("text")
     .text("Natural Gas wells")
