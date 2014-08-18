@@ -1,526 +1,526 @@
-Year;"Report
-State";Plant Name;Owner Company;Operator Company;County Name;Zipcode;"Plant
-Capacity";"Plant
-Flow";"BTU
-Content";"Dry Gas
+,Year,"Report
+State",Plant Name,Owner Company,Operator Company,County Name,Zipcode,"Plant
+Capacity","Plant
+Flow","BTU
+Content","Dry Gas
 Storage
-Capacity";"NG Liquid
+Capacity","NG Liquid
 Storage
-Capacity"
-2012;AL;Atmore Plant;American Midstream (Mississippi), LLC;American Midstream;Escambia;36502;3.00;1.15;1,218;0;429
-2012;AL;Big Escambia Creek;Escambia Operating Company, LLC;Eagle Rock Energy G & P, LLC;Escambia;36502;50.00;48.00;900;0;34,000
-2012;AL;Castleberry Plant;;Gas Processors, Inc;Conecuh;36432;9.50;8.50;1,427;0;2,850
-2012;AL;Chatom Plant;;Quantum Resources Management, LLC;Washington;36518;25.00;13.80;117;0;7,650
-2012;AL;Chunchula Gas Plant;Chevron Corporation;Chevron Corporation;Mobile;36521;40.00;15.60;1,079;0;15,833
-2012;AL;Dogwood Oaks Plant;Plains Gas Solutions;CDM MAX, LLC;Escambia;36426;4.00;4.00;1,000;0;1,000
-2012;AL;Gordo BWB Compressor & Processing Plant;Samson Resources;Samson Resources;Pickens;35466;5.00;4.00;1,120;0;714
-2012;AL;Hatters Pond Gas Plant;Four Star Oil and Gas Company;Chevron Corporation;Mobile;36525-4830;60.00;20.58;1,300;0;16,317
-2012;AL;Lufkin Plant;Hilcorp Energy Company;Hilcorp Energy Company;Hilcorp Energy Company;36445;5.00;1.00;1,400;0;1,000
-2012;AL;Mobile Bay Processing;DCP Midstream;DCP Midstream;Mobile;36523;300.00;185.00;1,141;0;0
-2012;AL;Monroeville Plant;Palmer Petroleum Inc;Palmer Petroleum Inc;Monroe;36460;2.00;0.23;1,200;0;2,142
-2012;AL;North Beach Plant;Plains Gas Solutions LLC;Plains Gas Solutions LLC;Conecuh;36401;6.50;4.50;1,350;0;1,000
-2012;AL;Wildfork Plant;American Midstream (Mississippi), LLC;American Midstream;Monroe;36445;0.50;0.22;1,398;0;2,151
-2012;AL;Williams Mobile Bay Processing Plant;Williams Field Services;;Mobile;36523;690.00;322.00;1,099;0;0
-2012;AL;Womack Hill Gas Plant;Pruet Production Co;Pruet Production Co;Choctaw;39608;2.00;0.66;1,381;0;3,899
-2012;AL;Yellowhammer Gas Plant;W&T Offshore Inc.;W&T Offshore Inc.;Mobile;36523;200.00;65.00;1,095;0;7,142
-2012;AR;Dorcheat Plant 1;Bonanza Creek Energy, Inc.;Bonanza Creek Energy Resources LLC;Columbia;71753;12.00;12.00;1,152;0;2,286
-2012;AR;McKamie Gas Plant;Bonanza Creek Energy, Inc.;Bonanza Creek Energy Resources LLC;Lafayette;71860;12.00;11.00;1,152;0;4,133
-2012;CA;35R Natural Gas Processing Plant;Occidental of Elk Hills, Inc;Occidental of Elk Hills, Inc;Kern;93276;90.00;35.90;1,090;0;0
-2012;CA;Belridge Gas Plant;Seneca Resources Corporation;Seneca Resources Corporation;Kern;93251;14.00;9.00;1,148;0;8,346
-2012;CA;Carpinteria Gas Plant;Venoco, Inc;Venoco, Inc;Santa Barbara;93013;30.00;1.00;1,000;0;34
-2012;CA;Ellwood Onshore Facility;Venoco, Inc;Venoco, Inc;Santa Barbara;93117;13.00;2.50;1,100;0;2,000
-2012;CA;Greeley Gas Plant;Crimson Resource Management Corp;Crimson Resource Management Corp;Kern;93309;70.00;45.00;1,200;0;238
-2012;CA;Inergy Services North Coles Levee;Inergy Propane, LLC;Inergy Services;Kern;93276;24.00;4.60;1,271;0;373
-2012;CA;Inglewood Gas Plant;Plains Exploration & Production, Inc;Plains Exploration & Production, Inc;Los Angeles;90056;15.00;10.00;1,250;0;1,750
-2012;CA;Kernirdge Gas Plant;Aera Energy LLC;;Kern;93251;80.00;30.66;1,127;0;14,900
-2012;CA;Las Flores Canyon, POPCO;ExxonMobil Production Company;ExxonMobil Production Company;Santa Barbara;93116;67.00;32.00;1,066;0;0
-2012;CA;Las Flores Canyon, SGTP;ExxonMobil Production Company;ExxonMobil Production Company;Santa Barbara;93116;12.00;10.00;1,066;0;8,300
-2012;CA;Lompoc Oil & Gas Plant;Plains Exploration & Production, Inc;Plains Exploration & Production, Inc;Santa Barbara;93436;15.00;2.71;1,176;0;2,140
-2012;CA;Low Temperature Separation Plant No. 1;Occidental of Elk Hills, Inc;Occidental of Elk Hills, Inc;Kern;93276;150.00;136.40;1,180;0;0
-2012;CA;Low Temperature Separation Plant No. 2;Occidental of Elk Hills, Inc;Occidental of Elk Hills, Inc;Kern;93276;150.00;137.50;1,110;0;0
-2012;CA;Mckittrick 172;Chevron USA, Inc.;Chevron USA, Inc.;Kern;93251;80.00;58.87;1,179;0;8,995
-2012;CA;Montebello Gas Plant;Plains Exploration & Production, Inc;Plains Exploration & Production, Inc;Los Angeles;90640;1.50;0.65;1,100;0;0
-2012;CA;Murphy Gas Plant;Plains Exploration & Production, Inc.;Plains Exploration & Production, Inc.;Los Angeles;90007;1.50;1.00;1,250;0;20
-2012;CA;OXY Huntington Beach Gas Plant;OXY USA Inc;Oxy USA LA Basin;Orange;92648;3.00;3.00;1,000;0;0
-2012;CA;Riverdale Gas Plant;Crimson Resource Management;Crimson Resource Management;Fresno;;32.00;20.00;1,400;0;238
-2012;CA;Santa Clara Valley Gas Plant;Vintage Production California, LLC;Vintage Production California, LLC;Ventura;93040;10.00;7.30;1,300;0;3,310
-2012;CA;Signal Hill West Unit Gas Plant;Signal Hill Petroleum, Inc;Signal Hill Petroleum, Inc;Los Angeles;90755;1.00;1.00;1,400;0;952
-2012;CA;South Coles Levee Gas Plant;Central Resources Inc;Central Resources Inc;Keen;93276;35.00;3.60;1,108;0;1,895
-2012;CA;Stearns Gas Plant;Linn Energy;Linn Western Operating Inc;Orange;92821;4.50;2.20;1,100;0;1,714
-2012;CA;Taft #1C Gas Plant;Occidental of Elk Hills, Inc;Occidental of Elk Hills, Inc;Kern;93276;16.00;16.00;1,152;0;0
-2012;CA;Ventura Gas Plant 7;Aera Energy LLC;;Ventura;93001;12.00;10.00;1,195;0;1,400
-2012;CO;Andy`s Mesa Plant;Patara Oil & Gas, LLC;Patara Oil & Gas, LLC;San Miguel;81422;30.00;7.80;1,012;35;1,300
-2012;CO;Baxter Compressor Station;XCEL ENERGY;XCEL ENERGY;Garfield County;81630;15.00;3.00;915;0;476
-2012;CO;Bear River;Moffat Pipeline Company;Moffat Pipeline Company;Routt;80293;0.50;0.10;1,170;0;200
-2012;CO;Buck Peak;Abraxas;Custom Energy;Moffat;81625;0.50;0.18;;0;4,500
-2012;CO;Clyde Gasoline Plant;Prowers Gas Gathering Co, LLC;Prowers Gas Gathering Co, LLC;Prowers;;2.50;0.80;1,200;0;700
-2012;CO;Cutthroat B;QEP Energy Co;QEP Energy Co;Montezuma;81321;2.00;0.40;1,351;0;1,428
-2012;CO;Dragon Trail;Encana Oil & Gas (USA) Inc.;Encana Oil & Gas (USA) Inc.;Rangley;81431;60.00;25.00;1,100;0;6,400
-2012;CO;Eaton;DCP Midstream;DCP Midstream;Weld;80615;12.00;10.00;1,175;0;1,425
-2012;CO;Foundation Creek;ETC Canyon Pipelines LLC;Energy Transfer;Rio Blanco;81648;22.00;10.00;1,080;0;1,428
-2012;CO;Gilcrest Gas Processing Plant;Southern Ute Indian Tribe;;Platteville;80651;20.00;16.00;1,270;0;3,200
-2012;CO;Grand Valley Gas Plant;Williams Production RMT / Williams Midstream;Williams Midstream;Garfield;81635;120.00;70.00;1,072;0;2,140
-2012;CO;Greeley;DCP Midstream;DCP Midstream;Weld;80634;27.00;24.00;1,175;0;17,150
-2012;CO;Hamilton Creek Plant;Patara Oil & Gas, LLC;Patara Oil & Gas, LLC;San Miguel;81422;30.00;8.00;963;45;1,900
-2012;CO;Hay Canyon Treating Facility;Encana Oil and Gas (USA) Inc.;Encana Oil and Gas (USA) Inc.;Garfield;81524;25.00;3.00;1,085;0;1,428
-2012;CO;Ignacio Gas Plant;Williams;Williams Midstream Services, LLC;La Plata;81303;585.00;456.00;1,110;0;38,850
-2012;CO;Johnson Dew Point Facility;Williams Midstream;Williams Midstream;Dolores;81320;10.00;0.50;1,100;0;857
-2012;CO;Koskie Dew Point Facility;Williams Midstream;Williams Midstream;Montezuma;81327;10.00;0.50;1,200;0;857
-2012;CO;La Veta Gas Plant;Appletree Holdings, LLC;Manzano, LLC;Huerfano;81055;30.00;17.00;332;20;1,000
-2012;CO;Ladder Creek;DCP Midstream;DCP Midstream;Cheyenne;80810;55.00;15.00;750;0;600
-2012;CO;Lilli Plant;Noble Energy;Noble Energy;Weld;80742;7.00;5.00;1,310;44;2,500
-2012;CO;Lucerne;DCP Midstream;DCP Midstream;Weld;80631;40.00;38.00;1,175;0;2,850
-2012;CO;Meeker Gas Plant;Enterprise Gas Processing, LLC;Enterprise Gas Processing, LLC;Rio Blanco;81650;1,800.00;1,505.00;1,100;0;0
-2012;CO;Mercy Gas Plant;Forest Oil Corporation 100%;Forest Oil Permian;;80202-3406;3.50;2.20;1,233;0;1,000
-2012;CO;Mewbourne;DCP Midstream;DCP Midstream;Weld;80651;143.00;143.00;1,175;0;120,000
-2012;CO;Mull Unit Sorrento Field;Mull Drilling Company, Inc;Mull Drilling Company, Inc;Cheyenne;80825;4.00;0.60;1,150;0;714
-2012;CO;North Douglas;ETC Canyon Pipelines LLC;Energy Transfer;Rio Blanco;81648;22.50;10.00;1,080;0;2,857
-2012;CO;Parachute Creek Gas Plant;Williams Production RMT / Williams Midstream;Williams Midstream;Garfield;81635;1,200.00;780.00;1,072;0;16,000
-2012;CO;Piceance Creek;Sourcegas Services, LLC;Rocky Mountain Natural Gas, LLC;RIO BLANCO;;5.00;2.00;1,170;;715
-2012;CO;Piceance Creek Plant;Davis Gas Processing, Inc.;Davis Gas Processing, Inc.;GARFIELD;81650;100.00;0.07;1,065;0;0
-2012;CO;Plateau Creek Plant;Encana Oil and Gas (USA) Inc.;Encana Oil and Gas (USA) Inc.;Mesa;81643;1.00;1.00;1,080;5;300
-2012;CO;Platte Valley Gas Plant;Western Gas Partners, LP;Western Gas Partners, LP;Weld;80621;105.00;103.00;1,251;0;15,000
-2012;CO;Platteville;DCP Midstream;DCP Midstream;Weld;80651;70.00;60.00;1,270;0;3,600
-2012;CO;Premier Debeque Plant;ETC Canyon Pipelines LLC;Energy Transfer;Mesa;81630;8.00;5.00;1,064;0;286
-2012;CO;Rifle Gas Plant;XCEL ENERGY;XCEL ENERGY;Rifle;81650;50.00;25.00;1,070;0;2,857
-2012;CO;Roggen;DCP Midstream;DCP Midstream;Weld;80652;62.00;62.00;1,175;0;5,950
-2012;CO;Sagebrush Gas Plant;Williams;Williams;Rio Blanco;81650;30.00;10.00;1,110;0;1,711
-2012;CO;Spindle;DCP Midstream;DCP Midstream;Weld;80621;40.00;34.00;1,270;0;5,000
-2012;CO;Terrace Gas Plant;Whiting Oil and Gas Corporation;Whiting Oil and Gas Corporation;WELD;96155;3.00;0.55;1,460;0;714
-2012;CO;Wattenberg Gas Plant;Anadarko Petroleum Corp;Anadarko Petroleum Corp;Adams;80019;195.00;180.00;1,230;0;9,500
-2012;CO;Wiggins Gas Processing Plant;;Western Operating Company;Morgan;80701;3.00;0.05;1,400;0;672
-2012;CO;Willow Creek;Williams;Williams Midstream Services, LLC;Rio Blanco;81650;450.00;405.00;1,070;0;0
-2012;CO;Wilson Creek Gas Processing Plant;Chevron USA, Inc.;Chevron USA, Inc.;Rio Blanco;81641;1.10;0.16;1,461;0;2,928
-2012;CO;Yenter Gas Plant;Sterling Energy Investments LLC;Sterling Energy Investments LLC;Logan;80751;5.00;3.50;1,400;0;800
-2012;FL;St. Regis Treatment Facility and Jay Gas Plant;Quantum Resources A1, LP;Quantum Resources Management, LLC;Escambia;32565;90.00;59.00;350;0;11,428
-2012;IL;Aux Sable Liquid Products, Inc.;Enbridge, Inc.;Aux Sable Liquid Products, Inc.;Grundy;60450;2,100.00;1,594.00;1,090;0;200,000
-2012;KS;Cheney Plant;Oneok Field Services;Oneok Field Services;Sedgwick;67025;100.00;48.00;1,120;0;0
-2012;KS;Jayhawk Gas Plant;Linn Energy;Linn Operating;Grant;67880;450.00;178.00;1,009;0;0
-2012;KS;Kingman Gas Plant;Lumen Midstream Partnership LLC;Lumen Midstream Partnership LLC;Kingman;74135;26.00;19.09;1,130;0;380
-2012;KS;National Helium;National Helium;DCP Midstream;Seward;67901;800.00;580.00;1,080;0;4,000
-2012;KS;Satanta Gas Plant;Pioneer Natural Resources;Pioneer Natural Resources;GRANT;67880;220.00;115.00;1,040;0;2,140
-2012;KS;Scott City Plant;Oneok Field Services;Oneok Field Services;Scott;67871;200.00;42.00;920;0;1,400
-2012;KS;Spivey;Atlas KS Energy LLC;Pioneer Exploration, LLC;Harper;67058;22.00;15.00;1,197;0;7,620
-2012;KY;Boldman;MarkWest Energy Appalacia, LLC;MarkWest Energy Appalacia, LLC;Pike;41501;70.00;37.00;1,259;0;0
-2012;KY;Langley Processing Plant;MarkWest Energy Appalacia, LLC;MarkWest Energy Appalacia, LLC;Floyd;41645;170.00;143.00;1,294;0;4,897
-2012;KY;Oneida Processing Facility;Vinland Energy LLC;Vinland Energy LLC;Clay;40972;12.00;8.00;1,200;;1,813
-2012;LA;Acadia Gas Plant;Targa Midstream Services, LLC;Targa Midstream Services, LLC;Acadia;70531;80.00;19.80;1,073;0;0
-2012;LA;Ada Plant;DCP Midstream;DCP Midstream;Bienville;71028;45.00;45.00;1,080;0;714
-2012;LA;Antioch Gas Processing Facility;LNGP LLC;Tellus Operating Group LLC;Claiborne;71048;3.00;2.30;1,255;0;1,429
-2012;LA;Barracuda Gas Plant;Targa Resources;Targa Resources;Cameron;70631;200.00;126.00;1,058;0;98
-2012;LA;Baton Rouge Gas Plant;ExxonMobil Corporation;ExxonMobil Corporation;West Baton Rouge;70767;225.00;140.00;1,070;0;1,200
-2012;LA;Blue Water Gas Plant;Crosstex Energy;Crosstex Processing Services, LLC;Acadia Parish;70559;350.00;160.00;1,020;0;750
-2012;LA;Burns Point Plant;Enterprise Gas Processing, LLC;Enterprise Gas Processing, LLC;St. Mary;70538;160.00;125.00;1,070;0;500
-2012;LA;Cameron Meadows Gas Plant;PSI Midstream;PSI Midstream;Cameron;70631;275.00;271.00;1,056;0;0
-2012;LA;Caspiana Plant;CenterPoint Energy Field Services, LLC;CenterPoint Energy Field Services, LLC;Caddo;71115;15.00;15.00;1,051;0;715
-2012;LA;Castor Creek Plant;Unit Petroleum;Unit Petroleum;Allen;70655;1.50;0.70;1,000;;700
-2012;LA;Chipola Field Gas Plant;Bridwell Oil Management, LLC;Bridwell Oil Management, LLC;Saint Helena;;1.00;0.12;1,200;0;700
-2012;LA;College Point Gas Plant;Vernon E Faulconer Inc;Vernon E Faulconer Inc;St James;;0.17;0.17;;0;238
-2012;LA;Cotton Valley Gas Plant;XTO Energy Inc;XTO Energy Inc;Webster;71018;90.00;65.00;1,190;0;18,000
-2012;LA;Desoto Gas Plant;Vernon E Faulconer Inc;Vernon E Faulconer Inc;Desoto;71052;1.22;1.22;1,014;0;714
-2012;LA;Dubach Gas Plant;Regency Field Services LLC;Energy Transfer Company;Lincoln;71235;107.00;82.00;1,133;0;2,400
-2012;LA;Dubberly Plant;Regency Field Services LLC;Energy Transfer Company;Webster;71024;200.00;135.00;1,040;0;2,700
-2012;LA;Elba Mini Plant;JP Oil Company, LLC;JP Oil Company, LLC;ST. LANDRY;71533;2.70;1.33;1,160;0;952
-2012;LA;Elm Grove Plant;CenterPoint Energy Field Services, LLC;CenterPoint Energy Field Services, LLC;Bossier;71051;2.00;1.50;1,047;0;310
-2012;LA;Elm Grove Plant;Regency Field Services LLC;Energy Transfer Company;Bossier;71037;200.00;155.00;1,030;0;2,700
-2012;LA;Eunice Plant;;Crosstex Processing Services, LLC;Acadia Parish;70535;500.00;340.00;1,036;0;66,577
-2012;LA;Gibson Plant;;Crosstex LIG, Liquids, LLC;Terrabone Parish;70356;110.00;110.00;1,063;0;0
-2012;LA;Gillis Gas Plant;Targa Midstream Services, LLC;Targa Midstream Services, LLC;Calcasieu;70615;180.00;156.06;1,113;0;11,280
-2012;LA;Grand Cheniere;Plains Gas Solutions, LLC;Plains Gas Solutions, LLC;Cameron;70643;450.00;200.00;1,050;0;300
-2012;LA;Gravel Point;J-W Gathering Company;J-W Gathering Company;DeSoto;71027;45.00;25.00;1,040;0;2,429
-2012;LA;Grayson Gas Plant;Grayson LLC;Petro-Chem Operating Co Inc;Caddo;71101;2.50;1.70;1,125;0;700
-2012;LA;Indian Village Plant;JP Oil Company, LLC;JP Oil Company, LLC;ALLEN;70658;4.50;1.80;1,120;0;714
-2012;LA;Krotz Springs Gas Plant;JP Oil Company, LLC;JP Oil Company, LLC;ST. LANDRY;70750;4.50;2.16;1,150;0;1,143
-2012;LA;Lake Charles Gas Plant;Copano Processing Louisiana, LLC;Copano Processing Louisiana, LLC;Calcasieu;70605;200.00;114.00;1,022;0;112
-2012;LA;Lake LaRose Gas Plant;Whiskey Bay Gas Co LTD;Energy Transfer Co;St Martin Parish;70517;5.00;1.00;1,118;0;150
-2012;LA;Larose Processing Plant;Discovery Producer Services;Williams Energy LLC;Lafourche;70373;600.00;500.00;1,070;0;100
-2012;LA;Lisbon Plant;Regency Field Services LLC;Energy Transfer Company;Claiborne;71235;38.00;26.00;1,125;0;900
-2012;LA;Lowry Gas Plant;Targa Resources;Targa Resources;Cameron;70549;240.00;180.00;1,055;0;0
-2012;LA;Minden Beacon;DCP Assets Holding;DCP Midstream;Webster;71055;115.00;65.00;1,185;0;0
-2012;LA;Neale;Texas Petroleum Investment Company;Texas Petroleum Investment Company;Beauregard;70653;6.00;4.00;1,100;0;1,140
-2012;LA;Neptune Gas Plant;Enterprise Gas Processing, LLC;Enterprise Gas Processing, LLC;St. Marys;70522;650.00;431.00;1,083;0;0
-2012;LA;North Terrebonne Plant;Enterprise Gas Processing, LLC;Enterprise Gas Processing, LLC;Gibson;70356;1,100.00;650.00;1,100;0;2,000
-2012;LA;PSI Kaplan Plant;PSI Midstream Partners, LP;PSI Midstream Partners, LP;Vermilion;70510;125.00;63.00;1,061;0;0
-2012;LA;Patterson II Plant;Plains Gas Solutions, LLC;Plains Gas Solutions, LLC;St Mary;70392;180.00;110.00;1,055;0;150
-2012;LA;Pelican Plant;;Crosstex Pelican, LLC;St. Mary Parish;70392;600.00;228.00;1,099;0;0
-2012;LA;Plain Dealing JT Plant;Cypress Oil and Gas;Petro-Chem Operating Co Inc;Caddo;71101;0.50;0.25;1,100;0;285
-2012;LA;Plaquemine Plant;;Crosstex LIG Liquids, LLC;Iberville Parish;70764;225.00;151.00;1,023;0;11,904
-2012;LA;Rocky Mount;Devon Energy;Devon Energy;Bossier;;2.00;1.00;1,126;0;429
-2012;LA;Rocky Mount Gas Plant;Samson Resources;Samson Contour Energy;Bossier;71064;1.00;0.50;1,050;0;357
-2012;LA;Sabine Pass Plant;;Sabine Pass Plant Facility Joint Venture;Cameron Parish;70631;300.00;57.00;1,077;0;750
-2012;LA;Samson Benton Plant;Samson Resources;Samson Contour Energy;Bossier;71006;4.00;1.00;1,108;0;1,000
-2012;LA;Sea Robin Gas Processing Plant;Enterprise Gas Processing, LLC;Enterprise Gas Processing, LLC;Vermillion;70533;660.00;301.00;1,080;0;1,000
-2012;LA;Sligo Processing Facility;CenterPoint Energy Field Services, LLC;CenterPoint Energy Field Services, LLC;Bossier;71037;230.00;230.00;1,059;0;8,000
-2012;LA;State Line Gas Processing Plant;Enterprise Gathering, LLC;Enterprise Hydrocarbons, LP;DeSoto;71049;30.00;22.00;1,050;0;700
-2012;LA;Stingray Gas Plant;Targa Resources;Targa Resources;Cameron;70631;300.00;135.00;1,067;0;714
-2012;LA;Toca Gas Plant;Enterprise Gas Processing, LLC;Enterprise Gas Processing, LLC;St. Bernard;70085;1,100.00;431.00;1,083;0;0
-2012;LA;Townsend Gas Plant;Samson Resources;Samson Contour Energy;Jackson;71227;1.00;0.50;1,170;0;357
-2012;LA;Venice Gas Plant;Targa Resources;Targa Resources;Plaquemines;70091;750.00;500.00;1,115;0;0
-2012;LA;Vivian Gas Processing Plant;Caruthers Producing Co Inc;Caruthers Producing Co Inc;caddo;71082;2.00;0.25;1,025;0;285
-2012;LA;Yscloskey Gas Plant;Targa Resources;Targa Resources;St Bernard;70085;1,850.00;1,000.00;1,032;;
-2012;MI;Aztec Manistee;Aztec Producing Company, Inc.;Aztec Producing Company, Inc.;Manistee;49660;5.00;0.26;1,339;0;1,429
-2012;MI;Beaver Creek;BreitBurn Operating, L.P.;BreitBurn Operating, L.P.;Crawford;49735;1.70;1.70;1,530;0;714
-2012;MI;Fraser 8;BreitBurn Operating, L.P.;BreitBurn Operating, L.P.;Bay;48650;1.60;1.60;1,130;0;1,332
-2012;MI;Goose Lake Gas Plant;Dart Oil & Gas Corp;Dart Oil & Gas Corp;Osceola;49655;2.00;0.43;1,127;0;607
-2012;MI;Hartland 36 Processing Plant;Merit Energy Company;Merit Energy Company;Livingston;48353-1010;8.00;0.79;1,313;0;714
-2012;MI;Kalkaska Gas Processing;Merit Energy Company;Merit Energy Company;Kalkaska;49680;425.00;42.75;1,152;0;42,000
-2012;MI;Lenox 36;Merit Energy Company;Merit Energy Company;Macomb;48048;0.10;0.03;1,333;0;286
-2012;MI;Marion Gas Plant;Dart Oil & Gas Corp;Dart Oil & Gas Corp;Osceola;49665;5.00;0.73;1,150;0;607
-2012;MI;Mentor Plant;Merit Energy Company;Merit Energy Company;Oscoda;48654;9.75;3.66;1,164;0;1,428
-2012;MI;Monitor 11;BreitBurn Operating, L.P.;BreitBurn Operating, L.P.;Bay;48706;0.09;0.09;1,130;0;1,332
-2012;MI;Reno Gas Plant;Whiting Oil and Gas Corporation;Whiting Oil and Gas Corporation;Iosco;48770;7.50;0.39;1,300;0;1,429
-2012;MI;Rosebush Plant;Summit Petroleum Corp;Summit Petroleum Corp;Isabella;48878;1.60;0.81;1,410;0;760
-2012;MI;Sherman 35;BreitBurn Operating, L.P.;BreitBurn Operating, L.P.;Osceola;49655;1.80;1.80;1,220;0;714
-2012;MI;West Branch Gas Plant;Whiting Oil and Gas Corporation;Whiting Oil and Gas Corporation;OGEMAW;48661;9.50;4.60;1,302;0;4,714
-2012;MS;Bazor Ridge;American Midstream (Mississippi), LLC;American Midstream;Wayne;39367;20.00;14.79;1,277;0;2,857
-2012;MS;Corinne Dehy Refrigeration Station;Samson Resources;Samson Resources;Monroe;39730;3.00;1.50;1,140;0;428
-2012;MS;Pascagoula Gas Processing Plant;BP America Production Company;BP America Production Company;Jackson;39567;1,100.00;350.00;1,165;0;1,000
-2012;MT;Baker Plant;Oneok Rockies Midstream;Oneok Rockies Midstream;Fallon;59313;6.50;4.50;1,460;0;8,272
-2012;MT;Bakken Plant;Hiland Partners, LP;Hiland Partners, LP;Richland;59270;30.00;22.00;1,450;0;8,476
-2012;MT;Cut Bank NGL Plant;Omimex Canada Ltd;Northwestern Energy;Glacier;59427;25.00;7.00;1,090;0;4,500
-2012;MT;Dry Creek Plant;Saga Petroleum LLC;Saga Petroleum LLC;Carbon;59014;4.00;1.60;1,210;0;4
-2012;MT;McKenzie Plant (aka Grasslands Plant);Oneok Rockies Midstream;Oneok Rockies Midstream;McKenzie;59270;95.00;80.00;1,375;0;28,454
-2012;ND;Ambrose Gas Plant;Sterling Energy Investments LLC;Sterling Energy Investments LLC;Divide;58844;0.70;0.41;1,482;0;429
-2012;ND;Badlands;Hiland Partners, LP;Hiland Partners, LP;Bowman;58651;40.00;21.00;306;0;6,690
-2012;ND;Garden Creek;Oneok Rockies Midstream;Oneok Partners;McKenzie;05884;100.00;95.00;1,465;0;6,033
-2012;ND;Lignite Gas Plant;Oneok Rockies Midstream;Oneok Rockies Midstream;Burke;58752;12.00;5.50;1,380;0;10,000
-2012;ND;Little Knife Plant;Petro-Hunt LLC;Petro-Hunt LLC;Billings;58640;22.00;15.00;1,400;0;10,000
-2012;ND;Little Missouri;Saddle Butte Pipeline, LLC;Saddle Butte Pipeline, LLC;McKenzie;58854;30.00;11.54;1,400;0;7,238
-2012;ND;Marmarth Plant;Oneok Rockies Midstream;Oneok Rockies Midstream;Slope;58643;8.50;7.20;;0;2,857
-2012;ND;Nesson Plant;Nesson Gathering System LLC;Nesson Gathering System LLC;Williams;58852;9.00;7.52;1,476;0;3,986
-2012;ND;Norse;Hiland Partners;Hiland Partners;;58755;25.00;16.00;1,450;0;290,000
-2012;ND;Red Wing Creek Gas Plant;True Oil LLC;True Oil LLC;McKenzie;58835;5.00;0.27;1,192;0;4,386
-2012;ND;Robinson Lake Gas Plant;Whiting Oil and Gas Corporation;Whiting Oil and Gas Corporation;Montrail;58673;60.00;48.00;1,550;0;20,885
-2012;ND;Tioga Gas Plant;Hess Corporation;Hess Corporation;Williams;58852;110.00;85.00;1,300;0;50,000
-2012;ND;Watford City;Hiland Partners;Hiland Partners;;58831;85.00;30.00;1,450;0;1,620,000
-2012;NM;Antelope Ridge;DCP Midstream;DCP Midstream;Lea;88240;30.00;22.00;1,187;0;405
-2012;NM;Artesia;DCP Midstream;DCP Midstream;Eddy;88210;90.00;90.00;1,170;0;2,573
-2012;NM;Buckeye CO2 Plant;Chevron;Chevron;Lea;88260;55.00;39.00;250;0;700
-2012;NM;Carlsbad Chaparral Gas Plant;Enterprise Field Services, LLC;Enterprise Field Services, LLC;Eddy;88220;40.00;23.00;1,150;0;0
-2012;NM;Carlsbad Plant;DCP Midstream;DCP Midstream;Eddy;88256;22.00;17.00;1,178;0;100
-2012;NM;Chaco Gas Plant;Enterprise Field Services, LLC;Enterprise Products Operating, LLC;San Juan;87413;600.00;485.00;1,150;0;400,000
-2012;NM;Denton Gas Plant;Davis Gas Processing, Inc.;Davis Gas Processing, Inc.;Lea;88260;20.00;2.93;1,424;0;750
-2012;NM;EMPIRE ABO GAS PLANT;AKA - FRONTIER FIELD SERVICES;FRONTIER FIELD SERVICES;USA;88211;50.00;48.00;1,300;0;700
-2012;NM;East Vacuum Liquid Recovery Plant;ConocoPhillips;ConocoPhillips;Lea;88260;25.00;21.40;1,026;0;1,100
-2012;NM;Eunice;DCP Midstream;DCP Midstream;Lea;88240;105.00;95.00;1,250;0;4,000
-2012;NM;Eunice Plant;Versado Gas Processors, LLC;Targa Midstream Services, LLC;Lea;88231;115.00;80.00;1,235;0;500
-2012;NM;Hobbs Cryogenics Plant;DCP Midstream;DCP Midstream;Lea;88240;42.00;36.00;1,125;0;80
-2012;NM;Indian Basin Gas Plant;OXY USA WTP LP;Oxy Permian Primary;Eddy;88254;300.00;35.00;1,140;0;5,000
-2012;NM;Jal #3;Energy Transfer Equity, LP;Southern Union Gas Services, LTD;Lea;88252;90.00;75.00;1,244;0;2,500
-2012;NM;Kutz Gas Plant;Williams;Williams Midstream Services, LLC;San Juan;87413;230.00;135.00;1,117;0;1,430
-2012;NM;Linam Ranch;DCP Midstream;DCP Midstream;Lea;88240;225.00;164.00;1,241;0;1,400
-2012;NM;MALAMAR GAS PLANT;AKA - FRONTIER FIELD SERVICES;FRONTIER FIELD SERVICES;USA;88264;60.00;58.00;1,250;0;2,000
-2012;NM;Monument Plant;Targa Midstream Services, LLC;Targa Midstream Services, LLC;Lea;88265;85.00;51.00;1,222;0;1,000
-2012;NM;Pecos Diamond;DCP Midstream;DCP Midstream;Eddy;88210;40.00;20.00;1,081;0;0
-2012;NM;San Juan Basin Gas Plant;ConocoPhillips;ConocoPhillips;San Juan;87413;550.00;415.00;1,160;0;0
-2012;NM;San Juan Gas Plant;Western Gas Holding Company, LLC;Anadarko Petroleum Corporation, Corp;San Juan;87417;60.00;32.00;1,080;0;3,500
-2012;NM;Saunders Plant;Targa Midstream Services, LLC;Targa Midstream Services, LLC;Lea;88260;70.00;44.00;1,223;0;2,286
-2012;NM;South Carlsbad Dew Point Plant;Enterprise Field Services, LLC;Enterprise Products Operating, LLC;Eddy;88256;200.00;50.00;1,060;0;1,200
-2012;OH;Churchtown Compressor;Cobra Pipeline Company;Cobra Pipeline Company;Washington;45750;2.00;1.40;1,225;0;1,100
-2012;OK;Amber Gas Plant;Lumen Midstream Partnership LLC;Lumen Midstream Partnership LLC;Grady;73004;21.00;11.75;1,130;0;380
-2012;OK;Arapahoe Plant (I and II);MarkWest Oklahoma Gas Company, LLC;MarkWest Oklahoma Gas Company, LLC;Custer;73625;225.00;225.00;1,205;0;0
-2012;OK;Atlas Pipeline Mid-Continent LLC. Velma Gas Plant;Atlas Pipeline Partners;Atlas Pipeline Mid-Continent LLC;Stephens;73491;100.00;100.00;1,228;0;3,729
-2012;OK;Beaver Gas Processing;PVR Partners;PVR Midstream;Beaver;73932;100.00;100.00;1,178;0;2,200
-2012;OK;Binger;Mustang Ventures CO;Mustang Gas Products, LLC;Caddo;73009;15.00;8.00;1,000;0;0
-2012;OK;Binger;Slawson Exploration;Binger Operations LLC;Caddo;73009-0484;16.00;15.00;;0;190
-2012;OK;Burbank Plant;Scissortail Energy LLC;Scissortail Energy LLC;Osage;74633;10.00;6.00;1,175;0;1,700
-2012;OK;Calumet;Enogex Products LLC;Enogex Products LLC;Canadian;73014;250.00;132.99;1,150;0;5,952
-2012;OK;Camrick Gas Plant;Camrick Gas Processing Company LLC;Camrick Gas Processing Company LLC;Beaver;73931;10.00;5.00;;0;500
-2012;OK;Cana Plant;Devon Gas Services LP;Devon Gas Services LP;Canadian;73014;200.00;182.05;1,110;0;6,095
-2012;OK;Canute;Enogex Products LLC;Enogex Products LLC;Washita;73626;60.00;51.17;1,180;0;0
-2012;OK;Cashion Plant;Superior Pipeline Company LLC;Superior Pipeline Company LLC;Logan;73016;51.00;18.00;1,340;1;250
-2012;OK;Chaney Dell Plant;Atlas Pipeline Mid-Continent LLC;Atlas Pipeline Mid-Continent LLC;Major;73768;30.00;28.00;1,150;0;1,532
-2012;OK;Chester Plant;Atlas Pipeline Mid-Continent LLC;Atlas Pipeline Mid-Continent LLC;Woodward;73838;30.00;29.00;1,120;0;0
-2012;OK;Chitwood;DCP Midstream;DCP Midstream;Grady;73067;85.00;80.00;1,225;0;4,000
-2012;OK;Cimarron;DCP Midstream;DCP Midstream;Woodward;73663;65.00;60.00;1,100;0;1,906
-2012;OK;Clinton;Enogex Products LLC;Enogex Products LLC;Custer;73601;120.00;110.52;1,240;0;0
-2012;OK;Coalgate Plant;CenterPoint Energy Field Services, LLC;CenterPoint Energy Field Services, LLC;Coal;74538;15.00;13.00;1,134;0;715
-2012;OK;Cox City;Enogex Products LLC;Enogex Products LLC;Grady;73082;180.00;121.20;1,140;0;3,333
-2012;OK;Crescent;PVR Cherokee Gas Processing LLC;;Logan;73028;25.00;20.00;1,198;0;0
-2012;OK;Custer Plant;Oneok Field Services;Oneok Field Services;Custer;73639;80.00;74.00;1,150;0;550
-2012;OK;Cyril;DCP Midstream;DCP Midstream;Caddo;73017;15.00;13.00;1,080;25;600
-2012;OK;Dover-Hennessey Gas Plant;Mustang Gas Products, LLC;Mustang Gas Products, LLC;Kingfisher;73742;40.00;25.00;1,000;0;600
-2012;OK;Dry Trail;Whiting Oil & Gas Corporation;Whiting Oil & Gas Corporation;Texas;73942;100.00;91.00;180;0;714
-2012;OK;Eagle Chief Plant;Eagle Chief Midstream, LLC;Eagle Chief Midstream, LLC;Alfalfa;73726;28.00;22.00;1,163;0;1,480
-2012;OK;Elk City Gas Plant;Enbridge G & P;;Beckham;73644;130.00;120.00;1,175;0;1,070
-2012;OK;Elmore City;Cimarex Energy Co.;Carrera Gas Companies LLC;Garvin;73433;26.00;16.50;1,249;0;106
-2012;OK;Foss Compressor Station;Seminole Gas Company, LLC;Seminole Gas Company, LLC;Custer;73628;5.60;4.50;1,100;0;428
-2012;OK;Fox Plant;DCP Midstream;DCP Midstream;Carter;73438;23.00;20.00;1,250;0;1,450
-2012;OK;Glenpool (Creek) Plant;Copano/Scissortail Energy LLC;Copano/Scissortail Energy LLC;Tulsa;74033;25.00;6.70;1,146;0;1,500
-2012;OK;Harrah Plant;Scissortail Energy LLC;Scissortail Energy LLC;Lincoln;73045;40.00;15.00;1,210;0;29,525
-2012;OK;Hopeton;SemGas, LP;SemGas, LP;Woods;73731;35.00;35.00;1,134;0;350
-2012;OK;Kingfisher;DCP Midstream;DCP Midstream;Kingfisher;73016;180.00;135.00;1,200;0;3,600
-2012;OK;Leedey Compressor Station and Refrigeration Plant;CenterPoint Energy Gas Transmission Company, LLC;;Custer;73654;7.50;4.00;1,216;0;619
-2012;OK;Leedey Plant;Oneok Field Services;Oneok Field Services;Dewey;73654;50.00;16.00;1,180;0;2,850
-2012;OK;Madill Gas Plant;Madill Gas Processing Co, LLC;Carrera Operating Co, LLC;Marshall;73446;50.00;22.93;1,200;0;3,800
-2012;OK;Matli Plant;Hiland Partners;Hiland Partners LP;Blaine;73772;25.00;12.00;1,140;0;227
-2012;OK;Maysville Plant;Oneok Field Services;Oneok Field Services;Garvin;73057;135.00;110.00;1,295;0;3,230
-2012;OK;Mehan Gas Plant;Tag Petroleum Inc;Tag Petroleum Inc;Payne;74076-1389;3.00;1.50;1,250;0;714
-2012;OK;Milfay Plant;Scissortail Energy LLC;Scissortail Energy LLC;Creek;74079;15.00;8.40;1,169;0;950
-2012;OK;Minco Plant;Superior Pipeline Company LLC;Superior Pipeline Company LLC;Grady;73089;12.00;6.00;1,110;1;0
-2012;OK;Mocane Station;Regency Field Services LLC;Energy Transfer Company;Beaver;73932;55.00;35.00;1,182;0;714
-2012;OK;Mooreland;DCP Midstream;DCP Midstream;Woodward;73852;130.00;100.00;1,180;0;4,117
-2012;OK;Mustang;DCP Midstream;DCP Midstream;Grady;73089;34.00;32.00;1,160;0;1,667
-2012;OK;Nash;SemGas, LP;SemGas, LP;Grant;73761;20.00;15.00;1,147;0;200
-2012;OK;Nine Mile Gas Plant;Enbridge G & P;Enbridge G & P;Dewey;73654;140.00;120.00;1,200;0;1,214
-2012;OK;Northridge Gas Plant;Devon Gas Services LP;Devon Gas Services LP;Hughes;74531;200.00;147.86;1,140;0;5,714
-2012;OK;Okarche Plant;DCP Midstream;DCP Midstream;Kingfisher;73762-9628;165.00;150.00;1,165;0;3,095
-2012;OK;Osage Gas Plant;Lumen Midstream Partnership LLC;Lumen Midstream Partnership LLC;Osage;74637;12.00;6.49;1,330;0;1,285
-2012;OK;Osage Hills Gas Plant;Osage Hills Pipeline Company;Carrera Operating Co, LLC;Osage;74002;5.00;4.00;1,200;0;500
-2012;OK;Paden Plant;Scissortail Energy LLC;Scissortail Energy LLC;Okfuskee;74860;100.00;74.10;1,235;0;1,550
-2012;OK;Panther Creek Plant;Oneok Field Services;Oneok Field Services;Washita;73626;78.00;72.00;1,130;0;750
-2012;OK;Perkins Plant;Superior Pipeline Company LLC;Superior Pipeline Company LLC;Payne;74059;10.00;4.00;1,330;1;250
-2012;OK;Rodman;Mustang Ventures CO;Mustang Gas Products, LLC;Garfield;73773;70.00;63.00;1,190;0;177
-2012;OK;Roger Mills;Enogex Products LLC;Enogex Products LLC;WASHITA;73644;100.00;88.00;1,180;0;0
-2012;OK;Sholem Alechem;DCP Midstream;DCP Midstream;Stephens-Carter;73425;60.00;55.00;1,235;0;0
-2012;OK;South Canadian;Enogex Products LLC;Enogex Products LLC;Custer;73014;200.00;176.09;1,180;0;0
-2012;OK;Southern Dome Plant;Scissortail Energy LLC;Scissortail Energy LLC;Oklahoma;73149;18.00;9.86;1,171;0;3,500
-2012;OK;Stephens Plant;Oneok Field Services;Oneok Field Services;Stephens;73491;30.00;26.00;1,167;0;175
-2012;OK;Sweetwater Plant;Enbridge G & P;;Beckham;93532;180.00;175.00;1,175;0;2,140
-2012;OK;Tecumseh Gas Plant;Enerfin Resources Company;Enerfin Resources I LP;Pottawatomie;76310;16.00;11.49;1,350;0;1,430
-2012;OK;Thomas;Enogex Products LLC;Enogex Products LLC;Custer;73669;150.00;126.79;1,150;0;0
-2012;OK;Timberland Gathering & Proc. Co., Inc.;;;Texas;73951;60.00;15.00;1,030;0;1,137
-2012;OK;Tupelo Gas Processing Plant;Cardinal Arkoma Midstream LLC;Cardinal Arkoma Midstream LLC;Coal;74538;120.00;110.00;1,200;0;4,700
-2012;OK;Waynoka Plant;Atlas Pipeline Mid-Continent LLC;Atlas Pipeline Mid-Continent LLC;Woods;73717;200.00;199.00;1,136;1;0
-2012;OK;Wetumka;Enogex Products LLC;Enogex Products LLC;Hughes;74883;60.00;34.54;1,150;0;2,857
-2012;OK;Woodward Gas Plant;Oneok Partners;Oneok Partners;Woodward;73081;75.00;57.00;1,161;0;1,500
-2012;PA;Grunder Plant;KCS Energy, Inc;KCS Energy, Inc.;Warren;16365;2.00;0.75;1,360;0;1,428
-2012;PA;Houston Plant;MarkWest Liberty Midstream & Resources;MarkWest Liberty Midstream & Resources;Washington;15301;289.25;176.26;1,256;0;77
-2012;PA;Kane Plant;Elkhorn Holdings;Elkhorn Gas Processing LLC;McKean;16735;10.00;9.00;1,185;0;2,900
-2012;PA;Keystone Plant;Elkhorn Holdings;Elkhorn Gas Processing LLC;Warren County;16313;10.00;7.50;1,250;0;1,950
-2012;PA;Lafayette;MSL Oil & Gas Corp;MSL Oil & Gas Corp;McKeen;16738;2.00;1.30;1,360;0;700
-2012;PA;Lewis Run Plant;LRGPP, LP;Elkhorn Gas Processing;Mckean;16701;6.00;5.00;1,300;0;2,140
-2012;PA;Robin Hill Plant;Laurel Mountain Midstream, LLC;Laurel Mountain Midstream, LLC;Washington;15019;18.00;5.00;1,328;0;1,215
-2012;PA;Roystone Plant;Elkhorn Holdings;Elkhorn Gas Processing LLC;McKean;16347;9.00;7.50;1,200;0;2,900
-2012;PA;Stewart Plant;Laurel Mountain Midstream, LLC;Laurel Mountain Midstream, LLC;Washington;15430;18.00;5.00;1,320;0;1,821
-2012;PA;Whitetail Plant;Whitesville Gas Processing;Elkhorn Gas Processing;Elk;17635;5.00;4.50;1,170;0;1,400
-2012;TN;Rogersville Cryogenic Plant;Seminole Gas Company, LLC;Seminole Gas Company, LLC;Hawkins;37857;25.00;19.00;1,200;0;2,857
-2012;TX;Agaritta;Stephens & Johnson Operating Co;Stephens & Johnson Operating Co;Concho;;5.00;0.25;1,200;0;1,714
-2012;TX;Allison Gas Plant;Enbridge Pipelines (Texas Gathering) L.P.;Enbridge Pipelines (Texas Gathering) L.P.;Wheeler;79003;150.00;149.00;1,169;0;0
-2012;TX;Antelope Hills Plant;PVR Partners;PVR Midstream;Hemphill;79104;130.00;130.00;1,165;0;1,200
-2012;TX;Apache Corporation Crane Gas Plant;Apache Corporation;Apache Corporation;Upton;79731;25.00;24.00;1,270;0;0
-2012;TX;Armstrong;Enterprise Hydrocarbons, LP;Enterprise Products Operating, LLC;Dewitt;77995;250.00;229.00;1,201;0;16,142
-2012;TX;Austin Giddings;DCP Midstream;DCP Midstream;Fayette;78945;95.00;90.10;1,218;0;7,238
-2012;TX;Azle Plant;;Crosstex CCNG Processing, Ltd;Parker;76020;50.00;34.00;1,154;0;1,093
-2012;TX;Benedum;;Atlas Pipeline Co;Upton;79755;45.00;45.00;1,320;0;3,571
-2012;TX;Benedum II Plant;Benedum Gas Partners, LP;WTG Benedum Joint Venture;Upton;79755;140.00;115.78;1,228;0;0
-2012;TX;Bleiblerville Facility;Eagle Rock DeSoto Pipeline, L.P.;Eagle Rock DeSoto Pipeline, L.P.;Austin;78931;0.25;0.25;1,142;0;714
-2012;TX;Bridgeport Plant;Devon Energy Corp;Devon Gas Services LP;Wise;76426;650.00;623.00;1,167;0;48,415
-2012;TX;Bridwell River Ranch Gas Plant;Bridwell Oil Company;Bridwell Oil Company;Clay;;2.00;0.30;1,200;0;700
-2012;TX;Brookeland Gas Plant;Eagle Rock Operating, L.P.;Eagle Rock Operating, L.P.;Jasper;75931;100.00;64.00;1,160;0;710
-2012;TX;CGU Cordona Lake Plant;XTO Energy Inc;XTO Energy Inc;Crane;79731;10.00;2.80;754;0;443
-2012;TX;CIPCO Supersystem;DCP Southeast Texas Plants;DCP Midstream;Jefferson;77640;400.00;320.00;1,143;1;62,115
-2012;TX;Canadian Plant;Eagle Rock Field Services, L.P.;Eagle Rock Field Services, L.P.;Hemphill;79014;25.00;24.10;1,240;0;700
-2012;TX;Cargray Plant;Eagle Rock Energy Services, L.P.;Eagle Rock Energy Services, L.P.;Carson;79097;25.00;17.51;1,410;0;25,747
-2012;TX;Carthage Gas Plant;MarkWest Energy Partners LLC;MarkWest Energy Partners, LLC;Panola;75633;280.00;260.00;1,145;0;0
-2012;TX;Cedar Hill Gas Plant;Davis Gas Processing, Inc.;Davis Gas Processing, Inc.;GARZA;79356;8.00;1.32;1,309;0;750
-2012;TX;Chapel Hill Gas Plant;Costar Midstream LLC;Gas Solutions II Ltd;Smith;75792;25.00;19.00;1,070;0;4,850
-2012;TX;Chico Plant;Targa Midstream Services, LLC;Targa Midstream Services, LLC;Wise;76431;265.00;240.00;1,188;0;17,383
-2012;TX;Chisholm Plant;Energy Transfer;Energy Transfer;Fayette;78945;120.00;120.00;1,275;0;1,000
-2012;TX;Concho Gas Plant;Davis Gas Processing, Inc.;Davis Gas Processing, Inc.;Concho;76866;10.00;1.71;1,157;0;1,500
-2012;TX;Conger Plant;Targa Resources;Targa Resources;Sterling;76951;25.00;18.00;1,318;0;714
-2012;TX;Conroe Plant;Southcross Energy GP LLC;Southcross Gathering Ltd.;Montgomery;77302;36.00;22.00;1,080;0;230
-2012;TX;Cowtown/Corvette Plant;Cowtown Gas Processing Partners LP;Cowtown Gas Processing Partners LP;Hood;76033;300.00;132.00;1,230;0;7,857
-2012;TX;Coyanosa;Energy Transfer Equity, LP;Southern Union Gas Services, LTD;Pecos;79730;130.00;95.00;1,160;0;0
-2012;TX;Crossroads;PVR East Texas Gas Processing LLC;;Harrison;75672;80.00;50.00;1,120;0;0
-2012;TX;Delmita Gas Plant;Enterprise Hydrocarbons, LP;Enterprise Products Operating, LLC;Starr;78536;130.00;117.00;1,135;0;700
-2012;TX;Denver Unit CO2 Recovery Plant;Occidental Permian Ltd;Occidental Permian Ltd;Yoakum;79323;290.00;279.00;300;0;90,000
-2012;TX;Dollarhide Gas Plant;Chevron Production Company;Chevron Production Company;Andrews;79714;56.00;56.00;250;0;7,000
-2012;TX;Duncan Gas Processing Plant;Enterprise Gathering, LLC;Enterprise Gathering, LLC;Rusk;75652;40.00;30.00;1,098;0;714
-2012;TX;East Texas;DCP East Texas Gathering;DCP Midstream;Panola;75631;1,000.00;710.00;1,128;0;185,000
-2012;TX;East Texas(Avinger);Enbridge G & P (East Texas) L.P.;Enbridge G & P (East Texas) L.P.;Cass;75560;85.00;83.00;1,082;0;1,000
-2012;TX;East Vealmoor Plant;West Texas Gas Gas Processing, LP;West Texas Gas Gas Processing, LP;Martin;79511;46.00;45.79;1,407;0;750
-2012;TX;Electra Gas Plant;Halcon Operating Co., Inc.;Halcon Operating Co., Inc.;Wilbarger;76360;1.00;1.00;1,800;0;1,142
-2012;TX;Enbridge Hobart Ranch Gas Plant;Enbridge Pipelines (Texas Gathering) L.P.;Enbridge Pipelines (Texas Gathering) L.P.;Hemphill;79014;125.00;91.00;1,140;0;0
-2012;TX;Eustace Gas Plant;Tristream East Texas LLC;Tristream East Texas LLC;Henderson;75124;58.00;31.00;822;0;312
-2012;TX;Fain Gas Plant;Pioneer Natural Resources;Pioneer Natural Resources;Potter;79058;140.00;65.00;1,360;0;3,048
-2012;TX;Fairway Gas Plant;ExxonMobil Corporation;Hunt Oil Company;Henderson;75782;88.00;48.00;1,123;0;1,083
-2012;TX;Formosa Hydrocarbons Company;Formosa Hydrocarbons Company;Formosa Hydrocarbons Co Inc;Calhoun;77978;146.86;115.76;1,120;0;0
-2012;TX;Fullerton;DCP Midstream;DCP Midstream;Andrews;79714;75.00;72.00;1,380;0;2,014
-2012;TX;Gilmore Gas Plant;Enterprise Hydrocarbons, LP;Enterprise Products Operating, LLC;Hidalgo;78541;265.00;225.00;1,140;0;900
-2012;TX;Godley Plant;Energy Transfer;Energy Transfer;Johnson;76044;590.00;400.00;1,188;0;3,000
-2012;TX;Goforth Plant;;Crosstex CCNG Processing, Ltd;Parker;76126;30.00;24.00;1,213;0;75
-2012;TX;Goldsmith;DCP Midstream;DCP Midstream;Ector;79741;65.00;60.00;1,325;0;9,000
-2012;TX;Gomez Plant;Hoover Energy Partners LLC;Hoover Energy Partners  LLC;Pecos;79735;100.00;70.00;900;0;210
-2012;TX;Gordon;Enbridge G & P (North Texas) L.P.;Enbridge G & P (North Texas) L.P.;Palo Pinto;76453;40.00;25.00;1,250;0;3,600
-2012;TX;Gray County Plant;Eagle Rock Field Services, L.P.;Eagle Rock Field Services, L.P.;Gray;79065;20.00;14.36;1,425;0;0
-2012;TX;Gregory;Southcross Energy GP LLC;Southcross Gathering Ltd.;San Patricio;78359;100.00;85.00;1,106;0;6,428
-2012;TX;Grey Badger;Midstream Energy Services, LLC;Midstream Energy Services, LLC;CARSON;79068;25.00;15.00;1,300;0;2,800
-2012;TX;Gulf Plains Gas Plant;DCP Midstream;DCP Midstream;Nueces;78343;170.00;143.00;1,200;0;3,475
-2012;TX;Hainesville Gas Plant;Hainesville Gas Gathering Corporation;Energy Production Corporation;Wood;75773;16.00;2.00;1,200;0;2,227
-2012;TX;Halley;Energy Transfer Equity, LP;Southern Union Gas Services, LTD;Winkler;79745;110.00;43.02;1,228;0;0
-2012;TX;Hamlin;PVR Hamlin LLC;PVR Midstream;Fisher;79520;8.00;6.80;1,360;0;0
-2012;TX;Hanover Reinecke;Exterran;Exterran;Borden;79511;50.00;45.00;275;0;0
-2012;TX;Hawkins Gas Plant;ExxonMobil Corporation;ExxonMobil Corporation;Wood;75765;180.00;160.00;445;0;0
-2012;TX;Headlee;Chevron;Four Star Oil & Gas;Ector;79762;100.00;45.00;1,330;0;1,820
-2012;TX;Hemphill (aka Hemploma) Gas Plant;BP America Production Company;BP America Production Company;Hemphill;79014;50.00;41.09;1,260;0;0
-2012;TX;Hemphill Plant (A, B, C, and D);Superior Pipeline Texas LLC;Superior Pipeline Texas LLC;Hemphill;79014;115.00;90.00;1,190;2;1,700
-2012;TX;Henderson;Enbridge G & P (East Texas) L.P.;Enbridge G & P (East Texas) L.P.;Rusk;75654;280.00;130.00;1,084;0;600
-2012;TX;Hidetown Plant;Enbridge Pipelines (Texas Gathering) L.P.;Enbridge Pipelines (Texas Gathering) L.P.;Wheeler;79096;132.00;132.00;1,121;0;833
-2012;TX;Hobart Cryo Plant;Enbridge Pipelines (Texas Gathering) L.P.;Enbridge Pipelines (Texas Gathering) L.P.;Hemphill;79014;30.00;30.00;1,176;0;1,000
-2012;TX;Horn Compressor Station;Seminole Gas Company, LLC;Seminole Gas Company, LLC;Hemphill;79061;0.50;0.50;1,100;0;285
-2012;TX;Houston Central Plant;;Copano;Colorado;77475;623.89;623.89;1,150;0;21,097
-2012;TX;Huckabay;Enbridge G & P (North Texas) L.P.;Enbridge G & P (North Texas) L.P.;Erath;76401;20.00;19.00;1,220;0;1,833
-2012;TX;Indian Creek Plant;Crestwood Panhandle Pipeline LLC;Crestwood Panhandle Pipeline LLC;Roberts;79069;36.00;16.00;1,200;0;1,109
-2012;TX;Indian Mound;Advance NGL, Inc.;Advance NGL, Inc.;Young;76450;0.21;0.20;;0;1,429
-2012;TX;Indian Springs Gas Plant;Teco Gas Processing LLC;Enterprise Products Operating LLC;Polk;77351;146.00;125.00;1,160;0;1,068
-2012;TX;Irion County Plant;Davis Gas Processing, Inc.;Davis Gas Processing, Inc.;IRION;76930;16.00;8.30;1,300;0;1,500
-2012;TX;Jameson Plant;WTG Jameson, LP;WTG Gas Processing, LP;Coke;76949;35.00;29.37;1,381;0;11,000
-2012;TX;Joaquin Plant;CenterPoint Energy Field Services, LLC;CenterPoint Energy Field Services, LLC;Shelby;75954;30.00;8.00;1,045;0;1,190
-2012;TX;Johnson State;Chesapeake Energy;Chesapeake Midstream Partners;Reeves;79718;0.50;0.18;1,230;0;816
-2012;TX;KELTON GAS PLANT;KELTON GAS SERVICES - LLC;AKA - FRONTIER FIELD SERVICES;USA;79096;90.00;32.00;1,200;0;1,200
-2012;TX;Keystone;Energy Transfer Equity, LP;Southern Union Gas Services, LTD;Winkler;79745;135.00;104.90;1,234;0;0
-2012;TX;King Ranch Gas Plant;ExxonMobil Production Company;ExxonMobil Production Company;Kleburg;78363;800.00;550.00;1,052;0;160,000
-2012;TX;Kripple Kreek Gas Plant;Pecan Pipeline Company;Pecan Pipeline Company;Montague;76230;120.00;91.40;1,189;0;8,571
-2012;TX;La Gloria;DCP Midstream;DCP Midstream;Jim Wells;78355;265.00;160.00;1,130;0;34,120
-2012;TX;LaGrange Plant;Energy Transfer;Energy Transfer;Fayette;78945;205.00;150.00;1,275;0;1,700
-2012;TX;Lefors Plant;Eagle Rock Energy Services, L.P.;Eagle Rock Energy Services, L.P.;Gray;79054;7.50;5.70;1,290;0;3,316
-2012;TX;Little Buffalo Basin;;Citation Oil & Gas;Harris;77069;1.30;0.54;1,410;0;381
-2012;TX;Lone Camp;Enbridge G & P (North Texas) L.P.;Enbridge G & P (North Texas) L.P.;Palo Pinto;76453;40.00;30.00;1,250;0;714
-2012;TX;Longhorn Gas Plant;Enerfin Resources Company;Enerfin Resources II-92 LP;Archer;76310;1.50;0.45;1,298;0;998
-2012;TX;Longview;Enbridge G & P (East Texas) L.P.;Enbridge G & P (East Texas) L.P.;Gregg;75603;120.00;106.00;1,050;0;400
-2012;TX;Longview Gas Plant;Costar Midstream LLC;Gas Solutions II Ltd;Gregg;75604;50.00;20.00;1,270;0;7,850
-2012;TX;Luling Gas Plant;Davis Gas Processing, Inc;Davis Gas Processing, Inc;Caldwell;78661;12.00;1.22;1,223;0;350
-2012;TX;Markham Gas Processing Plant;Williams Field Services-Gulf Coast Company LP;Williams Field Services-Gulf Coast Company LP;Matagorda;77456;500.00;326.00;1,124;0;0
-2012;TX;Markley Plant;;W. W. Sub, Inc;Jack & Young;76459;4.00;0.03;1,140;0;500
-2012;TX;McCormick Gas Processing Plant;Enterprise Gathering, LLC;Enterprise Gathering, LLC;Panola;75631;22.00;8.00;1,068;0;523
-2012;TX;McLean Plant;McLean Gas Processing Company, LLC;Carrera Operating Company, LLC;Gray;79057;25.00;12.00;1,200;0;300
-2012;TX;McMullen;;Houston Pipeline;McMullen;78072;4.50;3.20;1,387;0;760
-2012;TX;Mertzon Plant;Targa Resources;Targa Resources;Irion;76941;52.00;44.90;1,239;0;7,658
-2012;TX;MidMar;MidMar Gas LLC;Feagan Gathering Company;Andrews;79714;75.00;70.00;1,350;0;1,000
-2012;TX;Midkiff;;Atlas Pipeline Co;Midland;79755;210.00;210.00;1,340;0;5,142
-2012;TX;Mitchell Puckett;Hoover Energy Partners LLC;Hoover Energy Partners LLC;Pecos;79735;80.00;14.00;740;0;500
-2012;TX;Mount Pearl Gas Plant;;Citation Oil & Gas;Harris;77069;10.00;2.60;1,227;0;1,429
-2012;TX;Neches Field Plant;Quantum Resources Management, LLC;Quantum Resources Management, LLC;Cherokee;75766;1.00;0.85;1,389;0;600
-2012;TX;Neleh Gas System;Davis Gas Processing, Inc.;Davis Gas Processing, Inc.;Upton;79752;5.00;1.69;1,330;0;750
-2012;TX;New Hope;Enbridge G & P (East Texas) L.P.;Enbridge G & P (East Texas) L.P.;Franklin;75163;10.00;7.50;977;0;5,430
-2012;TX;North Fayette Treating Plant;Chaparral Resources LLC;Chaparral Energy, LLC;Fayette;78942;10.00;1.20;1,110;0;0
-2012;TX;OSR-Halliday Unit Gathering System;Woodbine Production Corp;Woodbine Production Corp;Madison;77864;1.80;1.80;1,200;0;1,800
-2012;TX;Old Ocean;Arrowhead Pipeline L.P.;Harvest Pipeline Company;Brazoria;77480;180.00;135.00;1,120;0;6,000
-2012;TX;Osborne Plant;Enbridge Pipelines (Texas Gathering) L.P.;Enbridge Pipelines (Texas Gathering) L.P.;Roberts;79059;25.00;16.00;1,236;0;476
-2012;TX;Oxy Block31 Plant;Occidental Petroleum;Occidental Petroleum;Crane;79731;100.00;58.00;548;0;0
-2012;TX;Ozona;Chevron;Chevron;Crockett;76943;32.00;17.90;1,235;0;648
-2012;TX;Ozona Gas Processing Plant Partnership;DCP Midstream;DCP Midstream;Cockett;76943-1029;120.00;85.00;1,160;0;15,833
-2012;TX;Panhandle Superplant;DCP Midstream;DCP Midstream;;;475.00;343.00;1,200;0;20,307
-2012;TX;Pantex Plant;Phillips 66;WRB Borger Refinery;Hutchinson;79008;0.10;0.10;1,500;0;0
-2012;TX;Pegasus Plant;DCP Midstream;DCP Midstream;Midland;79755;100.00;81.90;1,287;0;43
-2012;TX;Phoenix Arrington Ranch Plant;Eagle Rock Energy Services, L.P.;Eagle Rock Energy Services, L.P.;Hemphill;79014;80.00;62.00;1,180;0;575
-2012;TX;Pineview Gas Plant;;Citation Oil & Gas;Harris;77069;2.00;1.00;;0;5,000
-2012;TX;Ranger;;Ranger Gas Gath LLC;;76470-0079;8.50;4.80;1,350;0;714
-2012;TX;Red Deer Plant;Eagle Rock Field Services, L.P.;Eagle Rock Field Services, L.P.;Roberts;79014;25.00;22.00;1,250;0;215
-2012;TX;Reklaw (Limerock Facility);Eagle Rock DeSoto Pipeline, L.P.;Eagle Rock DeSoto Pipeline, L.P.;Rusk;75784;1.50;1.50;981;0;250
-2012;TX;Roberts County Plant;Eagle Rock Field Services, L.P.;Eagle Rock Field Services, L.P.;Roberts;79059;25.00;11.00;1,150;0;1,428
-2012;TX;Roberts Ranch;DCP Midstream;DCP Midstream;Midland;79766;70.00;70.00;1,100;0;362
-2012;TX;Rosewood Dew Point Facility;EROC Gathering Company, LP;EROC Gathering Company, LP;Upshur;75644;13.00;5.50;702;0;452
-2012;TX;Saint Jo Processing Plant;Copano Field Services/North Texas, LLC;Copano Field Services/North Texas, LLC;Montague;76251;104.00;64.00;1,141;0;571
-2012;TX;Sale Ranch Gas Plant;West Texas Gas Gas Processing, LP;West Texas Gas Gas Processing, LP;MARTIN;79782;35.00;30.40;1,358;0;750
-2012;TX;San Martin Plant;Enterprise Hydrocarbons, LP;Enterprise Products Operating, LLC;Bexar;78112;200.00;145.00;1,251;0;0
-2012;TX;Sand Hills Complex;Targa Midstream Services, LLC;Targa Midstream Services, LLC;Crane;79731;150.00;140.00;1,200;0;490
-2012;TX;Seminole Gas Plant;Oxy USA Inc - Permian;Hess Corporation;Gaines;79360;280.00;256.76;156;0;9,600
-2012;TX;Shackelford;Targa Midstream Services, LLC;Targa Midstream Services, LLC;Shackelford;76430;15.00;9.00;1,308;0;4,528
-2012;TX;Shackelford Plant;DGP Taurus GP Holding, LLC;DGP Taurus Field Services, LP;Eastland;76437;15.00;5.13;1,250;0;750
-2012;TX;Shamburger Lake Plant;Valence Operating Company;Valence Operating Company;SMITH;75706;2.00;0.08;1,250;0;355
-2012;TX;Sherman;SemGas, LP;SemGas, LP;Grayson;75092;20.00;17.00;1,240;0;750
-2012;TX;Shilling Gas Plant;Enterprise Hydrocarbons, LP;Enterprise Products Operating, LLC;Webb;78357-2032;110.00;110.00;1,200;0;0
-2012;TX;Shoup Gas Plant;Enterprise Hydrocarbons, LP;Enterprise Products Operating, LLC;Nueces;78410;285.00;255.00;1,120;0;1,700
-2012;TX;Silver Creek Plant;;Crosstex CCNG Processing, Ltd;Parker;76087;200.00;165.00;1,158;1;1,023
-2012;TX;Slaughter Gasoline Plant;Oxy;Oxy Permian;Hockley;79372;35.00;30.00;1,400;0;562,500
-2012;TX;Slaughter Gasoline Plant (Mallet);Oxy;Oxy Permian;Hockley;79372;335.00;335.00;1,250;0;2,200
-2012;TX;Snyder Gasoline Plant;ExxonMobil Corporation;Kinder Morgan CO2;Scurry;79549;90.00;51.72;1,150;0;1,000
-2012;TX;Sonora Plant;Enterprise Hydrocarbons, LP;Enterprise Products Operating, LLC;Sutton;76950;120.00;95.00;1,141;0;750
-2012;TX;Southwest Ozona;DCP Midstream;DCP Midstream;Crockett;76943;100.00;85.00;1,160;0;1,429
-2012;TX;Spearman Plant;PVR Gas Processing LLC;PVR Gas Processing LLC;Ochiltree;79104;100.00;100.00;1,158;0;1,300
-2012;TX;Spraberry;DCP Midstream;DCP Midstream;Midland;79706;60.00;60.00;1,300;0;9,500
-2012;TX;Springtown Processing plant;Enbridge G & P;Enbridge G & P;Parker;76082;65.00;55.00;1,250;0;0
-2012;TX;Sterling Plant;Targa Resources;Targa Resources;Sterling;76951;62.00;58.00;1,250;0;1,610
-2012;TX;Stockman Plant;CenterPoint Energy Field Services, LLC;CenterPoint Energy Field Services, LLC;Shelby;75935;15.00;2.00;1,057;0;715
-2012;TX;Sunray Gas Plant;BP America Production Company;BP America Production Company;Moore;79029;189.00;118.00;1,180;0;0
-2012;TX;Sutton Sonora Plant;DCP Midstream;DCP Midstream;Sutton;76493;62.00;62.00;1,175;0;4,523
-2012;TX;Sweetwater Creek Plant;J-W Pipeline Company;J-W Pipeline Company;Wise;76234;40.00;18.00;1,140;0;2,860
-2012;TX;Texas City Processing Plant;Kinder Morgan Tejas Pipeline LLC;Kinder Morgan Tejas Pipeline LLC;Galveston;77590;40.00;40.00;1,085;0;600
-2012;TX;Thompsonville Gas Plant;Enterprise Hydrocarbons, LP;Enterprise Products Operating, LLC;Jim Hogg;77369;330.00;305.00;1,140;0;0
-2012;TX;Three Rivers;DCP Midstream;DCP Midstream;Live Oak;78022;95.00;85.00;1,155;0;1,380
-2012;TX;Tippett;Energy Transfer Equity, LP;Southern Union Gas Services, LTD;Crockett;79752;60.00;56.00;1,140;0;0
-2012;TX;Tolar;DCP Tolar Gas Service;DCP Midstream;Hood;76476;80.00;40.00;940;0;2,571
-2012;TX;Tract 75 Gas Plant;Kinder Morgan;Kinder Morgan;;79744;110.00;67.00;314;0;700
-2012;TX;Trinidad;Enbridge G & P (East Texas) L.P.;Enbridge G & P (East Texas) L.P.;Henderson;75163;65.00;51.80;1,042;0;714
-2012;TX;Tyler Gas Plant;J-W Gathering Company;J-W Gathering Company;Smith;75704;1.50;0.90;1,102;0;1,000
-2012;TX;Van Plant;UNOCAL-CNAEP;UNOCAL-CNAEP;Van Zandt;75790;5.00;1.00;1,370;0;0
-2012;TX;WPMT NGL;Occidental Permian Ltd;Occidental Permian Ltd;Yoakum;79323;35.00;18.00;1,100;0;0
-2012;TX;Waha Plant;Regency Field Services LLC;Energy Transfer Company;Pecos;79730;120.00;87.00;1,072;0;250
-2012;TX;Waskom Gas Processing;Prism Gas Systems I, LP;Prism Gas Systems I, LP;Harrison;75692;320.00;250.00;1,090;0;38,500
-2012;TX;Wasson ODC Unit CO2 Removal Plant;Occidental Permian Ltd;Occidental Permian Ltd;Yoakum;79323;100.00;96.84;170;0;4,095
-2012;TX;Weatherford;Enbridge G & P (North Texas) L.P.;;Parker;76088;70.00;65.00;;0;430
-2012;TX;West Johnson County Plant;Devon Energy Corp;Devon Gas Services LP;Johnson;76044;100.00;79.34;1,068;0;4,296
-2012;TX;Wilcox Gas Plant;DCP Midstream;DCP Midstream;Lavaca;77964;240.00;188.00;1,102;0;9,857
-2012;TX;Willard CO2 Recovery Plant;Oxy USA WTP;Oxy USA WTP;Yoakum;79323;90.00;80.00;160;0;1,310
-2012;TX;Woodall Plant;Eagle Rock Field Services, L.P.;Eagle Rock Field Services, L.P.;Hemphill;79011;60.00;40.00;1,200;0;3,500
-2012;TX;Worsham-Steed Cryogenic Gas Plant;NorTex Midstream Partners, LLC;Worsham-Steed Gas Storage, LLC;Jack;76486;60.00;53.00;1,027;0;0
-2012;TX;Yates Gas Plant;Kinder Morgan;Kinder Morgan;Pecos;79744;70.00;50.00;312;0;1,048
-2012;TX;Yoakum Gas Processing Plant;Enterprise Hydrocarbons, LP;Enterprise Products Operating, LLC;Lavaca;77995;300.00;300.00;1,250;0;0
-2012;TX;Zybach;Enbridge Pipelines (Texas Gathering) L.P.;Enbridge Pipelines (Texas Gathering) L.P.;Wheeler;79011;164.00;164.00;1,169;0;952
-2012;UT;Altamont Gas Plant;El Paso Midstream Investment Company, LLC;El Paso Midstream Investment Company, LLC;Duchesne;84001;60.00;40.00;1,200;0;22,476
-2012;UT;Brundage Gas Plant;Berry Petroleum Company;Berry Petroleum Company;Duchesne;;30.00;24.00;1,150;0;2,500
-2012;UT;Chipeta Plant;Western Gas Partners, LP;Western Gas Partners, LP;Uintah;84078;750.00;600.00;1,106;0;34,285
-2012;UT;Grand Gas Gathering Plant;Cisco Dome, LLC;;Grand;84515;0.80;0.25;1,098;0;360
-2012;UT;Harley Dome;ETC Canyon Pipelines LLC;Energy Transfer;Grand;84540;30.00;20.00;1,067;0;714
-2012;UT;Ironhorse Gas Plant;QEP Field Services Company;QEP Field Services Company;Uintah;84078;150.00;146.00;1,140;0;0
-2012;UT;Kastler Dew Point Plant;Questar Pipeline Company;Questar Pipeline Company;Daggett;84023;300.00;24.30;1,055;0;2,143
-2012;UT;Lisbon Gas Plant;Patara Oil & Gas, LLC;Patara Oil & Gas, LLC;San Juan;84530;60.00;20.00;990;0;20,000
-2012;UT;Monument Butte Plant;Newfield Rocky Mountain Inc;Newfield Rocky Mountain Inc;Duchesne;84052;22.00;18.00;1,195;0;1,430
-2012;UT;Pleasant Valley Compressor Station;Newfield Exploration Co;Newfield Production Co;Duchesne;84052;20.00;18.00;1,220;0;429
-2012;UT;Price Chiller Skids;Questar Field Services;Questar Pipeline Company;Carbon;84501;45.00;40.70;1,077;0;714
-2012;UT;Price Dew Point Plant;Questar Pipeline Company;Questar Pipeline Company;Carbon;84501;120.00;28.50;1,053;0;1,428
-2012;UT;Price Raptor Plant;Questar Field Services;Questar Pipeline Company;Carbon;84501;130.00;130.00;1,077;0;2,857
-2012;UT;Red Wash Gas Plant;QEP Field Services Company;QEP Field Services Company;Uintah;84078;160.00;82.00;1,110;0;3,173
-2012;UT;Skull Creek Dew Point;Questar Pipeline Company;Questar Pipeline Company;Moffat;81625;45.00;34.60;1,118;0;1,428
-2012;UT;Stagecoach Gas Plant;QEP Field Services Company;QEP Field Services Company;Uintah;84078;200.00;115.00;1,100;0;4,571
-2012;WV;Cobb;Markwest Energy Appalacia, LLC;Markwest Energy Appalacia, LLC;Kenewha;25045;65.00;35.00;1,240;0;0
-2012;WV;Copley Gas Plant;Dominion Transmission, Inc.;Dominion Transmission, Inc.;Lewis;26452;35.00;28.00;1,180;0;2,514
-2012;WV;Hastings Extraction Plant;Dominion Transmission, Inc.;Dominion Transmission, Inc.;Wetzel;26419;180.00;160.00;1,241;0;0
-2012;WV;Holden;Chesapeake Appalachia LLC;Greystar Corporation;Logan;25625;11.00;5.50;1,269;0;2,853
-2012;WV;Hurricane Gas Processing Plant;East Resources;Elkhorn Gas Processing;Putham;25526;10.00;6.00;1,260;0;2,900
-2012;WV;Kenova;Markwest Energy Appalacia, LLC;Markwest Energy Appalacia, LLC;Wayne;25530;160.00;108.00;1,238;0;0
-2012;WV;Kermit;MarkWest Hydrocarbons;Greystar Corporation;Mingo;25674;40.00;23.50;1,276;0;714
-2012;WV;Lightburn Extraction Plant;Dominion Transmission, Inc.;Dominion Transmission, Inc.;Lewis;26378;44.00;35.00;1,178;0;5,028
-2012;WV;MarkWest Majorsville Cryo Plant;MarkWest Energy;MarkWest;Marshal;26036;270.00;185.00;1,250;0;0
-2012;WV;Smokehouse;Chesapeake Operating Inc.;Chesapeake Operating Inc.;Logan;25508;15.00;5.40;1,220;0;1,429
-2012;WV;West Union Gas Plant;Dominion Transmission, Inc.;Dominion Transmission, Inc.;Doddridge;26456;15.00;10.00;1,220;0;1,885
-2012;WY;Anschutz Ranch East;Merit Energy Company;Merit Energy Company;Uinta;82930;55.00;11.00;1,026;0;10,000
-2012;WY;Austin Creek Gas Plant;Legacy Reserves Operating, LP;Legacy Reserves Operating, LP;Natrona;82604;3.00;3.00;1,175;0;800
-2012;WY;Bairoil CO2 Plant;Merit Energy Company;Merit Energy Company;Sweetwater;82322;143.00;142.00;80;0;5,700
-2012;WY;Beaver Creek Plant;Devon Gas Services LP;Devon Gas Services LP;Fremont;82501;55.00;26.60;1,100;0;4,948
-2012;WY;Bison Treating Facility;Western Gas Partners, LP;Western Gas Partners, LP;Campbell;82718;270.00;270.00;935;0;0
-2012;WY;Blacks Fork Gas Plant (I and II);QEP Field Services;QEP Field Services;Sweetwater;82934;705.00;402.00;1,086;0;22,285
-2012;WY;Carter Creek Gas Plant;Chevron;Chevron;Uinta;82930;150.00;68.00;1,018;0;0
-2012;WY;Casper Plant;KM Upstream LLC;;Natrona;82604;65.00;40.90;1,130;0;8,970
-2012;WY;Douglas;KM Upstream LLC;;Converse;82633;140.00;75.85;1,160;0;15,650
-2012;WY;Echo Springs Gas Plant;Williams;Williams Midstream Services, LLC;Carbon;82336;745.00;600.00;1,150;0;0
-2012;WY;Elk Basin Gasoline Plant;Encore Energy Partners Operating LLC;Encore Energy Partners Operating LLC;Park;82435;13.00;12.50;255;0;10,666
-2012;WY;Emigrant Trail Gas Plant;QEP Field Services;QEP Field Services;Uinta;82937;55.00;50.00;1,148;0;2,800
-2012;WY;Fort Union Medicine Bow Treating Facility;Crestone Energy Ventures LLC;Western Gas Partners, LP;converse;82633;340.00;300.00;960;0;0
-2012;WY;Garland Gas Plant;Marathon Oil Company;Marathon Oil Company;Park;82412;4.00;1.00;1,130;0;572
-2012;WY;Granger Gas Plant;Anadarko Petroleum Corp;Anadarko Petroleum Corp;Sweetwater;82935;500.00;200.00;1,100;0;25,000
-2012;WY;Highlight Complex;Western Gas Partners, LP;Western Gas Partners, LP;Campbell;82718;45.00;32.50;1,275;0;13,725
-2012;WY;Lost Cabin Gas Plant;ConocoPhillips (Burlington Resources);ConocoPhillips;Fremont;82642;355.00;295.00;980;0;0
-2012;WY;Newcastle Complex;Western Gas Partners, LP;Western Gas Partners, LP;Weston;82710;3.00;2.50;1,550;0;4,005
-2012;WY;Opal Gas Plant;WIlliams;Williams Midstream Services, LLC;Lincoln;83124;1,480.00;1,472.00;1,300;0;37,000
-2012;WY;Oregon Basin Gas Plant;Marathon Oil Company;Marathon Oil Company;Park;82414;6.00;5.00;929;0;952
-2012;WY;Painter;Merit Energy Company;Merit Energy Company;Uinta;82931;270.00;235.00;727;0;13,000
-2012;WY;Patrick Draw Gas Plant;Western Gas Partners, LP;Western Gas Partners, LP;Sweetwater;82901;130.00;85.00;1,100;0;24,500
-2012;WY;Pavillion Gas Plant;Encana Oil & Gas (USA) Inc.;Encana Oil & Gas (USA) Inc.;Fremont;82523;80.00;14.50;1,078;0;2,850
-2012;WY;Phosphoria Gasoline Plant;Devon Gas Services LP;Devon Gas Services LP;Fremont;82501;4.00;2.00;1,244;0;0
-2012;WY;Pioneer Cryogenic Plant;Enterprise Gas Processing, LLC;Enterprise Gas Processing, LLC;Lincoln;83124;750.00;590.00;1,090;0;0
-2012;WY;Pioneer Silica Gel Plant;Enterprise Gas Processing, LLC;Enterprise Gas Processing, LLC;Lincoln;83124;600.00;8.00;1,090;0;5,000
-2012;WY;Rawlins;Colorado Interstate Gas Company, LLC;Colorado Interstate Gas Company, LLC;Carbon;82334;220.00;97.60;1,066;0;23,879
-2012;WY;Sage Creek Gas Plant;Merit Energy Company;Merit Energy Company;Converse;82637;30.00;7.00;1,500;0;4,000
-2012;WY;Shute Creek Treating Facility;ExxonMobil Production Company;ExxonMobil Production Company;Lincoln/Sweetwater;83101;690.00;145.00;240;0;0
-2012;WY;Silo Gas Plant;Kaiser Francis Oil Company;Kaiser Francis Oil Company;Laramie;82009;3.50;0.68;1,370;0;1,428
-2012;WY;Silvertip Processing Plant;Fidelity Exploration and Production Co;Fidelity Exploration and Production Co;Park;82435;10.00;4.60;1,315;0;2,143
-2012;WY;Sugarloaf Plant;Windsor Energy Group;Windsor Energy Group;Park County;82435;0.86;0.74;1,120;0;1,143
-2012;WY;Table Rock Gas Plant;Chevron USA, Inc.;Chevron USA, Inc.;Sweetwater;82901;47.00;12.00;867;0;1,000
-2012;WY;Vermillion Gas Plant;QEP Field Services;QEP Field Services;Sweetwater;82934;50.00;49.00;1,118;0;685
-2012;WY;Worland Plant;Devon Energy Corp;Devon Energy Corp;Washakie;82401;20.00;7.00;1,340;0;5,000
-2012;WY;Worland Plant;Washakie Midstream Services LLC;Washakie Midstream Services LLC;Washakie;82401;6.00;1.20;1,248;0;4,057
-2012;WY;YU Bench;Saga Petroleum, LLC;Saga Petroleum LLC;Park;82414;5.00;1.30;1,270;0;715
-
+Capacity",lonlats
+0,2012.0,AL,Atmore Plant,"American Midstream (Mississippi), LLC",American Midstream,Escambia,36502,3.00,1.15,"1,218",0.0,429,"[-87.5000082, 31.101077]"
+1,2012.0,AL,Big Escambia Creek,"Escambia Operating Company, LLC","Eagle Rock Energy G & P, LLC",Escambia,36502,50.00,48.00,900,0.0,"34,000","[-87.5000082, 31.101077]"
+2,2012.0,AL,Castleberry Plant,,"Gas Processors, Inc",Conecuh,36432,9.50,8.50,"1,427",0.0,"2,850","[-87.0824045, 31.2982897]"
+3,2012.0,AL,Chatom Plant,,"Quantum Resources Management, LLC",Washington,36518,25.00,13.80,117,0.0,"7,650","[-88.3433623, 31.4578061]"
+4,2012.0,AL,Chunchula Gas Plant,Chevron Corporation,Chevron Corporation,Mobile,36521,40.00,15.60,"1,079",0.0,"15,833","[-88.1876676, 30.9520403]"
+5,2012.0,AL,Dogwood Oaks Plant,Plains Gas Solutions,"CDM MAX, LLC",Escambia,36426,4.00,4.00,"1,000",0.0,"1,000","[-87.0224442, 31.0909734]"
+6,2012.0,AL,Gordo BWB Compressor & Processing Plant,Samson Resources,Samson Resources,Pickens,35466,5.00,4.00,"1,120",0.0,714,"[-87.89424509999999, 33.2859551]"
+7,2012.0,AL,Hatters Pond Gas Plant,Four Star Oil and Gas Company,Chevron Corporation,Mobile,36525-4830,60.00,20.58,"1,300",0.0,"16,317","[-87.9824758, 30.8686947]"
+8,2012.0,AL,Lufkin Plant,Hilcorp Energy Company,Hilcorp Energy Company,Hilcorp Energy Company,36445,5.00,1.00,"1,400",0.0,"1,000","[-87.5000082, 31.4670212]"
+9,2012.0,AL,Mobile Bay Processing,DCP Midstream,DCP Midstream,Mobile,36523,300.00,185.00,"1,141",0.0,0,"[-88.1584129, 30.3652254]"
+10,2012.0,AL,Monroeville Plant,Palmer Petroleum Inc,Palmer Petroleum Inc,Monroe,36460,2.00,0.23,"1,200",0.0,"2,142","[-87.32149079999999, 31.5319093]"
+11,2012.0,AL,North Beach Plant,Plains Gas Solutions LLC,Plains Gas Solutions LLC,Conecuh,36401,6.50,4.50,"1,350",0.0,"1,000","[-86.9545763, 31.4341907]"
+12,2012.0,AL,Wildfork Plant,"American Midstream (Mississippi), LLC",American Midstream,Monroe,36445,0.50,0.22,"1,398",0.0,"2,151","[-87.5000082, 31.4670212]"
+13,2012.0,AL,Williams Mobile Bay Processing Plant,Williams Field Services,,Mobile,36523,690.00,322.00,"1,099",0.0,0,"[-88.1584129, 30.3652254]"
+14,2012.0,AL,Womack Hill Gas Plant,Pruet Production Co,Pruet Production Co,Choctaw,39608,2.00,0.66,"1,381",0.0,"3,899","[-3.8782576, 43.434998]"
+15,2012.0,AL,Yellowhammer Gas Plant,W&T Offshore Inc.,W&T Offshore Inc.,Mobile,36523,200.00,65.00,"1,095",0.0,"7,142","[-88.1584129, 30.3652254]"
+16,2012.0,AR,Dorcheat Plant 1,"Bonanza Creek Energy, Inc.",Bonanza Creek Energy Resources LLC,Columbia,71753,12.00,12.00,"1,152",0.0,"2,286","[-93.21814769999999, 33.262231]"
+17,2012.0,AR,McKamie Gas Plant,"Bonanza Creek Energy, Inc.",Bonanza Creek Energy Resources LLC,Lafayette,71860,12.00,11.00,"1,152",0.0,"4,133","[-93.4902391, 33.3109989]"
+18,2012.0,CA,35R Natural Gas Processing Plant,"Occidental of Elk Hills, Inc","Occidental of Elk Hills, Inc",Kern,93276,90.00,35.90,"1,090",0.0,0,"[-119.3656846, 35.2853741]"
+19,2012.0,CA,Belridge Gas Plant,Seneca Resources Corporation,Seneca Resources Corporation,Kern,93251,14.00,9.00,"1,148",0.0,"8,346","[-119.742604, 35.2998789]"
+20,2012.0,CA,Carpinteria Gas Plant,"Venoco, Inc","Venoco, Inc",Santa Barbara,93013,30.00,1.00,"1,000",0.0,34,"[-119.4875668, 34.4212588]"
+21,2012.0,CA,Ellwood Onshore Facility,"Venoco, Inc","Venoco, Inc",Santa Barbara,93117,13.00,2.50,"1,100",0.0,"2,000","[-119.8696691, 34.4301656]"
+22,2012.0,CA,Greeley Gas Plant,Crimson Resource Management Corp,Crimson Resource Management Corp,Kern,93309,70.00,45.00,"1,200",0.0,238,"[-119.0576298, 35.3515611]"
+23,2012.0,CA,Inergy Services North Coles Levee,"Inergy Propane, LLC",Inergy Services,Kern,93276,24.00,4.60,"1,271",0.0,373,"[-119.3656846, 35.2853741]"
+24,2012.0,CA,Inglewood Gas Plant,"Plains Exploration & Production, Inc","Plains Exploration & Production, Inc",Los Angeles,90056,15.00,10.00,"1,250",0.0,"1,750","[-118.3666482, 33.9885683]"
+25,2012.0,CA,Kernirdge Gas Plant,Aera Energy LLC,,Kern,93251,80.00,30.66,"1,127",0.0,"14,900","[-119.742604, 35.2998789]"
+26,2012.0,CA,"Las Flores Canyon, POPCO",ExxonMobil Production Company,ExxonMobil Production Company,Santa Barbara,93116,67.00,32.00,"1,066",0.0,0,"[-120.04, 34.49]"
+27,2012.0,CA,"Las Flores Canyon, SGTP",ExxonMobil Production Company,ExxonMobil Production Company,Santa Barbara,93116,12.00,10.00,"1,066",0.0,"8,300","[-120.04, 34.49]"
+28,2012.0,CA,Lompoc Oil & Gas Plant,"Plains Exploration & Production, Inc","Plains Exploration & Production, Inc",Santa Barbara,93436,15.00,2.71,"1,176",0.0,"2,140","[-120.3896651, 34.6425797]"
+29,2012.0,CA,Low Temperature Separation Plant No. 1,"Occidental of Elk Hills, Inc","Occidental of Elk Hills, Inc",Kern,93276,150.00,136.40,"1,180",0.0,0,"[-119.3656846, 35.2853741]"
+30,2012.0,CA,Low Temperature Separation Plant No. 2,"Occidental of Elk Hills, Inc","Occidental of Elk Hills, Inc",Kern,93276,150.00,137.50,"1,110",0.0,0,"[-119.3656846, 35.2853741]"
+31,2012.0,CA,Mckittrick 172,"Chevron USA, Inc.","Chevron USA, Inc.",Kern,93251,80.00,58.87,"1,179",0.0,"8,995","[-119.742604, 35.2998789]"
+32,2012.0,CA,Montebello Gas Plant,"Plains Exploration & Production, Inc","Plains Exploration & Production, Inc",Los Angeles,90640,1.50,0.65,"1,100",0.0,0,"[-118.1064156, 34.0149091]"
+33,2012.0,CA,Murphy Gas Plant,"Plains Exploration & Production, Inc.","Plains Exploration & Production, Inc.",Los Angeles,90007,1.50,1.00,"1,250",0.0,20,"[-118.2848199, 34.0295114]"
+34,2012.0,CA,OXY Huntington Beach Gas Plant,OXY USA Inc,Oxy USA LA Basin,Orange,92648,3.00,3.00,"1,000",0.0,0,"[-118.0127534, 33.6781963]"
+35,2012.0,CA,Riverdale Gas Plant,Crimson Resource Management,Crimson Resource Management,Fresno,,32.00,20.00,"1,400",0.0,238,"[0, 0]"
+36,2012.0,CA,Santa Clara Valley Gas Plant,"Vintage Production California, LLC","Vintage Production California, LLC",Ventura,93040,10.00,7.30,"1,300",0.0,"3,310","[-118.8363756, 34.5096515]"
+37,2012.0,CA,Signal Hill West Unit Gas Plant,"Signal Hill Petroleum, Inc","Signal Hill Petroleum, Inc",Los Angeles,90755,1.00,1.00,"1,400",0.0,952,"[-118.1678543, 33.8020217]"
+38,2012.0,CA,South Coles Levee Gas Plant,Central Resources Inc,Central Resources Inc,Keen,93276,35.00,3.60,"1,108",0.0,"1,895","[-119.3656846, 35.2853741]"
+39,2012.0,CA,Stearns Gas Plant,Linn Energy,Linn Western Operating Inc,Orange,92821,4.50,2.20,"1,100",0.0,"1,714","[-117.8604472, 33.9316733]"
+40,2012.0,CA,Taft #1C Gas Plant,"Occidental of Elk Hills, Inc","Occidental of Elk Hills, Inc",Kern,93276,16.00,16.00,"1,152",0.0,0,"[-119.3656846, 35.2853741]"
+41,2012.0,CA,Ventura Gas Plant 7,Aera Energy LLC,,Ventura,93001,12.00,10.00,"1,195",0.0,"1,400","[-119.2769253, 34.2769462]"
+42,2012.0,CO,Andy`s Mesa Plant,"Patara Oil & Gas, LLC","Patara Oil & Gas, LLC",San Miguel,81422,30.00,7.80,"1,012",35.0,"1,300","[-108.6888227, 38.4001285]"
+43,2012.0,CO,Baxter Compressor Station,XCEL ENERGY,XCEL ENERGY,Garfield County,81630,15.00,3.00,915,0.0,476,"[-108.5225709, 39.5363327]"
+44,2012.0,CO,Bear River,Moffat Pipeline Company,Moffat Pipeline Company,Routt,80293,0.50,0.10,"1,170",0.0,200,"[-104.9898169, 39.746182]"
+45,2012.0,CO,Buck Peak,Abraxas,Custom Energy,Moffat,81625,0.50,0.18,,0.0,"4,500","[-107.763621, 40.7685941]"
+46,2012.0,CO,Clyde Gasoline Plant,"Prowers Gas Gathering Co, LLC","Prowers Gas Gathering Co, LLC",Prowers,,2.50,0.80,"1,200",0.0,700,"[0, 0]"
+47,2012.0,CO,Cutthroat B,QEP Energy Co,QEP Energy Co,Montezuma,81321,2.00,0.40,"1,351",0.0,"1,428","[-108.7600963, 37.3437874]"
+48,2012.0,CO,Dragon Trail,Encana Oil & Gas (USA) Inc.,Encana Oil & Gas (USA) Inc.,Rangley,81431,60.00,25.00,"1,100",0.0,"6,400","[-108.6650678, 38.0983954]"
+49,2012.0,CO,Eaton,DCP Midstream,DCP Midstream,Weld,80615,12.00,10.00,"1,175",0.0,"1,425","[-104.6354631, 40.5255836]"
+50,2012.0,CO,Foundation Creek,ETC Canyon Pipelines LLC,Energy Transfer,Rio Blanco,81648,22.00,10.00,"1,080",0.0,"1,428","[-108.7600963, 39.93510759999999]"
+51,2012.0,CO,Gilcrest Gas Processing Plant,Southern Ute Indian Tribe,,Platteville,80651,20.00,16.00,"1,270",0.0,"3,200","[-104.8221147, 40.22183160000001]"
+52,2012.0,CO,Grand Valley Gas Plant,Williams Production RMT / Williams Midstream,Williams Midstream,Garfield,81635,120.00,70.00,"1,072",0.0,"2,140","[-108.0954351, 39.4856281]"
+53,2012.0,CO,Greeley,DCP Midstream,DCP Midstream,Weld,80634,27.00,24.00,"1,175",0.0,"17,150","[-104.7871004, 40.3962637]"
+54,2012.0,CO,Hamilton Creek Plant,"Patara Oil & Gas, LLC","Patara Oil & Gas, LLC",San Miguel,81422,30.00,8.00,963,45.0,"1,900","[-108.6888227, 38.4001285]"
+55,2012.0,CO,Hay Canyon Treating Facility,Encana Oil and Gas (USA) Inc.,Encana Oil and Gas (USA) Inc.,Garfield,81524,25.00,3.00,"1,085",0.0,"1,428","[-108.7838572, 39.27283389999999]"
+56,2012.0,CO,Ignacio Gas Plant,Williams,"Williams Midstream Services, LLC",La Plata,81303,585.00,456.00,"1,110",0.0,"38,850","[-107.9294815, 37.1246126]"
+57,2012.0,CO,Johnson Dew Point Facility,Williams Midstream,Williams Midstream,Dolores,81320,10.00,0.50,"1,100",0.0,857,"[-108.736337, 37.73867329999999]"
+58,2012.0,CO,Koskie Dew Point Facility,Williams Midstream,Williams Midstream,Montezuma,81327,10.00,0.50,"1,200",0.0,857,"[-108.6056873, 37.54419]"
+59,2012.0,CO,La Veta Gas Plant,"Appletree Holdings, LLC","Manzano, LLC",Huerfano,81055,30.00,17.00,332,20.0,"1,000","[-105.0791228, 37.5527617]"
+60,2012.0,CO,Ladder Creek,DCP Midstream,DCP Midstream,Cheyenne,80810,55.00,15.00,750,0.0,600,"[-102.4839212, 38.8564154]"
+61,2012.0,CO,Lilli Plant,Noble Energy,Noble Energy,Weld,80742,7.00,5.00,"1,310",44.0,"2,500","[-103.8216261, 40.8463821]"
+62,2012.0,CO,Lucerne,DCP Midstream,DCP Midstream,Weld,80631,40.00,38.00,"1,175",0.0,"2,850","[-104.6821048, 40.43982159999999]"
+63,2012.0,CO,Meeker Gas Plant,"Enterprise Gas Processing, LLC","Enterprise Gas Processing, LLC",Rio Blanco,81650,"1,800.00","1,505.00","1,100",0.0,0,"[-108.3326648, 39.8864774]"
+64,2012.0,CO,Mercy Gas Plant,Forest Oil Corporation 100%,Forest Oil Permian,,80202-3406,3.50,2.20,"1,233",0.0,"1,000","[-105.0002242, 39.7541032]"
+65,2012.0,CO,Mewbourne,DCP Midstream,DCP Midstream,Weld,80651,143.00,143.00,"1,175",0.0,"120,000","[-104.8221147, 40.22183160000001]"
+66,2012.0,CO,Mull Unit Sorrento Field,"Mull Drilling Company, Inc","Mull Drilling Company, Inc",Cheyenne,80825,4.00,0.60,"1,150",0.0,714,"[-102.8514837, 38.8160596]"
+67,2012.0,CO,North Douglas,ETC Canyon Pipelines LLC,Energy Transfer,Rio Blanco,81648,22.50,10.00,"1,080",0.0,"2,857","[-108.7600963, 39.93510759999999]"
+68,2012.0,CO,Parachute Creek Gas Plant,Williams Production RMT / Williams Midstream,Williams Midstream,Garfield,81635,"1,200.00",780.00,"1,072",0.0,"16,000","[-108.0954351, 39.4856281]"
+69,2012.0,CO,Piceance Creek,"Sourcegas Services, LLC","Rocky Mountain Natural Gas, LLC",RIO BLANCO,,5.00,2.00,"1,170",,715,"[0, 0]"
+70,2012.0,CO,Piceance Creek Plant,"Davis Gas Processing, Inc.","Davis Gas Processing, Inc.",GARFIELD,81650,100.00,0.07,"1,065",0.0,0,"[-108.3326648, 39.8864774]"
+71,2012.0,CO,Plateau Creek Plant,Encana Oil and Gas (USA) Inc.,Encana Oil and Gas (USA) Inc.,Mesa,81643,1.00,1.00,"1,080",5.0,300,"[-108.1191501, 39.0999772]"
+72,2012.0,CO,Platte Valley Gas Plant,"Western Gas Partners, LP","Western Gas Partners, LP",Weld,80621,105.00,103.00,"1,251",0.0,"15,000","[-104.798771, 40.1247268]"
+73,2012.0,CO,Platteville,DCP Midstream,DCP Midstream,Weld,80651,70.00,60.00,"1,270",0.0,"3,600","[-104.8221147, 40.22183160000001]"
+74,2012.0,CO,Premier Debeque Plant,ETC Canyon Pipelines LLC,Energy Transfer,Mesa,81630,8.00,5.00,"1,064",0.0,286,"[-108.5225709, 39.5363327]"
+75,2012.0,CO,Rifle Gas Plant,XCEL ENERGY,XCEL ENERGY,Rifle,81650,50.00,25.00,"1,070",0.0,"2,857","[-108.3326648, 39.8864774]"
+76,2012.0,CO,Roggen,DCP Midstream,DCP Midstream,Weld,80652,62.00,62.00,"1,175",0.0,"5,950","[-104.262851, 40.0928346]"
+77,2012.0,CO,Sagebrush Gas Plant,Williams,Williams,Rio Blanco,81650,30.00,10.00,"1,110",0.0,"1,711","[-108.3326648, 39.8864774]"
+78,2012.0,CO,Spindle,DCP Midstream,DCP Midstream,Weld,80621,40.00,34.00,"1,270",0.0,"5,000","[-104.798771, 40.1247268]"
+79,2012.0,CO,Terrace Gas Plant,Whiting Oil and Gas Corporation,Whiting Oil and Gas Corporation,WELD,96155,3.00,0.55,"1,460",0.0,714,"[-120.078078, 38.7586812]"
+80,2012.0,CO,Wattenberg Gas Plant,Anadarko Petroleum Corp,Anadarko Petroleum Corp,Adams,80019,195.00,180.00,"1,230",0.0,"9,500","[-104.6937674, 39.7864873]"
+81,2012.0,CO,Wiggins Gas Processing Plant,,Western Operating Company,Morgan,80701,3.00,0.05,"1,400",0.0,672,"[-103.8216261, 40.0466571]"
+82,2012.0,CO,Willow Creek,Williams,"Williams Midstream Services, LLC",Rio Blanco,81650,450.00,405.00,"1,070",0.0,0,"[-108.3326648, 39.8864774]"
+83,2012.0,CO,Wilson Creek Gas Processing Plant,"Chevron USA, Inc.","Chevron USA, Inc.",Rio Blanco,81641,1.10,0.16,"1,461",0.0,"2,928","[-107.763621, 39.9777424]"
+84,2012.0,CO,Yenter Gas Plant,Sterling Energy Investments LLC,Sterling Energy Investments LLC,Logan,80751,5.00,3.50,"1,400",0.0,800,"[-103.2201828, 40.6391761]"
+85,2012.0,FL,St. Regis Treatment Facility and Jay Gas Plant,"Quantum Resources A1, LP","Quantum Resources Management, LLC",Escambia,32565,90.00,59.00,350,0.0,"11,428","[-87.1821709, 30.9111762]"
+86,2012.0,IL,"Aux Sable Liquid Products, Inc.","Enbridge, Inc.","Aux Sable Liquid Products, Inc.",Grundy,60450,"2,100.00","1,594.00","1,090",0.0,"200,000","[-88.4403883, 41.39066529999999]"
+87,2012.0,KS,Cheney Plant,Oneok Field Services,Oneok Field Services,Sedgwick,67025,100.00,48.00,"1,120",0.0,0,"[-97.8068851, 37.6565287]"
+88,2012.0,KS,Jayhawk Gas Plant,Linn Energy,Linn Operating,Grant,67880,450.00,178.00,"1,009",0.0,0,"[-101.2523792, 37.5245985]"
+89,2012.0,KS,Kingman Gas Plant,Lumen Midstream Partnership LLC,Lumen Midstream Partnership LLC,Kingman,74135,26.00,19.09,"1,130",0.0,380,"[-95.92512110000001, 36.1005816]"
+90,2012.0,KS,National Helium,National Helium,DCP Midstream,Seward,67901,800.00,580.00,"1,080",0.0,"4,000","[-100.8451467, 37.0980943]"
+91,2012.0,KS,Satanta Gas Plant,Pioneer Natural Resources,Pioneer Natural Resources,GRANT,67880,220.00,115.00,"1,040",0.0,"2,140","[-101.2523792, 37.5245985]"
+92,2012.0,KS,Scott City Plant,Oneok Field Services,Oneok Field Services,Scott,67871,200.00,42.00,920,0.0,"1,400","[-100.8903099, 38.562531]"
+93,2012.0,KS,Spivey,Atlas KS Energy LLC,"Pioneer Exploration, LLC",Harper,67058,22.00,15.00,"1,197",0.0,"7,620","[-98.09017399999999, 37.3194073]"
+94,2012.0,KY,Boldman,"MarkWest Energy Appalacia, LLC","MarkWest Energy Appalacia, LLC",Pike,41501,70.00,37.00,"1,259",0.0,0,"[-82.5185837, 37.52938450000001]"
+95,2012.0,KY,Langley Processing Plant,"MarkWest Energy Appalacia, LLC","MarkWest Energy Appalacia, LLC",Floyd,41645,170.00,143.00,"1,294",0.0,"4,897","[-82.7886395, 37.5356013]"
+96,2012.0,KY,Oneida Processing Facility,Vinland Energy LLC,Vinland Energy LLC,Clay,40972,12.00,8.00,"1,200",,"1,813","[-83.6135572, 37.2747634]"
+97,2012.0,LA,Acadia Gas Plant,"Targa Midstream Services, LLC","Targa Midstream Services, LLC",Acadia,70531,80.00,19.80,"1,073",0.0,0,"[-92.5098914, 30.215813]"
+98,2012.0,LA,Ada Plant,DCP Midstream,DCP Midstream,Bienville,71028,45.00,45.00,"1,080",0.0,714,"[-93.0776568, 32.5223992]"
+99,2012.0,LA,Antioch Gas Processing Facility,LNGP LLC,Tellus Operating Group LLC,Claiborne,71048,3.00,2.30,"1,255",0.0,"1,429","[-92.8277963, 32.8330416]"
+100,2012.0,LA,Barracuda Gas Plant,Targa Resources,Targa Resources,Cameron,70631,200.00,126.00,"1,058",0.0,98,"[-93.62178019999999, 29.8782919]"
+101,2012.0,LA,Baton Rouge Gas Plant,ExxonMobil Corporation,ExxonMobil Corporation,West Baton Rouge,70767,225.00,140.00,"1,070",0.0,"1,200","[-91.3276422, 30.4751202]"
+102,2012.0,LA,Blue Water Gas Plant,Crosstex Energy,"Crosstex Processing Services, LLC",Acadia Parish,70559,350.00,160.00,"1,020",0.0,750,"[-92.4801989, 30.1125249]"
+103,2012.0,LA,Burns Point Plant,"Enterprise Gas Processing, LLC","Enterprise Gas Processing, LLC",St. Mary,70538,160.00,125.00,"1,070",0.0,500,"[-91.4821482, 29.7343461]"
+104,2012.0,LA,Cameron Meadows Gas Plant,PSI Midstream,PSI Midstream,Cameron,70631,275.00,271.00,"1,056",0.0,0,"[-93.62178019999999, 29.8782919]"
+105,2012.0,LA,Caspiana Plant,"CenterPoint Energy Field Services, LLC","CenterPoint Energy Field Services, LLC",Caddo,71115,15.00,15.00,"1,051",0.0,715,"[-93.5205641, 32.2392184]"
+106,2012.0,LA,Castor Creek Plant,Unit Petroleum,Unit Petroleum,Allen,70655,1.50,0.70,"1,000",,700,"[-92.6785092, 30.6155415]"
+107,2012.0,LA,Chipola Field Gas Plant,"Bridwell Oil Management, LLC","Bridwell Oil Management, LLC",Saint Helena,,1.00,0.12,"1,200",0.0,700,"[0, 0]"
+108,2012.0,LA,College Point Gas Plant,Vernon E Faulconer Inc,Vernon E Faulconer Inc,St James,,0.17,0.17,,0.0,238,"[0, 0]"
+109,2012.0,LA,Cotton Valley Gas Plant,XTO Energy Inc,XTO Energy Inc,Webster,71018,90.00,65.00,"1,190",0.0,"18,000","[-93.3993751, 32.8301473]"
+110,2012.0,LA,Desoto Gas Plant,Vernon E Faulconer Inc,Vernon E Faulconer Inc,Desoto,71052,1.22,1.22,"1,014",0.0,714,"[-93.7029002, 31.98446509999999]"
+111,2012.0,LA,Dubach Gas Plant,Regency Field Services LLC,Energy Transfer Company,Lincoln,71235,107.00,82.00,"1,133",0.0,"2,400","[-92.6785092, 32.7122376]"
+112,2012.0,LA,Dubberly Plant,Regency Field Services LLC,Energy Transfer Company,Webster,71024,200.00,135.00,"1,040",0.0,"2,700","[-93.19805269999999, 32.4741816]"
+113,2012.0,LA,Elba Mini Plant,"JP Oil Company, LLC","JP Oil Company, LLC",ST. LANDRY,71533,2.70,1.33,"1,160",0.0,952,"[34.6341859, 47.5015067]"
+114,2012.0,LA,Elm Grove Plant,"CenterPoint Energy Field Services, LLC","CenterPoint Energy Field Services, LLC",Bossier,71051,2.00,1.50,"1,047",0.0,310,"[-93.4801349, 32.3309496]"
+115,2012.0,LA,Elm Grove Plant,Regency Field Services LLC,Energy Transfer Company,Bossier,71037,200.00,155.00,"1,030",0.0,"2,700","[-93.5205641, 32.5108266]"
+116,2012.0,LA,Eunice Plant,,"Crosstex Processing Services, LLC",Acadia Parish,70535,500.00,340.00,"1,036",0.0,"66,577","[-92.4011124, 30.4828734]"
+117,2012.0,LA,Gibson Plant,,"Crosstex LIG, Liquids, LLC",Terrabone Parish,70356,110.00,110.00,"1,063",0.0,0,"[-91.0011902, 29.6229758]"
+118,2012.0,LA,Gillis Gas Plant,"Targa Midstream Services, LLC","Targa Midstream Services, LLC",Calcasieu,70615,180.00,156.06,"1,113",0.0,"11,280","[-93.1277854, 30.248701]"
+119,2012.0,LA,Grand Cheniere,"Plains Gas Solutions, LLC","Plains Gas Solutions, LLC",Cameron,70643,450.00,200.00,"1,050",0.0,300,"[-92.8178291, 29.7127541]"
+120,2012.0,LA,Gravel Point,J-W Gathering Company,J-W Gathering Company,DeSoto,71027,45.00,25.00,"1,040",0.0,"2,429","[-93.642048, 32.2357878]"
+121,2012.0,LA,Grayson Gas Plant,Grayson LLC,Petro-Chem Operating Co Inc,Caddo,71101,2.50,1.70,"1,125",0.0,700,"[-93.74858739999999, 32.5099127]"
+122,2012.0,LA,Indian Village Plant,"JP Oil Company, LLC","JP Oil Company, LLC",ALLEN,70658,4.50,1.80,"1,120",0.0,714,"[-93.0375914, 30.5156843]"
+123,2012.0,LA,Krotz Springs Gas Plant,"JP Oil Company, LLC","JP Oil Company, LLC",ST. LANDRY,70750,4.50,2.16,"1,150",0.0,"1,143","[-91.7733566, 30.4928762]"
+124,2012.0,LA,Lake Charles Gas Plant,"Copano Processing Louisiana, LLC","Copano Processing Louisiana, LLC",Calcasieu,70605,200.00,114.00,"1,022",0.0,112,"[-93.2784825, 30.1412524]"
+125,2012.0,LA,Lake LaRose Gas Plant,Whiskey Bay Gas Co LTD,Energy Transfer Co,St Martin Parish,70517,5.00,1.00,"1,118",0.0,150,"[-91.7344155, 30.3090469]"
+126,2012.0,LA,Larose Processing Plant,Discovery Producer Services,Williams Energy LLC,Lafourche,70373,600.00,500.00,"1,070",0.0,100,"[-90.3560076, 29.5798857]"
+127,2012.0,LA,Lisbon Plant,Regency Field Services LLC,Energy Transfer Company,Claiborne,71235,38.00,26.00,"1,125",0.0,900,"[-92.6785092, 32.7122376]"
+128,2012.0,LA,Lowry Gas Plant,Targa Resources,Targa Resources,Cameron,70549,240.00,180.00,"1,055",0.0,0,"[-92.8377656, 30.0591434]"
+129,2012.0,LA,Minden Beacon,DCP Assets Holding,DCP Midstream,Webster,71055,115.00,65.00,"1,185",0.0,0,"[-93.29861059999999, 32.7200835]"
+130,2012.0,LA,Neale,Texas Petroleum Investment Company,Texas Petroleum Investment Company,Beauregard,70653,6.00,4.00,"1,100",0.0,"1,140","[-93.62178019999999, 30.6157762]"
+131,2012.0,LA,Neptune Gas Plant,"Enterprise Gas Processing, LLC","Enterprise Gas Processing, LLC",St. Marys,70522,650.00,431.00,"1,083",0.0,0,"[-91.4307158, 29.7578721]"
+132,2012.0,LA,North Terrebonne Plant,"Enterprise Gas Processing, LLC","Enterprise Gas Processing, LLC",Gibson,70356,"1,100.00",650.00,"1,100",0.0,"2,000","[-91.0011902, 29.6229758]"
+133,2012.0,LA,PSI Kaplan Plant,"PSI Midstream Partners, LP","PSI Midstream Partners, LP",Vermilion,70510,125.00,63.00,"1,061",0.0,0,"[-92.2630393, 29.8159414]"
+134,2012.0,LA,Patterson II Plant,"Plains Gas Solutions, LLC","Plains Gas Solutions, LLC",St Mary,70392,180.00,110.00,"1,055",0.0,150,"[-91.3083685, 29.7130059]"
+135,2012.0,LA,Pelican Plant,,"Crosstex Pelican, LLC",St. Mary Parish,70392,600.00,228.00,"1,099",0.0,0,"[-91.3083685, 29.7130059]"
+136,2012.0,LA,Plain Dealing JT Plant,Cypress Oil and Gas,Petro-Chem Operating Co Inc,Caddo,71101,0.50,0.25,"1,100",0.0,285,"[-93.74858739999999, 32.5099127]"
+137,2012.0,LA,Plaquemine Plant,,"Crosstex LIG Liquids, LLC",Iberville Parish,70764,225.00,151.00,"1,023",0.0,"11,904","[-91.3276422, 30.10605919999999]"
+138,2012.0,LA,Rocky Mount,Devon Energy,Devon Energy,Bossier,,2.00,1.00,"1,126",0.0,429,"[0, 0]"
+139,2012.0,LA,Rocky Mount Gas Plant,Samson Resources,Samson Contour Energy,Bossier,71064,1.00,0.50,"1,050",0.0,357,"[-93.7029002, 32.8891446]"
+140,2012.0,LA,Sabine Pass Plant,,Sabine Pass Plant Facility Joint Venture,Cameron Parish,70631,300.00,57.00,"1,077",0.0,750,"[-93.62178019999999, 29.8782919]"
+141,2012.0,LA,Samson Benton Plant,Samson Resources,Samson Contour Energy,Bossier,71006,4.00,1.00,"1,108",0.0,"1,000","[-93.62178019999999, 32.7111978]"
+142,2012.0,LA,Sea Robin Gas Processing Plant,"Enterprise Gas Processing, LLC","Enterprise Gas Processing, LLC",Vermillion,70533,660.00,301.00,"1,080",0.0,"1,000","[-92.0469151, 29.8888567]"
+143,2012.0,LA,Sligo Processing Facility,"CenterPoint Energy Field Services, LLC","CenterPoint Energy Field Services, LLC",Bossier,71037,230.00,230.00,"1,059",0.0,"8,000","[-93.5205641, 32.5108266]"
+144,2012.0,LA,State Line Gas Processing Plant,"Enterprise Gathering, LLC","Enterprise Hydrocarbons, LP",DeSoto,71049,30.00,22.00,"1,050",0.0,700,"[-93.9674371, 32.044608]"
+145,2012.0,LA,Stingray Gas Plant,Targa Resources,Targa Resources,Cameron,70631,300.00,135.00,"1,067",0.0,714,"[-93.62178019999999, 29.8782919]"
+146,2012.0,LA,Toca Gas Plant,"Enterprise Gas Processing, LLC","Enterprise Gas Processing, LLC",St. Bernard,70085,"1,100.00",431.00,"1,083",0.0,0,"[-89.81303559999999, 29.8350987]"
+147,2012.0,LA,Townsend Gas Plant,Samson Resources,Samson Contour Energy,Jackson,71227,1.00,0.50,"1,170",0.0,357,"[-92.4801989, 32.5355472]"
+148,2012.0,LA,Venice Gas Plant,Targa Resources,Targa Resources,Plaquemines,70091,750.00,500.00,"1,115",0.0,0,"[-89.1705998, 29.136511]"
+149,2012.0,LA,Vivian Gas Processing Plant,Caruthers Producing Co Inc,Caruthers Producing Co Inc,caddo,71082,2.00,0.25,"1,025",0.0,285,"[-93.9674371, 32.8585409]"
+150,2012.0,LA,Yscloskey Gas Plant,Targa Resources,Targa Resources,St Bernard,70085,"1,850.00","1,000.00","1,032",,,"[-89.81303559999999, 29.8350987]"
+151,2012.0,MI,Aztec Manistee,"Aztec Producing Company, Inc.","Aztec Producing Company, Inc.",Manistee,49660,5.00,0.26,"1,339",0.0,"1,429","[-86.1344697, 44.2205682]"
+152,2012.0,MI,Beaver Creek,"BreitBurn Operating, L.P.","BreitBurn Operating, L.P.",Crawford,49735,1.70,1.70,"1,530",0.0,714,"[-84.62706179999999, 44.9858952]"
+153,2012.0,MI,Fraser 8,"BreitBurn Operating, L.P.","BreitBurn Operating, L.P.",Bay,48650,1.60,1.60,"1,130",0.0,"1,332","[-83.9744262, 43.8232143]"
+154,2012.0,MI,Goose Lake Gas Plant,Dart Oil & Gas Corp,Dart Oil & Gas Corp,Osceola,49655,2.00,0.43,"1,127",0.0,607,"[-85.39627689999999, 44.0415138]"
+155,2012.0,MI,Hartland 36 Processing Plant,Merit Energy Company,Merit Energy Company,Livingston,48353-1010,8.00,0.79,"1,313",0.0,714,"[-83.7305392, 42.6437242]"
+156,2012.0,MI,Kalkaska Gas Processing,Merit Energy Company,Merit Energy Company,Kalkaska,49680,425.00,42.75,"1,152",0.0,"42,000","[-85.2515482, 44.6208927]"
+157,2012.0,MI,Lenox 36,Merit Energy Company,Merit Energy Company,Macomb,48048,0.10,0.03,"1,333",0.0,286,"[-82.7886395, 42.7440097]"
+158,2012.0,MI,Marion Gas Plant,Dart Oil & Gas Corp,Dart Oil & Gas Corp,Osceola,49665,5.00,0.73,"1,150",0.0,607,"[-85.14793639999999, 44.1071769]"
+159,2012.0,MI,Mentor Plant,Merit Energy Company,Merit Energy Company,Oscoda,48654,9.75,3.66,"1,164",0.0,"1,428","[-84.14351359999999, 44.43794930000001]"
+160,2012.0,MI,Monitor 11,"BreitBurn Operating, L.P.","BreitBurn Operating, L.P.",Bay,48706,0.09,0.09,"1,130",0.0,"1,332","[-83.9744262, 43.5940178]"
+161,2012.0,MI,Reno Gas Plant,Whiting Oil and Gas Corporation,Whiting Oil and Gas Corporation,Iosco,48770,7.50,0.39,"1,300",0.0,"1,429","[-83.8260884, 44.2515833]"
+162,2012.0,MI,Rosebush Plant,Summit Petroleum Corp,Summit Petroleum Corp,Isabella,48878,1.60,0.81,"1,410",0.0,760,"[-84.7837717, 43.7198792]"
+163,2012.0,MI,Sherman 35,"BreitBurn Operating, L.P.","BreitBurn Operating, L.P.",Osceola,49655,1.80,1.80,"1,220",0.0,714,"[-85.39627689999999, 44.0415138]"
+164,2012.0,MI,West Branch Gas Plant,Whiting Oil and Gas Corporation,Whiting Oil and Gas Corporation,OGEMAW,48661,9.50,4.60,"1,302",0.0,"4,714","[-84.2278796, 44.2914755]"
+165,2012.0,MS,Bazor Ridge,"American Midstream (Mississippi), LLC",American Midstream,Wayne,39367,20.00,14.79,"1,277",0.0,"2,857","[-88.7493998, 31.6678378]"
+166,2012.0,MS,Corinne Dehy Refrigeration Station,Samson Resources,Samson Resources,Monroe,39730,3.00,1.50,"1,140",0.0,428,"[-88.59517509999999, 33.7438161]"
+167,2012.0,MS,Pascagoula Gas Processing Plant,BP America Production Company,BP America Production Company,Jackson,39567,"1,100.00",350.00,"1,165",0.0,"1,000","[-88.56136339999999, 30.3529682]"
+168,2012.0,MT,Baker Plant,Oneok Rockies Midstream,Oneok Rockies Midstream,Fallon,59313,6.50,4.50,"1,460",0.0,"8,272","[-104.2913118, 46.315418]"
+169,2012.0,MT,Bakken Plant,"Hiland Partners, LP","Hiland Partners, LP",Richland,59270,30.00,22.00,"1,450",0.0,"8,476","[-104.0205574, 47.5771383]"
+170,2012.0,MT,Cut Bank NGL Plant,Omimex Canada Ltd,Northwestern Energy,Glacier,59427,25.00,7.00,"1,090",0.0,"4,500","[-112.6474826, 48.6628747]"
+171,2012.0,MT,Dry Creek Plant,Saga Petroleum LLC,Saga Petroleum LLC,Carbon,59014,4.00,1.60,"1,210",0.0,4,"[-108.9140817, 45.2957202]"
+172,2012.0,MT,McKenzie Plant (aka Grasslands Plant),Oneok Rockies Midstream,Oneok Rockies Midstream,McKenzie,59270,95.00,80.00,"1,375",0.0,"28,454","[-104.0205574, 47.5771383]"
+173,2012.0,ND,Ambrose Gas Plant,Sterling Energy Investments LLC,Sterling Energy Investments LLC,Divide,58844,0.70,0.41,"1,482",0.0,429,"[-103.6926172, 48.9154336]"
+174,2012.0,ND,Badlands,"Hiland Partners, LP","Hiland Partners, LP",Bowman,58651,40.00,21.00,306,0.0,"6,690","[-103.7563434, 46.1869668]"
+175,2012.0,ND,Garden Creek,Oneok Rockies Midstream,Oneok Partners,McKenzie,05884,100.00,95.00,"1,465",0.0,"6,033","[-46.7756636, -23.6721265]"
+176,2012.0,ND,Lignite Gas Plant,Oneok Rockies Midstream,Oneok Rockies Midstream,Burke,58752,12.00,5.50,"1,380",0.0,"10,000","[-102.5851924, 48.8591482]"
+177,2012.0,ND,Little Knife Plant,Petro-Hunt LLC,Petro-Hunt LLC,Billings,58640,22.00,15.00,"1,400",0.0,"10,000","[-102.8969492, 47.4711913]"
+178,2012.0,ND,Little Missouri,"Saddle Butte Pipeline, LLC","Saddle Butte Pipeline, LLC",McKenzie,58854,30.00,11.54,"1,400",0.0,"7,238","[-103.1392835, 47.7633248]"
+179,2012.0,ND,Marmarth Plant,Oneok Rockies Midstream,Oneok Rockies Midstream,Slope,58643,8.50,7.20,,0.0,"2,857","[-103.9638652, 46.3957145]"
+180,2012.0,ND,Nesson Plant,Nesson Gathering System LLC,Nesson Gathering System LLC,Williams,58852,9.00,7.52,"1,476",0.0,"3,986","[-102.9789899, 48.3465618]"
+181,2012.0,ND,Norse,Hiland Partners,Hiland Partners,,58755,25.00,16.00,"1,450",0.0,"290,000","[-102.9657628, 48.6122858]"
+182,2012.0,ND,Red Wing Creek Gas Plant,True Oil LLC,True Oil LLC,McKenzie,58835,5.00,0.27,"1,192",0.0,"4,386","[-103.4450681, 47.7273702]"
+183,2012.0,ND,Robinson Lake Gas Plant,Whiting Oil and Gas Corporation,Whiting Oil and Gas Corporation,Montrail,58673,60.00,48.00,"1,550",0.0,"20,885","[43.6854936, 25.5538122]"
+184,2012.0,ND,Tioga Gas Plant,Hess Corporation,Hess Corporation,Williams,58852,110.00,85.00,"1,300",0.0,"50,000","[-102.9789899, 48.3465618]"
+185,2012.0,ND,Watford City,Hiland Partners,Hiland Partners,,58831,85.00,30.00,"1,450",0.0,"1,620,000","[-103.6208998, 47.8670921]"
+186,2012.0,NM,Antelope Ridge,DCP Midstream,DCP Midstream,Lea,88240,30.00,22.00,"1,187",0.0,405,"[-103.4049445, 32.6702606]"
+187,2012.0,NM,Artesia,DCP Midstream,DCP Midstream,Eddy,88210,90.00,90.00,"1,170",0.0,"2,573","[-104.4097593, 32.83829]"
+188,2012.0,NM,Buckeye CO2 Plant,Chevron,Chevron,Lea,88260,55.00,39.00,250,0.0,700,"[-103.4511768, 32.9753361]"
+189,2012.0,NM,Carlsbad Chaparral Gas Plant,"Enterprise Field Services, LLC","Enterprise Field Services, LLC",Eddy,88220,40.00,23.00,"1,150",0.0,0,"[-104.3791912, 32.3391752]"
+190,2012.0,NM,Carlsbad Plant,DCP Midstream,DCP Midstream,Eddy,88256,22.00,17.00,"1,178",0.0,100,"[-103.8680047, 32.1749767]"
+191,2012.0,NM,Chaco Gas Plant,"Enterprise Field Services, LLC","Enterprise Products Operating, LLC",San Juan,87413,600.00,485.00,"1,150",0.0,"400,000","[-107.9531836, 36.348812]"
+192,2012.0,NM,Denton Gas Plant,"Davis Gas Processing, Inc.","Davis Gas Processing, Inc.",Lea,88260,20.00,2.93,"1,424",0.0,750,"[-103.4511768, 32.9753361]"
+193,2012.0,NM,EMPIRE ABO GAS PLANT,AKA - FRONTIER FIELD SERVICES,FRONTIER FIELD SERVICES,USA,88211,50.00,48.00,"1,300",0.0,700,"[-104.4, 32.85]"
+194,2012.0,NM,East Vacuum Liquid Recovery Plant,ConocoPhillips,ConocoPhillips,Lea,88260,25.00,21.40,"1,026",0.0,"1,100","[-103.4511768, 32.9753361]"
+195,2012.0,NM,Eunice,DCP Midstream,DCP Midstream,Lea,88240,105.00,95.00,"1,250",0.0,"4,000","[-103.4049445, 32.6702606]"
+196,2012.0,NM,Eunice Plant,"Versado Gas Processors, LLC","Targa Midstream Services, LLC",Lea,88231,115.00,80.00,"1,235",0.0,500,"[-103.1279039, 32.433267]"
+197,2012.0,NM,Hobbs Cryogenics Plant,DCP Midstream,DCP Midstream,Lea,88240,42.00,36.00,"1,125",0.0,80,"[-103.4049445, 32.6702606]"
+198,2012.0,NM,Indian Basin Gas Plant,OXY USA WTP LP,Oxy Permian Primary,Eddy,88254,300.00,35.00,"1,140",0.0,"5,000","[-104.3617343, 32.6348414]"
+199,2012.0,NM,Jal #3,"Energy Transfer Equity, LP","Southern Union Gas Services, LTD",Lea,88252,90.00,75.00,"1,244",0.0,"2,500","[-103.2663479, 32.106673]"
+200,2012.0,NM,Kutz Gas Plant,Williams,"Williams Midstream Services, LLC",San Juan,87413,230.00,135.00,"1,117",0.0,"1,430","[-107.9531836, 36.348812]"
+201,2012.0,NM,Linam Ranch,DCP Midstream,DCP Midstream,Lea,88240,225.00,164.00,"1,241",0.0,"1,400","[-103.4049445, 32.6702606]"
+202,2012.0,NM,MALAMAR GAS PLANT,AKA - FRONTIER FIELD SERVICES,FRONTIER FIELD SERVICES,USA,88264,60.00,58.00,"1,250",0.0,"2,000","[-103.752088, 32.9199944]"
+203,2012.0,NM,Monument Plant,"Targa Midstream Services, LLC","Targa Midstream Services, LLC",Lea,88265,85.00,51.00,"1,222",0.0,"1,000","[-103.3414022, 32.5827879]"
+204,2012.0,NM,Pecos Diamond,DCP Midstream,DCP Midstream,Eddy,88210,40.00,20.00,"1,081",0.0,0,"[-104.4097593, 32.83829]"
+205,2012.0,NM,San Juan Basin Gas Plant,ConocoPhillips,ConocoPhillips,San Juan,87413,550.00,415.00,"1,160",0.0,0,"[-107.9531836, 36.348812]"
+206,2012.0,NM,San Juan Gas Plant,"Western Gas Holding Company, LLC","Anadarko Petroleum Corporation, Corp",San Juan,87417,60.00,32.00,"1,080",0.0,"3,500","[-108.3563972, 36.7246163]"
+207,2012.0,NM,Saunders Plant,"Targa Midstream Services, LLC","Targa Midstream Services, LLC",Lea,88260,70.00,44.00,"1,223",0.0,"2,286","[-103.4511768, 32.9753361]"
+208,2012.0,NM,South Carlsbad Dew Point Plant,"Enterprise Field Services, LLC","Enterprise Products Operating, LLC",Eddy,88256,200.00,50.00,"1,060",0.0,"1,200","[-103.8680047, 32.1749767]"
+209,2012.0,OH,Churchtown Compressor,Cobra Pipeline Company,Cobra Pipeline Company,Washington,45750,2.00,1.40,"1,225",0.0,"1,100","[-81.4498717, 39.4404583]"
+210,2012.0,OK,Amber Gas Plant,Lumen Midstream Partnership LLC,Lumen Midstream Partnership LLC,Grady,73004,21.00,11.75,"1,130",0.0,380,"[-97.86127669999999, 35.1464098]"
+211,2012.0,OK,Arapahoe Plant (I and II),"MarkWest Oklahoma Gas Company, LLC","MarkWest Oklahoma Gas Company, LLC",Custer,73625,225.00,225.00,"1,205",0.0,0,"[-99.23421959999999, 35.690984]"
+212,2012.0,OK,Atlas Pipeline Mid-Continent LLC. Velma Gas Plant,Atlas Pipeline Partners,Atlas Pipeline Mid-Continent LLC,Stephens,73491,100.00,100.00,"1,228",0.0,"3,729","[-97.6765157, 34.4667179]"
+213,2012.0,OK,Beaver Gas Processing,PVR Partners,PVR Midstream,Beaver,73932,100.00,100.00,"1,178",0.0,"2,200","[-100.4846227, 36.705369]"
+214,2012.0,OK,Binger,Mustang Ventures CO,"Mustang Gas Products, LLC",Caddo,73009,15.00,8.00,"1,000",0.0,0,"[-98.3307468, 35.3005279]"
+215,2012.0,OK,Binger,Slawson Exploration,Binger Operations LLC,Caddo,73009-0484,16.00,15.00,,0.0,190,"[-98.3307468, 35.3005279]"
+216,2012.0,OK,Burbank Plant,Scissortail Energy LLC,Scissortail Energy LLC,Osage,74633,10.00,6.00,"1,175",0.0,"1,700","[-96.7708138, 36.6972673]"
+217,2012.0,OK,Calumet,Enogex Products LLC,Enogex Products LLC,Canadian,73014,250.00,132.99,"1,150",0.0,"5,952","[-98.1557066, 35.6172323]"
+218,2012.0,OK,Camrick Gas Plant,Camrick Gas Processing Company LLC,Camrick Gas Processing Company LLC,Beaver,73931,10.00,5.00,,0.0,500,"[-100.7548851, 36.5957387]"
+219,2012.0,OK,Cana Plant,Devon Gas Services LP,Devon Gas Services LP,Canadian,73014,200.00,182.05,"1,110",0.0,"6,095","[-98.1557066, 35.6172323]"
+220,2012.0,OK,Canute,Enogex Products LLC,Enogex Products LLC,Washita,73626,60.00,51.17,"1,180",0.0,0,"[-99.3007367, 35.403712]"
+221,2012.0,OK,Cashion Plant,Superior Pipeline Company LLC,Superior Pipeline Company LLC,Logan,73016,51.00,18.00,"1,340",1.0,250,"[-97.6873706, 35.8109338]"
+222,2012.0,OK,Chaney Dell Plant,Atlas Pipeline Mid-Continent LLC,Atlas Pipeline Mid-Continent LLC,Major,73768,30.00,28.00,"1,150",0.0,"1,532","[-98.265058, 36.366508]"
+223,2012.0,OK,Chester Plant,Atlas Pipeline Mid-Continent LLC,Atlas Pipeline Mid-Continent LLC,Woodward,73838,30.00,29.00,"1,120",0.0,0,"[-98.9024603, 36.256036]"
+224,2012.0,OK,Chitwood,DCP Midstream,DCP Midstream,Grady,73067,85.00,80.00,"1,225",0.0,"4,000","[-97.9157099, 34.9130056]"
+225,2012.0,OK,Cimarron,DCP Midstream,DCP Midstream,Woodward,73663,65.00,60.00,"1,100",0.0,"1,906","[-98.9024603, 36.12678500000001]"
+226,2012.0,OK,Clinton,Enogex Products LLC,Enogex Products LLC,Custer,73601,120.00,110.52,"1,240",0.0,0,"[-98.99079379999999, 35.4707587]"
+227,2012.0,OK,Coalgate Plant,"CenterPoint Energy Field Services, LLC","CenterPoint Energy Field Services, LLC",Coal,74538,15.00,13.00,"1,134",0.0,715,"[-96.2163597, 34.5497732]"
+228,2012.0,OK,Cox City,Enogex Products LLC,Enogex Products LLC,Grady,73082,180.00,121.20,"1,140",0.0,"3,333","[-97.76340189999999, 34.7692466]"
+229,2012.0,OK,Crescent,PVR Cherokee Gas Processing LLC,,Logan,73028,25.00,20.00,"1,198",0.0,0,"[-97.654811, 35.9755305]"
+230,2012.0,OK,Custer Plant,Oneok Field Services,Oneok Field Services,Custer,73639,80.00,74.00,"1,150",0.0,550,"[-98.94661459999999, 35.73446]"
+231,2012.0,OK,Cyril,DCP Midstream,DCP Midstream,Caddo,73017,15.00,13.00,"1,080",25.0,600,"[-98.1120116, 34.9219501]"
+232,2012.0,OK,Dover-Hennessey Gas Plant,"Mustang Gas Products, LLC","Mustang Gas Products, LLC",Kingfisher,73742,40.00,25.00,"1,000",0.0,600,"[-97.9374948, 36.065268]"
+233,2012.0,OK,Dry Trail,Whiting Oil & Gas Corporation,Whiting Oil & Gas Corporation,Texas,73942,100.00,91.00,180,0.0,714,"[-101.6157773, 36.812341]"
+234,2012.0,OK,Eagle Chief Plant,"Eagle Chief Midstream, LLC","Eagle Chief Midstream, LLC",Alfalfa,73726,28.00,22.00,"1,163",0.0,"1,480","[-98.5501283, 36.5397535]"
+235,2012.0,OK,Elk City Gas Plant,Enbridge G & P,,Beckham,73644,130.00,120.00,"1,175",0.0,"1,070","[-99.41171969999999, 35.4168123]"
+236,2012.0,OK,Elmore City,Cimarex Energy Co.,Carrera Gas Companies LLC,Garvin,73433,26.00,16.50,"1,249",0.0,106,"[-97.4165053, 34.614973]"
+237,2012.0,OK,Foss Compressor Station,"Seminole Gas Company, LLC","Seminole Gas Company, LLC",Custer,73628,5.60,4.50,"1,100",0.0,428,"[-99.6564092, 35.5927121]"
+238,2012.0,OK,Fox Plant,DCP Midstream,DCP Midstream,Carter,73438,23.00,20.00,"1,250",0.0,"1,450","[-97.54638849999999, 34.2982999]"
+239,2012.0,OK,Glenpool (Creek) Plant,Copano/Scissortail Energy LLC,Copano/Scissortail Energy LLC,Tulsa,74033,25.00,6.70,"1,146",0.0,"1,500","[-96.0097018, 35.944592]"
+240,2012.0,OK,Harrah Plant,Scissortail Energy LLC,Scissortail Energy LLC,Lincoln,73045,40.00,15.00,"1,210",0.0,"29,525","[-97.1574784, 35.5066568]"
+241,2012.0,OK,Hopeton,"SemGas, LP","SemGas, LP",Woods,73731,35.00,35.00,"1,134",0.0,350,"[-98.5501283, 36.6683868]"
+242,2012.0,OK,Kingfisher,DCP Midstream,DCP Midstream,Kingfisher,73016,180.00,135.00,"1,200",0.0,"3,600","[-97.6873706, 35.8109338]"
+243,2012.0,OK,Leedey Compressor Station and Refrigeration Plant,"CenterPoint Energy Gas Transmission Company, LLC",,Custer,73654,7.50,4.00,"1,216",0.0,619,"[-99.41171969999999, 35.8502887]"
+244,2012.0,OK,Leedey Plant,Oneok Field Services,Oneok Field Services,Dewey,73654,50.00,16.00,"1,180",0.0,"2,850","[-99.41171969999999, 35.8502887]"
+245,2012.0,OK,Madill Gas Plant,"Madill Gas Processing Co, LLC","Carrera Operating Co, LLC",Marshall,73446,50.00,22.93,"1,200",0.0,"3,800","[-96.79223549999999, 34.0990245]"
+246,2012.0,OK,Matli Plant,Hiland Partners,Hiland Partners LP,Blaine,73772,25.00,12.00,"1,140",0.0,227,"[-98.4403573, 35.83616380000001]"
+247,2012.0,OK,Maysville Plant,Oneok Field Services,Oneok Field Services,Garvin,73057,135.00,110.00,"1,295",0.0,"3,230","[-97.4165053, 34.7469545]"
+248,2012.0,OK,Mehan Gas Plant,Tag Petroleum Inc,Tag Petroleum Inc,Payne,74076-1389,3.00,1.50,"1,250",0.0,714,"[-97.0572308, 36.1133016]"
+249,2012.0,OK,Milfay Plant,Scissortail Energy LLC,Scissortail Energy LLC,Creek,74079,15.00,8.40,"1,169",0.0,950,"[-96.6851982, 35.7514436]"
+250,2012.0,OK,Minco Plant,Superior Pipeline Company LLC,Superior Pipeline Company LLC,Grady,73089,12.00,6.00,"1,110",1.0,0,"[-97.8286368, 35.2686842]"
+251,2012.0,OK,Mocane Station,Regency Field Services LLC,Energy Transfer Company,Beaver,73932,55.00,35.00,"1,182",0.0,714,"[-100.4846227, 36.705369]"
+252,2012.0,OK,Mooreland,DCP Midstream,DCP Midstream,Woodward,73852,130.00,100.00,"1,180",0.0,"4,117","[-99.14561529999999, 36.473972]"
+253,2012.0,OK,Mustang,DCP Midstream,DCP Midstream,Grady,73089,34.00,32.00,"1,160",0.0,"1,667","[-97.8286368, 35.2686842]"
+254,2012.0,OK,Nash,"SemGas, LP","SemGas, LP",Grant,73761,20.00,15.00,"1,147",0.0,200,"[-98.0247005, 36.705054]"
+255,2012.0,OK,Nine Mile Gas Plant,Enbridge G & P,Enbridge G & P,Dewey,73654,140.00,120.00,"1,200",0.0,"1,214","[-99.41171969999999, 35.8502887]"
+256,2012.0,OK,Northridge Gas Plant,Devon Gas Services LP,Devon Gas Services LP,Hughes,74531,200.00,147.86,"1,140",0.0,"5,714","[-96.25883689999999, 34.8559803]"
+257,2012.0,OK,Okarche Plant,DCP Midstream,DCP Midstream,Kingfisher,73762-9628,165.00,150.00,"1,165",0.0,"3,095","[-97.9810845, 35.7158243]"
+258,2012.0,OK,Osage Gas Plant,Lumen Midstream Partnership LLC,Lumen Midstream Partnership LLC,Osage,74637,12.00,6.49,"1,330",0.0,"1,285","[-96.642433, 36.618562]"
+259,2012.0,OK,Osage Hills Gas Plant,Osage Hills Pipeline Company,"Carrera Operating Co, LLC",Osage,74002,5.00,4.00,"1,200",0.0,500,"[-96.11029429999999, 36.582498]"
+260,2012.0,OK,Paden Plant,Scissortail Energy LLC,Scissortail Energy LLC,Okfuskee,74860,100.00,74.10,"1,235",0.0,"1,550","[-96.55698819999999, 35.540806]"
+261,2012.0,OK,Panther Creek Plant,Oneok Field Services,Oneok Field Services,Washita,73626,78.00,72.00,"1,130",0.0,750,"[-99.3007367, 35.403712]"
+262,2012.0,OK,Perkins Plant,Superior Pipeline Company LLC,Superior Pipeline Company LLC,Payne,74059,10.00,4.00,"1,330",1.0,250,"[-97.0713572, 35.946388]"
+263,2012.0,OK,Rodman,Mustang Ventures CO,"Mustang Gas Products, LLC",Garfield,73773,70.00,63.00,"1,190",0.0,177,"[-97.9374948, 36.281089]"
+264,2012.0,OK,Roger Mills,Enogex Products LLC,Enogex Products LLC,WASHITA,73644,100.00,88.00,"1,180",0.0,0,"[-99.41171969999999, 35.4168123]"
+265,2012.0,OK,Sholem Alechem,DCP Midstream,DCP Midstream,Stephens-Carter,73425,60.00,55.00,"1,235",0.0,0,"[-97.56277779999999, 34.4486111]"
+266,2012.0,OK,South Canadian,Enogex Products LLC,Enogex Products LLC,Custer,73014,200.00,176.09,"1,180",0.0,0,"[-98.1557066, 35.6172323]"
+267,2012.0,OK,Southern Dome Plant,Scissortail Energy LLC,Scissortail Energy LLC,Oklahoma,73149,18.00,9.86,"1,171",0.0,"3,500","[-97.4868283, 35.3831074]"
+268,2012.0,OK,Stephens Plant,Oneok Field Services,Oneok Field Services,Stephens,73491,30.00,26.00,"1,167",0.0,175,"[-97.6765157, 34.4667179]"
+269,2012.0,OK,Sweetwater Plant,Enbridge G & P,,Beckham,93532,180.00,175.00,"1,175",0.0,"2,140","[-118.4531942, 34.676617]"
+270,2012.0,OK,Tecumseh Gas Plant,Enerfin Resources Company,Enerfin Resources I LP,Pottawatomie,76310,16.00,11.49,"1,350",0.0,"1,430","[-98.5062007, 33.7928627]"
+271,2012.0,OK,Thomas,Enogex Products LLC,Enogex Products LLC,Custer,73669,150.00,126.79,"1,150",0.0,0,"[-98.7921836, 35.8108641]"
+272,2012.0,OK,"Timberland Gathering & Proc. Co., Inc.",,,Texas,73951,60.00,15.00,"1,030",0.0,"1,137","[-101.048549, 36.9306369]"
+273,2012.0,OK,Tupelo Gas Processing Plant,Cardinal Arkoma Midstream LLC,Cardinal Arkoma Midstream LLC,Coal,74538,120.00,110.00,"1,200",0.0,"4,700","[-96.2163597, 34.5497732]"
+274,2012.0,OK,Waynoka Plant,Atlas Pipeline Mid-Continent LLC,Atlas Pipeline Mid-Continent LLC,Woods,73717,200.00,199.00,"1,136",1.0,0,"[-98.7481167, 36.8891804]"
+275,2012.0,OK,Wetumka,Enogex Products LLC,Enogex Products LLC,Hughes,74883,60.00,34.54,"1,150",0.0,"2,857","[-96.2163597, 35.25301960000001]"
+276,2012.0,OK,Woodward Gas Plant,Oneok Partners,Oneok Partners,Woodward,73081,75.00,57.00,"1,161",0.0,"1,500","[32.616867, 46.635417]"
+277,2012.0,PA,Grunder Plant,"KCS Energy, Inc","KCS Energy, Inc.",Warren,16365,2.00,0.75,"1,360",0.0,"1,428","[-79.1322744, 41.8583345]"
+278,2012.0,PA,Houston Plant,MarkWest Liberty Midstream & Resources,MarkWest Liberty Midstream & Resources,Washington,15301,289.25,176.26,"1,256",0.0,77,"[-80.254435, 40.1627412]"
+279,2012.0,PA,Kane Plant,Elkhorn Holdings,Elkhorn Gas Processing LLC,McKean,16735,10.00,9.00,"1,185",0.0,"2,900","[-78.8156113, 41.6703309]"
+280,2012.0,PA,Keystone Plant,Elkhorn Holdings,Elkhorn Gas Processing LLC,Warren County,16313,10.00,7.50,"1,250",0.0,"1,950","[-79.1548533, 41.6834249]"
+281,2012.0,PA,Lafayette,MSL Oil & Gas Corp,MSL Oil & Gas Corp,McKeen,16738,2.00,1.30,"1,360",0.0,700,"[-78.6909263, 41.8055296]"
+282,2012.0,PA,Lewis Run Plant,"LRGPP, LP",Elkhorn Gas Processing,Mckean,16701,6.00,5.00,"1,300",0.0,"2,140","[-78.7022678, 41.9537701]"
+283,2012.0,PA,Robin Hill Plant,"Laurel Mountain Midstream, LLC","Laurel Mountain Midstream, LLC",Washington,15019,18.00,5.00,"1,328",0.0,"1,215","[-80.33245140000001, 40.4021036]"
+284,2012.0,PA,Roystone Plant,Elkhorn Holdings,Elkhorn Gas Processing LLC,McKean,16347,9.00,7.50,"1,200",0.0,"2,900","[-79.0419053, 41.652913]"
+285,2012.0,PA,Stewart Plant,"Laurel Mountain Midstream, LLC","Laurel Mountain Midstream, LLC",Washington,15430,18.00,5.00,"1,320",0.0,"1,821","[-79.6602097, 40.0419381]"
+286,2012.0,PA,Whitetail Plant,Whitesville Gas Processing,Elkhorn Gas Processing,Elk,17635,5.00,4.50,"1,170",0.0,"1,400","[44.03895540000001, 25.3746311]"
+287,2012.0,TN,Rogersville Cryogenic Plant,"Seminole Gas Company, LLC","Seminole Gas Company, LLC",Hawkins,37857,25.00,19.00,"1,200",0.0,"2,857","[-82.9716617, 36.4242854]"
+288,2012.0,TX,Agaritta,Stephens & Johnson Operating Co,Stephens & Johnson Operating Co,Concho,,5.00,0.25,"1,200",0.0,"1,714","[0, 0]"
+289,2012.0,TX,Allison Gas Plant,Enbridge Pipelines (Texas Gathering) L.P.,Enbridge Pipelines (Texas Gathering) L.P.,Wheeler,79003,150.00,149.00,"1,169",0.0,0,"[-100.0695367, 35.5695564]"
+290,2012.0,TX,Antelope Hills Plant,PVR Partners,PVR Midstream,Hemphill,79104,130.00,130.00,"1,165",0.0,"1,200","[-101.7922632, 35.2011859]"
+291,2012.0,TX,Apache Corporation Crane Gas Plant,Apache Corporation,Apache Corporation,Upton,79731,25.00,24.00,"1,270",0.0,0,"[-102.4151335, 31.4093115]"
+292,2012.0,TX,Armstrong,"Enterprise Hydrocarbons, LP","Enterprise Products Operating, LLC",Dewitt,77995,250.00,229.00,"1,201",0.0,"16,142","[-97.0713572, 29.2080028]"
+293,2012.0,TX,Austin Giddings,DCP Midstream,DCP Midstream,Fayette,78945,95.00,90.10,"1,218",0.0,"7,238","[-96.8779926, 29.9334606]"
+294,2012.0,TX,Azle Plant,,"Crosstex CCNG Processing, Ltd",Parker,76020,50.00,34.00,"1,154",0.0,"1,093","[-97.54638849999999, 32.9186258]"
+295,2012.0,TX,Benedum,,Atlas Pipeline Co,Upton,79755,45.00,45.00,"1,320",0.0,"3,571","[-101.9119871, 31.502598]"
+296,2012.0,TX,Benedum II Plant,"Benedum Gas Partners, LP",WTG Benedum Joint Venture,Upton,79755,140.00,115.78,"1,228",0.0,0,"[-101.9119871, 31.502598]"
+297,2012.0,TX,Bleiblerville Facility,"Eagle Rock DeSoto Pipeline, L.P.","Eagle Rock DeSoto Pipeline, L.P.",Austin,78931,0.25,0.25,"1,142",0.0,714,"[-96.4396888, 30.0361702]"
+298,2012.0,TX,Bridgeport Plant,Devon Energy Corp,Devon Gas Services LP,Wise,76426,650.00,623.00,"1,167",0.0,"48,415","[-97.8503951, 33.1683909]"
+299,2012.0,TX,Bridwell River Ranch Gas Plant,Bridwell Oil Company,Bridwell Oil Company,Clay,,2.00,0.30,"1,200",0.0,700,"[0, 0]"
+300,2012.0,TX,Brookeland Gas Plant,"Eagle Rock Operating, L.P.","Eagle Rock Operating, L.P.",Jasper,75931,100.00,64.00,"1,160",0.0,710,"[-94.0082563, 31.0860477]"
+301,2012.0,TX,CGU Cordona Lake Plant,XTO Energy Inc,XTO Energy Inc,Crane,79731,10.00,2.80,754,0.0,443,"[-102.4151335, 31.4093115]"
+302,2012.0,TX,CIPCO Supersystem,DCP Southeast Texas Plants,DCP Midstream,Jefferson,77640,400.00,320.00,"1,143",1.0,"62,115","[-93.9776389, 29.8796363]"
+303,2012.0,TX,Canadian Plant,"Eagle Rock Field Services, L.P.","Eagle Rock Field Services, L.P.",Hemphill,79014,25.00,24.10,"1,240",0.0,700,"[-100.3497895, 35.9022267]"
+304,2012.0,TX,Cargray Plant,"Eagle Rock Energy Services, L.P.","Eagle Rock Energy Services, L.P.",Carson,79097,25.00,17.51,"1,410",0.0,"25,747","[-101.1843887, 35.4598173]"
+305,2012.0,TX,Carthage Gas Plant,MarkWest Energy Partners LLC,"MarkWest Energy Partners, LLC",Panola,75633,280.00,260.00,"1,145",0.0,0,"[-94.27436279999999, 32.148066]"
+306,2012.0,TX,Cedar Hill Gas Plant,"Davis Gas Processing, Inc.","Davis Gas Processing, Inc.",GARZA,79356,8.00,1.32,"1,309",0.0,750,"[-101.2977322, 33.2358163]"
+307,2012.0,TX,Chapel Hill Gas Plant,Costar Midstream LLC,Gas Solutions II Ltd,Smith,75792,25.00,19.00,"1,070",0.0,"4,850","[-95.1223608, 32.5011461]"
+308,2012.0,TX,Chico Plant,"Targa Midstream Services, LLC","Targa Midstream Services, LLC",Wise,76431,265.00,240.00,"1,188",0.0,"17,383","[-97.8503951, 33.3023727]"
+309,2012.0,TX,Chisholm Plant,Energy Transfer,Energy Transfer,Fayette,78945,120.00,120.00,"1,275",0.0,"1,000","[-96.8779926, 29.9334606]"
+310,2012.0,TX,Concho Gas Plant,"Davis Gas Processing, Inc.","Davis Gas Processing, Inc.",Concho,76866,10.00,1.71,"1,157",0.0,"1,500","[-99.9465077, 31.4685807]"
+311,2012.0,TX,Conger Plant,Targa Resources,Targa Resources,Sterling,76951,25.00,18.00,"1,318",0.0,714,"[-101.0711758, 31.78149299999999]"
+312,2012.0,TX,Conroe Plant,Southcross Energy GP LLC,Southcross Gathering Ltd.,Montgomery,77302,36.00,22.00,"1,080",0.0,230,"[-95.33116520000002, 30.2123622]"
+313,2012.0,TX,Cowtown/Corvette Plant,Cowtown Gas Processing Partners LP,Cowtown Gas Processing Partners LP,Hood,76033,300.00,132.00,"1,230",0.0,"7,857","[-97.5030669, 32.2917352]"
+314,2012.0,TX,Coyanosa,"Energy Transfer Equity, LP","Southern Union Gas Services, LTD",Pecos,79730,130.00,95.00,"1,160",0.0,0,"[-103.1048449, 31.1599754]"
+315,2012.0,TX,Crossroads,PVR East Texas Gas Processing LLC,,Harrison,75672,80.00,50.00,"1,120",0.0,0,"[-94.27436279999999, 32.4197441]"
+316,2012.0,TX,Delmita Gas Plant,"Enterprise Hydrocarbons, LP","Enterprise Products Operating, LLC",Starr,78536,130.00,117.00,"1,135",0.0,700,"[-98.4184224, 26.6180494]"
+317,2012.0,TX,Denver Unit CO2 Recovery Plant,Occidental Permian Ltd,Occidental Permian Ltd,Yoakum,79323,290.00,279.00,300,0.0,"90,000","[-102.8744945, 32.9261999]"
+318,2012.0,TX,Dollarhide Gas Plant,Chevron Production Company,Chevron Production Company,Andrews,79714,56.00,56.00,250,0.0,"7,000","[-102.8514837, 32.2838911]"
+319,2012.0,TX,Duncan Gas Processing Plant,"Enterprise Gathering, LLC","Enterprise Gathering, LLC",Rusk,75652,40.00,30.00,"1,098",0.0,714,"[-94.7691586, 32.2210489]"
+320,2012.0,TX,East Texas,DCP East Texas Gathering,DCP Midstream,Panola,75631,"1,000.00",710.00,"1,128",0.0,"185,000","[-94.4593791, 32.2549724]"
+321,2012.0,TX,East Texas(Avinger),Enbridge G & P (East Texas) L.P.,Enbridge G & P (East Texas) L.P.,Cass,75560,85.00,83.00,"1,082",0.0,"1,000","[-94.3770704, 33.2045275]"
+322,2012.0,TX,East Vealmoor Plant,"West Texas Gas Gas Processing, LP","West Texas Gas Gas Processing, LP",Martin,79511,46.00,45.79,"1,407",0.0,750,"[-101.2750531, 32.4138613]"
+323,2012.0,TX,Electra Gas Plant,"Halcon Operating Co., Inc.","Halcon Operating Co., Inc.",Wilbarger,76360,1.00,1.00,"1,800",0.0,"1,142","[-98.96870109999999, 33.9592916]"
+324,2012.0,TX,Enbridge Hobart Ranch Gas Plant,Enbridge Pipelines (Texas Gathering) L.P.,Enbridge Pipelines (Texas Gathering) L.P.,Hemphill,79014,125.00,91.00,"1,140",0.0,0,"[-100.3497895, 35.9022267]"
+325,2012.0,TX,Eustace Gas Plant,Tristream East Texas LLC,Tristream East Texas LLC,Henderson,75124,58.00,31.00,822,0.0,312,"[-96.0044121, 32.3267732]"
+326,2012.0,TX,Fain Gas Plant,Pioneer Natural Resources,Pioneer Natural Resources,Potter,79058,140.00,65.00,"1,360",0.0,"3,048","[-101.8777664, 35.5981578]"
+327,2012.0,TX,Fairway Gas Plant,ExxonMobil Corporation,Hunt Oil Company,Henderson,75782,88.00,48.00,"1,123",0.0,"1,083","[-95.59717909999999, 32.0753839]"
+328,2012.0,TX,Formosa Hydrocarbons Company,Formosa Hydrocarbons Company,Formosa Hydrocarbons Co Inc,Calhoun,77978,146.86,115.76,"1,120",0.0,0,"[-96.56766250000001, 28.66565719999999]"
+329,2012.0,TX,Fullerton,DCP Midstream,DCP Midstream,Andrews,79714,75.00,72.00,"1,380",0.0,"2,014","[-102.8514837, 32.2838911]"
+330,2012.0,TX,Gilmore Gas Plant,"Enterprise Hydrocarbons, LP","Enterprise Products Operating, LLC",Hidalgo,78541,265.00,225.00,"1,140",0.0,900,"[-98.2869478, 26.485261]"
+331,2012.0,TX,Godley Plant,Energy Transfer,Energy Transfer,Johnson,76044,590.00,400.00,"1,188",0.0,"3,000","[-97.56805949999999, 32.4455751]"
+332,2012.0,TX,Goforth Plant,,"Crosstex CCNG Processing, Ltd",Parker,76126,30.00,24.00,"1,213",0.0,75,"[-97.5030669, 32.6519191]"
+333,2012.0,TX,Goldsmith,DCP Midstream,DCP Midstream,Ector,79741,65.00,60.00,"1,325",0.0,"9,000","[-102.644587, 31.9699065]"
+334,2012.0,TX,Gomez Plant,Hoover Energy Partners LLC,Hoover Energy Partners  LLC,Pecos,79735,100.00,70.00,900,0.0,210,"[-102.7594847, 30.8568345]"
+335,2012.0,TX,Gordon,Enbridge G & P (North Texas) L.P.,Enbridge G & P (North Texas) L.P.,Palo Pinto,76453,40.00,25.00,"1,250",0.0,"3,600","[-98.3307468, 32.5547371]"
+336,2012.0,TX,Gray County Plant,"Eagle Rock Field Services, L.P.","Eagle Rock Field Services, L.P.",Gray,79065,20.00,14.36,"1,425",0.0,0,"[-100.9354944, 35.5477222]"
+337,2012.0,TX,Gregory,Southcross Energy GP LLC,Southcross Gathering Ltd.,San Patricio,78359,100.00,85.00,"1,106",0.0,"6,428","[-97.28956629999999, 27.9223702]"
+338,2012.0,TX,Grey Badger,"Midstream Energy Services, LLC","Midstream Energy Services, LLC",CARSON,79068,25.00,15.00,"1,300",0.0,"2,800","[-101.47935, 35.323655]"
+339,2012.0,TX,Gulf Plains Gas Plant,DCP Midstream,DCP Midstream,Nueces,78343,170.00,143.00,"1,200",0.0,"3,475","[-97.76340189999999, 27.590568]"
+340,2012.0,TX,Hainesville Gas Plant,Hainesville Gas Gathering Corporation,Energy Production Corporation,Wood,75773,16.00,2.00,"1,200",0.0,"2,227","[-95.4568133, 32.6675165]"
+341,2012.0,TX,Halley,"Energy Transfer Equity, LP","Southern Union Gas Services, LTD",Winkler,79745,110.00,43.02,"1,228",0.0,0,"[-102.8514837, 31.7473945]"
+342,2012.0,TX,Hamlin,PVR Hamlin LLC,PVR Midstream,Fisher,79520,8.00,6.80,"1,360",0.0,0,"[-100.1255164, 32.8922722]"
+343,2012.0,TX,Hanover Reinecke,Exterran,Exterran,Borden,79511,50.00,45.00,275,0.0,0,"[-101.2750531, 32.4138613]"
+344,2012.0,TX,Hawkins Gas Plant,ExxonMobil Corporation,ExxonMobil Corporation,Wood,75765,180.00,160.00,445,0.0,0,"[-95.2475518, 32.6764252]"
+345,2012.0,TX,Headlee,Chevron,Four Star Oil & Gas,Ector,79762,100.00,45.00,"1,330",0.0,"1,820","[-102.3807553, 31.9626279]"
+346,2012.0,TX,Hemphill (aka Hemploma) Gas Plant,BP America Production Company,BP America Production Company,Hemphill,79014,50.00,41.09,"1,260",0.0,0,"[-100.3497895, 35.9022267]"
+347,2012.0,TX,"Hemphill Plant (A, B, C, and D)",Superior Pipeline Texas LLC,Superior Pipeline Texas LLC,Hemphill,79014,115.00,90.00,"1,190",2.0,"1,700","[-100.3497895, 35.9022267]"
+348,2012.0,TX,Henderson,Enbridge G & P (East Texas) L.P.,Enbridge G & P (East Texas) L.P.,Rusk,75654,280.00,130.00,"1,084",0.0,600,"[-94.9350929, 32.1240956]"
+349,2012.0,TX,Hidetown Plant,Enbridge Pipelines (Texas Gathering) L.P.,Enbridge Pipelines (Texas Gathering) L.P.,Wheeler,79096,132.00,132.00,"1,121",0.0,833,"[-100.2151578, 35.4380151]"
+350,2012.0,TX,Hobart Cryo Plant,Enbridge Pipelines (Texas Gathering) L.P.,Enbridge Pipelines (Texas Gathering) L.P.,Hemphill,79014,30.00,30.00,"1,176",0.0,"1,000","[-100.3497895, 35.9022267]"
+351,2012.0,TX,Horn Compressor Station,"Seminole Gas Company, LLC","Seminole Gas Company, LLC",Hemphill,79061,0.50,0.50,"1,100",0.0,285,"[-100.4846227, 35.5014659]"
+352,2012.0,TX,Houston Central Plant,,Copano,Colorado,77475,623.89,623.89,"1,150",0.0,"21,097","[-96.67447759999999, 29.4940746]"
+353,2012.0,TX,Huckabay,Enbridge G & P (North Texas) L.P.,Enbridge G & P (North Texas) L.P.,Erath,76401,20.00,19.00,"1,220",0.0,"1,833","[-98.265058, 32.3116754]"
+354,2012.0,TX,Indian Creek Plant,Crestwood Panhandle Pipeline LLC,Crestwood Panhandle Pipeline LLC,Roberts,79069,36.00,16.00,"1,200",0.0,"1,109","[24.9025363, 58.877641]"
+355,2012.0,TX,Indian Mound,"Advance NGL, Inc.","Advance NGL, Inc.",Young,76450,0.21,0.20,,0.0,"1,429","[-98.61606739999999, 33.0953425]"
+356,2012.0,TX,Indian Springs Gas Plant,Teco Gas Processing LLC,Enterprise Products Operating LLC,Polk,77351,146.00,125.00,"1,160",0.0,"1,068","[-94.7691586, 30.670725]"
+357,2012.0,TX,Irion County Plant,"Davis Gas Processing, Inc.","Davis Gas Processing, Inc.",IRION,76930,16.00,8.30,"1,300",0.0,"1,500","[-101.1843887, 31.1625076]"
+358,2012.0,TX,Jameson Plant,"WTG Jameson, LP","WTG Gas Processing, LP",Coke,76949,35.00,29.37,"1,381",0.0,"11,000","[-100.6928804, 32.0445844]"
+359,2012.0,TX,Joaquin Plant,"CenterPoint Energy Field Services, LLC","CenterPoint Energy Field Services, LLC",Shelby,75954,30.00,8.00,"1,045",0.0,"1,190","[-94.0491077, 31.9057786]"
+360,2012.0,TX,Johnson State,Chesapeake Energy,Chesapeake Midstream Partners,Reeves,79718,0.50,0.18,"1,230",0.0,816,"[-103.7752634, 31.021636]"
+361,2012.0,TX,KELTON GAS PLANT,KELTON GAS SERVICES - LLC,AKA - FRONTIER FIELD SERVICES,USA,79096,90.00,32.00,"1,200",0.0,"1,200","[-100.2151578, 35.4380151]"
+362,2012.0,TX,Keystone,"Energy Transfer Equity, LP","Southern Union Gas Services, LTD",Winkler,79745,135.00,104.90,"1,234",0.0,0,"[-102.8514837, 31.7473945]"
+363,2012.0,TX,King Ranch Gas Plant,ExxonMobil Production Company,ExxonMobil Production Company,Kleburg,78363,800.00,550.00,"1,052",0.0,"160,000","[-97.8503951, 27.4456818]"
+364,2012.0,TX,Kripple Kreek Gas Plant,Pecan Pipeline Company,Pecan Pipeline Company,Montague,76230,120.00,91.40,"1,189",0.0,"8,571","[-97.9157099, 33.4988372]"
+365,2012.0,TX,La Gloria,DCP Midstream,DCP Midstream,Jim Wells,78355,265.00,160.00,"1,130",0.0,"34,120","[-98.1775638, 27.170058]"
+366,2012.0,TX,LaGrange Plant,Energy Transfer,Energy Transfer,Fayette,78945,205.00,150.00,"1,275",0.0,"1,700","[-96.8779926, 29.9334606]"
+367,2012.0,TX,Lefors Plant,"Eagle Rock Energy Services, L.P.","Eagle Rock Energy Services, L.P.",Gray,79054,7.50,5.70,"1,290",0.0,"3,316","[-100.8112885, 35.4182798]"
+368,2012.0,TX,Little Buffalo Basin,,Citation Oil & Gas,Harris,77069,1.30,0.54,"1,410",0.0,381,"[-95.5249863, 29.991318]"
+369,2012.0,TX,Lone Camp,Enbridge G & P (North Texas) L.P.,Enbridge G & P (North Texas) L.P.,Palo Pinto,76453,40.00,30.00,"1,250",0.0,714,"[-98.3307468, 32.5547371]"
+370,2012.0,TX,Longhorn Gas Plant,Enerfin Resources Company,Enerfin Resources II-92 LP,Archer,76310,1.50,0.45,"1,298",0.0,998,"[-98.5062007, 33.7928627]"
+371,2012.0,TX,Longview,Enbridge G & P (East Texas) L.P.,Enbridge G & P (East Texas) L.P.,Gregg,75603,120.00,106.00,"1,050",0.0,400,"[-94.70706159999999, 32.3817587]"
+372,2012.0,TX,Longview Gas Plant,Costar Midstream LLC,Gas Solutions II Ltd,Gregg,75604,50.00,20.00,"1,270",0.0,"7,850","[-94.8002333, 32.502529]"
+373,2012.0,TX,Luling Gas Plant,"Davis Gas Processing, Inc","Davis Gas Processing, Inc",Caldwell,78661,12.00,1.22,"1,223",0.0,350,"[-97.754233, 29.7313257]"
+374,2012.0,TX,Markham Gas Processing Plant,Williams Field Services-Gulf Coast Company LP,Williams Field Services-Gulf Coast Company LP,Matagorda,77456,500.00,326.00,"1,124",0.0,0,"[-96.07851040000001, 29.0366605]"
+375,2012.0,TX,Markley Plant,,"W. W. Sub, Inc",Jack & Young,76459,4.00,0.03,"1,140",0.0,500,"[-98.40745729999999, 33.2770197]"
+376,2012.0,TX,McCormick Gas Processing Plant,"Enterprise Gathering, LLC","Enterprise Gathering, LLC",Panola,75631,22.00,8.00,"1,068",0.0,523,"[-94.4593791, 32.2549724]"
+377,2012.0,TX,McLean Plant,"McLean Gas Processing Company, LLC","Carrera Operating Company, LLC",Gray,79057,25.00,12.00,"1,200",0.0,300,"[-100.6647101, 35.2252614]"
+378,2012.0,TX,McMullen,,Houston Pipeline,McMullen,78072,4.50,3.20,"1,387",0.0,760,"[-98.61606739999999, 28.2610528]"
+379,2012.0,TX,Mertzon Plant,Targa Resources,Targa Resources,Irion,76941,52.00,44.90,"1,239",0.0,"7,658","[-100.8903099, 31.2557696]"
+380,2012.0,TX,MidMar,MidMar Gas LLC,Feagan Gathering Company,Andrews,79714,75.00,70.00,"1,350",0.0,"1,000","[-102.8514837, 32.2838911]"
+381,2012.0,TX,Midkiff,,Atlas Pipeline Co,Midland,79755,210.00,210.00,"1,340",0.0,"5,142","[-101.9119871, 31.502598]"
+382,2012.0,TX,Mitchell Puckett,Hoover Energy Partners LLC,Hoover Energy Partners LLC,Pecos,79735,80.00,14.00,740,0.0,500,"[-102.7594847, 30.8568345]"
+383,2012.0,TX,Mount Pearl Gas Plant,,Citation Oil & Gas,Harris,77069,10.00,2.60,"1,227",0.0,"1,429","[-95.5249863, 29.991318]"
+384,2012.0,TX,Neches Field Plant,"Quantum Resources Management, LLC","Quantum Resources Management, LLC",Cherokee,75766,1.00,0.85,"1,389",0.0,600,"[-95.26844369999999, 31.9293086]"
+385,2012.0,TX,Neleh Gas System,"Davis Gas Processing, Inc.","Davis Gas Processing, Inc.",Upton,79752,5.00,1.69,"1,330",0.0,750,"[-102.1404037, 31.210594]"
+386,2012.0,TX,New Hope,Enbridge G & P (East Texas) L.P.,Enbridge G & P (East Texas) L.P.,Franklin,75163,10.00,7.50,977,0.0,"5,430","[-96.12089259999999, 32.174264]"
+387,2012.0,TX,North Fayette Treating Plant,Chaparral Resources LLC,"Chaparral Energy, LLC",Fayette,78942,10.00,1.20,"1,110",0.0,0,"[-96.89944949999999, 30.185302]"
+388,2012.0,TX,OSR-Halliday Unit Gathering System,Woodbine Production Corp,Woodbine Production Corp,Madison,77864,1.80,1.80,"1,200",0.0,"1,800","[-95.8775964, 30.9688804]"
+389,2012.0,TX,Old Ocean,Arrowhead Pipeline L.P.,Harvest Pipeline Company,Brazoria,77480,180.00,135.00,"1,120",0.0,"6,000","[-95.7510475, 29.085846]"
+390,2012.0,TX,Osborne Plant,Enbridge Pipelines (Texas Gathering) L.P.,Enbridge Pipelines (Texas Gathering) L.P.,Roberts,79059,25.00,16.00,"1,236",0.0,476,"[-100.7548851, 35.7369722]"
+391,2012.0,TX,Oxy Block31 Plant,Occidental Petroleum,Occidental Petroleum,Crane,79731,100.00,58.00,548,0.0,0,"[-102.4151335, 31.4093115]"
+392,2012.0,TX,Ozona,Chevron,Chevron,Crockett,76943,32.00,17.90,"1,235",0.0,648,"[-101.0711758, 30.5146701]"
+393,2012.0,TX,Ozona Gas Processing Plant Partnership,DCP Midstream,DCP Midstream,Cockett,76943-1029,120.00,85.00,"1,160",0.0,"15,833","[-101.0711758, 30.5146701]"
+394,2012.0,TX,Panhandle Superplant,DCP Midstream,DCP Midstream,,,475.00,343.00,"1,200",0.0,"20,307","[0, 0]"
+395,2012.0,TX,Pantex Plant,Phillips 66,WRB Borger Refinery,Hutchinson,79008,0.10,0.10,"1,500",0.0,0,"[-101.4, 35.67]"
+396,2012.0,TX,Pegasus Plant,DCP Midstream,DCP Midstream,Midland,79755,100.00,81.90,"1,287",0.0,43,"[-101.9119871, 31.502598]"
+397,2012.0,TX,Phoenix Arrington Ranch Plant,"Eagle Rock Energy Services, L.P.","Eagle Rock Energy Services, L.P.",Hemphill,79014,80.00,62.00,"1,180",0.0,575,"[-100.3497895, 35.9022267]"
+398,2012.0,TX,Pineview Gas Plant,,Citation Oil & Gas,Harris,77069,2.00,1.00,,0.0,"5,000","[-95.5249863, 29.991318]"
+399,2012.0,TX,Ranger,,Ranger Gas Gath LLC,,76470-0079,8.50,4.80,"1,350",0.0,714,"[-98.70407499999999, 32.5518355]"
+400,2012.0,TX,Red Deer Plant,"Eagle Rock Field Services, L.P.","Eagle Rock Field Services, L.P.",Roberts,79014,25.00,22.00,"1,250",0.0,215,"[-100.3497895, 35.9022267]"
+401,2012.0,TX,Reklaw (Limerock Facility),"Eagle Rock DeSoto Pipeline, L.P.","Eagle Rock DeSoto Pipeline, L.P.",Rusk,75784,1.50,1.50,981,0.0,250,"[-94.9558696, 31.8737499]"
+402,2012.0,TX,Roberts County Plant,"Eagle Rock Field Services, L.P.","Eagle Rock Field Services, L.P.",Roberts,79059,25.00,11.00,"1,150",0.0,"1,428","[-100.7548851, 35.7369722]"
+403,2012.0,TX,Roberts Ranch,DCP Midstream,DCP Midstream,Midland,79766,70.00,70.00,"1,100",0.0,362,"[-102.3922135, 31.703691]"
+404,2012.0,TX,Rosewood Dew Point Facility,"EROC Gathering Company, LP","EROC Gathering Company, LP",Upshur,75644,13.00,5.50,702,0.0,452,"[-95.01824599999999, 32.7533753]"
+405,2012.0,TX,Saint Jo Processing Plant,"Copano Field Services/North Texas, LLC","Copano Field Services/North Texas, LLC",Montague,76251,104.00,64.00,"1,141",0.0,571,"[-97.6765157, 33.6252075]"
+406,2012.0,TX,Sale Ranch Gas Plant,"West Texas Gas Gas Processing, LP","West Texas Gas Gas Processing, LP",MARTIN,79782,35.00,30.40,"1,358",0.0,750,"[-101.7523854, 32.0341947]"
+407,2012.0,TX,San Martin Plant,"Enterprise Hydrocarbons, LP","Enterprise Products Operating, LLC",Bexar,78112,200.00,145.00,"1,251",0.0,0,"[-98.385532, 29.2128928]"
+408,2012.0,TX,Sand Hills Complex,"Targa Midstream Services, LLC","Targa Midstream Services, LLC",Crane,79731,150.00,140.00,"1,200",0.0,490,"[-102.4151335, 31.4093115]"
+409,2012.0,TX,Seminole Gas Plant,Oxy USA Inc - Permian,Hess Corporation,Gaines,79360,280.00,256.76,156,0.0,"9,600","[-102.7135121, 32.6987519]"
+410,2012.0,TX,Shackelford,"Targa Midstream Services, LLC","Targa Midstream Services, LLC",Shackelford,76430,15.00,9.00,"1,308",0.0,"4,528","[-99.23421959999999, 32.7827765]"
+411,2012.0,TX,Shackelford Plant,"DGP Taurus GP Holding, LLC","DGP Taurus Field Services, LP",Eastland,76437,15.00,5.13,"1,250",0.0,750,"[-99.05710889999999, 32.347147]"
+412,2012.0,TX,Shamburger Lake Plant,Valence Operating Company,Valence Operating Company,SMITH,75706,2.00,0.08,"1,250",0.0,355,"[-95.33116520000002, 32.4473378]"
+413,2012.0,TX,Sherman,"SemGas, LP","SemGas, LP",Grayson,75092,20.00,17.00,"1,240",0.0,750,"[-96.7279918, 33.6805008]"
+414,2012.0,TX,Shilling Gas Plant,"Enterprise Hydrocarbons, LP","Enterprise Products Operating, LLC",Webb,78357-2032,110.00,110.00,"1,200",0.0,0,"[-98.5940814, 27.9604958]"
+415,2012.0,TX,Shoup Gas Plant,"Enterprise Hydrocarbons, LP","Enterprise Products Operating, LLC",Nueces,78410,285.00,255.00,"1,120",0.0,"1,700","[-97.5788975, 27.8222933]"
+416,2012.0,TX,Silver Creek Plant,,"Crosstex CCNG Processing, Ltd",Parker,76087,200.00,165.00,"1,158",1.0,"1,023","[-97.8286368, 32.6095477]"
+417,2012.0,TX,Slaughter Gasoline Plant,Oxy,Oxy Permian,Hockley,79372,35.00,30.00,"1,400",0.0,"562,500","[-102.4781873, 33.4369951]"
+418,2012.0,TX,Slaughter Gasoline Plant (Mallet),Oxy,Oxy Permian,Hockley,79372,335.00,335.00,"1,250",0.0,"2,200","[-102.4781873, 33.4369951]"
+419,2012.0,TX,Snyder Gasoline Plant,ExxonMobil Corporation,Kinder Morgan CO2,Scurry,79549,90.00,51.72,"1,150",0.0,"1,000","[-100.9354944, 32.9127679]"
+420,2012.0,TX,Sonora Plant,"Enterprise Hydrocarbons, LP","Enterprise Products Operating, LLC",Sutton,76950,120.00,95.00,"1,141",0.0,750,"[-100.5296115, 30.3776869]"
+421,2012.0,TX,Southwest Ozona,DCP Midstream,DCP Midstream,Crockett,76943,100.00,85.00,"1,160",0.0,"1,429","[-101.0711758, 30.5146701]"
+422,2012.0,TX,Spearman Plant,PVR Gas Processing LLC,PVR Gas Processing LLC,Ochiltree,79104,100.00,100.00,"1,158",0.0,"1,300","[-101.7922632, 35.2011859]"
+423,2012.0,TX,Spraberry,DCP Midstream,DCP Midstream,Midland,79706,60.00,60.00,"1,300",0.0,"9,500","[-101.9804613, 31.8781368]"
+424,2012.0,TX,Springtown Processing plant,Enbridge G & P,Enbridge G & P,Parker,76082,65.00,55.00,"1,250",0.0,0,"[-97.7199454, 32.9528231]"
+425,2012.0,TX,Sterling Plant,Targa Resources,Targa Resources,Sterling,76951,62.00,58.00,"1,250",0.0,"1,610","[-101.0711758, 31.78149299999999]"
+426,2012.0,TX,Stockman Plant,"CenterPoint Energy Field Services, LLC","CenterPoint Energy Field Services, LLC",Shelby,75935,15.00,2.00,"1,057",0.0,715,"[-94.17904820000001, 31.7953957]"
+427,2012.0,TX,Sunray Gas Plant,BP America Production Company,BP America Production Company,Moore,79029,189.00,118.00,"1,180",0.0,0,"[-102.026135, 35.8738937]"
+428,2012.0,TX,Sutton Sonora Plant,DCP Midstream,DCP Midstream,Sutton,76493,62.00,62.00,"1,175",0.0,"4,523","[24.6630065, 48.9031731]"
+429,2012.0,TX,Sweetwater Creek Plant,J-W Pipeline Company,J-W Pipeline Company,Wise,76234,40.00,18.00,"1,140",0.0,"2,860","[-97.4814163, 33.2581763]"
+430,2012.0,TX,Texas City Processing Plant,Kinder Morgan Tejas Pipeline LLC,Kinder Morgan Tejas Pipeline LLC,Galveston,77590,40.00,40.00,"1,085",0.0,600,"[-94.9247074, 29.38527629999999]"
+431,2012.0,TX,Thompsonville Gas Plant,"Enterprise Hydrocarbons, LP","Enterprise Products Operating, LLC",Jim Hogg,77369,330.00,305.00,"1,140",0.0,0,"[-94.7174062, 30.3854221]"
+432,2012.0,TX,Three Rivers,DCP Midstream,DCP Midstream,Live Oak,78022,95.00,85.00,"1,155",0.0,"1,380","[-98.1775638, 28.1951501]"
+433,2012.0,TX,Tippett,"Energy Transfer Equity, LP","Southern Union Gas Services, LTD",Crockett,79752,60.00,56.00,"1,140",0.0,0,"[-102.1404037, 31.210594]"
+434,2012.0,TX,Tolar,DCP Tolar Gas Service,DCP Midstream,Hood,76476,80.00,40.00,940,0.0,"2,571","[-97.9374948, 32.3552663]"
+435,2012.0,TX,Tract 75 Gas Plant,Kinder Morgan,Kinder Morgan,,79744,110.00,67.00,314,0.0,700,"[-102.026135, 30.9278324]"
+436,2012.0,TX,Trinidad,Enbridge G & P (East Texas) L.P.,Enbridge G & P (East Texas) L.P.,Henderson,75163,65.00,51.80,"1,042",0.0,714,"[-96.12089259999999, 32.174264]"
+437,2012.0,TX,Tyler Gas Plant,J-W Gathering Company,J-W Gathering Company,Smith,75704,1.50,0.90,"1,102",0.0,"1,000","[-95.4149003, 32.3986023]"
+438,2012.0,TX,Van Plant,UNOCAL-CNAEP,UNOCAL-CNAEP,Van Zandt,75790,5.00,1.00,"1,370",0.0,0,"[-95.63528009999999, 32.5131096]"
+439,2012.0,TX,WPMT NGL,Occidental Permian Ltd,Occidental Permian Ltd,Yoakum,79323,35.00,18.00,"1,100",0.0,0,"[-102.8744945, 32.9261999]"
+440,2012.0,TX,Waha Plant,Regency Field Services LLC,Energy Transfer Company,Pecos,79730,120.00,87.00,"1,072",0.0,250,"[-103.1048449, 31.1599754]"
+441,2012.0,TX,Waskom Gas Processing,"Prism Gas Systems I, LP","Prism Gas Systems I, LP",Harrison,75692,320.00,250.00,"1,090",0.0,"38,500","[-94.08999109999999, 32.4936631]"
+442,2012.0,TX,Wasson ODC Unit CO2 Removal Plant,Occidental Permian Ltd,Occidental Permian Ltd,Yoakum,79323,100.00,96.84,170,0.0,"4,095","[-102.8744945, 32.9261999]"
+443,2012.0,TX,Weatherford,Enbridge G & P (North Texas) L.P.,,Parker,76088,70.00,65.00,,0.0,430,"[-97.9374948, 32.84955619999999]"
+444,2012.0,TX,West Johnson County Plant,Devon Energy Corp,Devon Gas Services LP,Johnson,76044,100.00,79.34,"1,068",0.0,"4,296","[-97.56805949999999, 32.4455751]"
+445,2012.0,TX,Wilcox Gas Plant,DCP Midstream,DCP Midstream,Lavaca,77964,240.00,188.00,"1,102",0.0,"9,857","[-96.83509989999999, 29.33590539999999]"
+446,2012.0,TX,Willard CO2 Recovery Plant,Oxy USA WTP,Oxy USA WTP,Yoakum,79323,90.00,80.00,160,0.0,"1,310","[-102.8744945, 32.9261999]"
+447,2012.0,TX,Woodall Plant,"Eagle Rock Field Services, L.P.","Eagle Rock Field Services, L.P.",Hemphill,79011,60.00,40.00,"1,200",0.0,"3,500","[-100.2151578, 35.6113632]"
+448,2012.0,TX,Worsham-Steed Cryogenic Gas Plant,"NorTex Midstream Partners, LLC","Worsham-Steed Gas Storage, LLC",Jack,76486,60.00,53.00,"1,027",0.0,0,"[-98.06834300000001, 33.0203015]"
+449,2012.0,TX,Yates Gas Plant,Kinder Morgan,Kinder Morgan,Pecos,79744,70.00,50.00,312,0.0,"1,048","[-102.026135, 30.9278324]"
+450,2012.0,TX,Yoakum Gas Processing Plant,"Enterprise Hydrocarbons, LP","Enterprise Products Operating, LLC",Lavaca,77995,300.00,300.00,"1,250",0.0,0,"[-97.0713572, 29.2080028]"
+451,2012.0,TX,Zybach,Enbridge Pipelines (Texas Gathering) L.P.,Enbridge Pipelines (Texas Gathering) L.P.,Wheeler,79011,164.00,164.00,"1,169",0.0,952,"[-100.2151578, 35.6113632]"
+452,2012.0,UT,Altamont Gas Plant,"El Paso Midstream Investment Company, LLC","El Paso Midstream Investment Company, LLC",Duchesne,84001,60.00,40.00,"1,200",0.0,"22,476","[-110.2593928, 40.2849128]"
+453,2012.0,UT,Brundage Gas Plant,Berry Petroleum Company,Berry Petroleum Company,Duchesne,,30.00,24.00,"1,150",0.0,"2,500","[0, 0]"
+454,2012.0,UT,Chipeta Plant,"Western Gas Partners, LP","Western Gas Partners, LP",Uintah,84078,750.00,600.00,"1,106",0.0,"34,285","[-109.5285205, 40.4553668]"
+455,2012.0,UT,Grand Gas Gathering Plant,"Cisco Dome, LLC",,Grand,84515,0.80,0.25,"1,098",0.0,360,"[-109.140438, 38.911433]"
+456,2012.0,UT,Harley Dome,ETC Canyon Pipelines LLC,Energy Transfer,Grand,84540,30.00,20.00,"1,067",0.0,714,"[-109.4735066, 39.2157449]"
+457,2012.0,UT,Ironhorse Gas Plant,QEP Field Services Company,QEP Field Services Company,Uintah,84078,150.00,146.00,"1,140",0.0,0,"[-109.5285205, 40.4553668]"
+458,2012.0,UT,Kastler Dew Point Plant,Questar Pipeline Company,Questar Pipeline Company,Daggett,84023,300.00,24.30,"1,055",0.0,"2,143","[-109.4259114, 40.922044]"
+459,2012.0,UT,Lisbon Gas Plant,"Patara Oil & Gas, LLC","Patara Oil & Gas, LLC",San Juan,84530,60.00,20.00,990,0.0,"20,000","[-109.140438, 38.2638416]"
+460,2012.0,UT,Monument Butte Plant,Newfield Rocky Mountain Inc,Newfield Rocky Mountain Inc,Duchesne,84052,22.00,18.00,"1,195",0.0,"1,430","[-109.9854145, 40.1280816]"
+461,2012.0,UT,Pleasant Valley Compressor Station,Newfield Exploration Co,Newfield Production Co,Duchesne,84052,20.00,18.00,"1,220",0.0,429,"[-109.9854145, 40.1280816]"
+462,2012.0,UT,Price Chiller Skids,Questar Field Services,Questar Pipeline Company,Carbon,84501,45.00,40.70,"1,077",0.0,714,"[-110.8107201, 39.599386]"
+463,2012.0,UT,Price Dew Point Plant,Questar Pipeline Company,Questar Pipeline Company,Carbon,84501,120.00,28.50,"1,053",0.0,"1,428","[-110.8107201, 39.599386]"
+464,2012.0,UT,Price Raptor Plant,Questar Field Services,Questar Pipeline Company,Carbon,84501,130.00,130.00,"1,077",0.0,"2,857","[-110.8107201, 39.599386]"
+465,2012.0,UT,Red Wash Gas Plant,QEP Field Services Company,QEP Field Services Company,Uintah,84078,160.00,82.00,"1,110",0.0,"3,173","[-109.5285205, 40.4553668]"
+466,2012.0,UT,Skull Creek Dew Point,Questar Pipeline Company,Questar Pipeline Company,Moffat,81625,45.00,34.60,"1,118",0.0,"1,428","[-107.763621, 40.7685941]"
+467,2012.0,UT,Stagecoach Gas Plant,QEP Field Services Company,QEP Field Services Company,Uintah,84078,200.00,115.00,"1,100",0.0,"4,571","[-109.5285205, 40.4553668]"
+468,2012.0,WV,Cobb,"Markwest Energy Appalacia, LLC","Markwest Energy Appalacia, LLC",Kenewha,25045,65.00,35.00,"1,240",0.0,0,"[-81.3179364, 38.4775663]"
+469,2012.0,WV,Copley Gas Plant,"Dominion Transmission, Inc.","Dominion Transmission, Inc.",Lewis,26452,35.00,28.00,"1,180",0.0,"2,514","[-80.5216184, 39.0384704]"
+470,2012.0,WV,Hastings Extraction Plant,"Dominion Transmission, Inc.","Dominion Transmission, Inc.",Wetzel,26419,180.00,160.00,"1,241",0.0,0,"[-80.6548882, 39.5843004]"
+471,2012.0,WV,Holden,Chesapeake Appalachia LLC,Greystar Corporation,Logan,25625,11.00,5.50,"1,269",0.0,"2,853","[-82.0788445, 37.8231974]"
+472,2012.0,WV,Hurricane Gas Processing Plant,East Resources,Elkhorn Gas Processing,Putham,25526,10.00,6.00,"1,260",0.0,"2,900","[-81.97529949999999, 38.3991952]"
+473,2012.0,WV,Kenova,"Markwest Energy Appalacia, LLC","Markwest Energy Appalacia, LLC",Wayne,25530,160.00,108.00,"1,238",0.0,0,"[-82.5510469, 38.3430456]"
+474,2012.0,WV,Kermit,MarkWest Hydrocarbons,Greystar Corporation,Mingo,25674,40.00,23.50,"1,276",0.0,714,"[-82.36688699999999, 37.8791782]"
+475,2012.0,WV,Lightburn Extraction Plant,"Dominion Transmission, Inc.","Dominion Transmission, Inc.",Lewis,26378,44.00,35.00,"1,178",0.0,"5,028","[-80.3435908, 39.1063826]"
+476,2012.0,WV,MarkWest Majorsville Cryo Plant,MarkWest Energy,MarkWest,Marshal,26036,270.00,185.00,"1,250",0.0,0,"[-80.54940069999999, 39.9994074]"
+477,2012.0,WV,Smokehouse,Chesapeake Operating Inc.,Chesapeake Operating Inc.,Logan,25508,15.00,5.40,"1,220",0.0,"1,429","[-82.06250519999999, 37.9433183]"
+478,2012.0,WV,West Union Gas Plant,"Dominion Transmission, Inc.","Dominion Transmission, Inc.",Doddridge,26456,15.00,10.00,"1,220",0.0,"1,885","[-80.7879407, 39.3074306]"
+479,2012.0,WY,Anschutz Ranch East,Merit Energy Company,Merit Energy Company,Uinta,82930,55.00,11.00,"1,026",0.0,"10,000","[-110.9652537, 41.2664704]"
+480,2012.0,WY,Austin Creek Gas Plant,"Legacy Reserves Operating, LP","Legacy Reserves Operating, LP",Natrona,82604,3.00,3.00,"1,175",0.0,800,"[-106.6291304, 42.7979846]"
+481,2012.0,WY,Bairoil CO2 Plant,Merit Energy Company,Merit Energy Company,Sweetwater,82322,143.00,142.00,80,0.0,"5,700","[-107.5505152, 42.2181631]"
+482,2012.0,WY,Beaver Creek Plant,Devon Gas Services LP,Devon Gas Services LP,Fremont,82501,55.00,26.60,"1,100",0.0,"4,948","[-108.1903059, 43.0453134]"
+483,2012.0,WY,Bison Treating Facility,"Western Gas Partners, LP","Western Gas Partners, LP",Campbell,82718,270.00,270.00,935,0.0,0,"[-105.6881788, 43.8380643]"
+484,2012.0,WY,Blacks Fork Gas Plant (I and II),QEP Field Services,QEP Field Services,Sweetwater,82934,705.00,402.00,"1,086",0.0,"22,285","[-109.9973244, 41.5937675]"
+485,2012.0,WY,Carter Creek Gas Plant,Chevron,Chevron,Uinta,82930,150.00,68.00,"1,018",0.0,0,"[-110.9652537, 41.2664704]"
+486,2012.0,WY,Casper Plant,KM Upstream LLC,,Natrona,82604,65.00,40.90,"1,130",0.0,"8,970","[-106.6291304, 42.7979846]"
+487,2012.0,WY,Douglas,KM Upstream LLC,,Converse,82633,140.00,75.85,"1,160",0.0,"15,650","[-105.2194808, 43.2261477]"
+488,2012.0,WY,Echo Springs Gas Plant,Williams,"Williams Midstream Services, LLC",Carbon,82336,745.00,600.00,"1,150",0.0,0,"[-108.1903059, 41.750585]"
+489,2012.0,WY,Elk Basin Gasoline Plant,Encore Energy Partners Operating LLC,Encore Energy Partners Operating LLC,Park,82435,13.00,12.50,255,0.0,"10,666","[-108.8149338, 44.8667017]"
+490,2012.0,WY,Emigrant Trail Gas Plant,QEP Field Services,QEP Field Services,Uinta,82937,55.00,50.00,"1,148",0.0,"2,800","[-110.2832217, 41.3879893]"
+491,2012.0,WY,Fort Union Medicine Bow Treating Facility,Crestone Energy Ventures LLC,"Western Gas Partners, LP",converse,82633,340.00,300.00,960,0.0,0,"[-105.2194808, 43.2261477]"
+492,2012.0,WY,Garland Gas Plant,Marathon Oil Company,Marathon Oil Company,Park,82412,4.00,1.00,"1,130",0.0,572,"[-108.5298024, 44.789939]"
+493,2012.0,WY,Granger Gas Plant,Anadarko Petroleum Corp,Anadarko Petroleum Corp,Sweetwater,82935,500.00,200.00,"1,100",0.0,"25,000","[-109.5211063, 41.5248947]"
+494,2012.0,WY,Highlight Complex,"Western Gas Partners, LP","Western Gas Partners, LP",Campbell,82718,45.00,32.50,"1,275",0.0,"13,725","[-105.6881788, 43.8380643]"
+495,2012.0,WY,Lost Cabin Gas Plant,ConocoPhillips (Burlington Resources),ConocoPhillips,Fremont,82642,355.00,295.00,980,0.0,0,"[-107.6215321, 43.287261]"
+496,2012.0,WY,Newcastle Complex,"Western Gas Partners, LP","Western Gas Partners, LP",Weston,82710,3.00,2.50,"1,550",0.0,"4,005","[-104.2627843, 44.74162940000001]"
+497,2012.0,WY,Opal Gas Plant,WIlliams,"Williams Midstream Services, LLC",Lincoln,83124,"1,480.00","1,472.00","1,300",0.0,"37,000","[-110.2593928, 41.7949967]"
+498,2012.0,WY,Oregon Basin Gas Plant,Marathon Oil Company,Marathon Oil Company,Park,82414,6.00,5.00,929,0.0,952,"[-109.0427429, 44.52055439999999]"
+499,2012.0,WY,Painter,Merit Energy Company,Merit Energy Company,Uinta,82931,270.00,235.00,727,0.0,"13,000","[-110.9662373, 41.2690987]"
+500,2012.0,WY,Patrick Draw Gas Plant,"Western Gas Partners, LP","Western Gas Partners, LP",Sweetwater,82901,130.00,85.00,"1,100",0.0,"24,500","[-108.902683, 41.3615496]"
+501,2012.0,WY,Pavillion Gas Plant,Encana Oil & Gas (USA) Inc.,Encana Oil & Gas (USA) Inc.,Fremont,82523,80.00,14.50,"1,078",0.0,"2,850","[-108.7580016, 43.5118075]"
+502,2012.0,WY,Phosphoria Gasoline Plant,Devon Gas Services LP,Devon Gas Services LP,Fremont,82501,4.00,2.00,"1,244",0.0,0,"[-108.1903059, 43.0453134]"
+503,2012.0,WY,Pioneer Cryogenic Plant,"Enterprise Gas Processing, LLC","Enterprise Gas Processing, LLC",Lincoln,83124,750.00,590.00,"1,090",0.0,0,"[-110.2593928, 41.7949967]"
+504,2012.0,WY,Pioneer Silica Gel Plant,"Enterprise Gas Processing, LLC","Enterprise Gas Processing, LLC",Lincoln,83124,600.00,8.00,"1,090",0.0,"5,000","[-110.2593928, 41.7949967]"
+505,2012.0,WY,Rawlins,"Colorado Interstate Gas Company, LLC","Colorado Interstate Gas Company, LLC",Carbon,82334,220.00,97.60,"1,066",0.0,"23,879","[-107.0539434, 41.698061]"
+506,2012.0,WY,Sage Creek Gas Plant,Merit Energy Company,Merit Energy Company,Converse,82637,30.00,7.00,"1,500",0.0,"4,000","[-105.92299, 42.7866299]"
+507,2012.0,WY,Shute Creek Treating Facility,ExxonMobil Production Company,ExxonMobil Production Company,Lincoln/Sweetwater,83101,690.00,145.00,240,0.0,0,"[-110.5692179, 42.02345589999999]"
+508,2012.0,WY,Silo Gas Plant,Kaiser Francis Oil Company,Kaiser Francis Oil Company,Laramie,82009,3.50,0.68,"1,370",0.0,"1,428","[-104.9388853, 41.3361875]"
+509,2012.0,WY,Silvertip Processing Plant,Fidelity Exploration and Production Co,Fidelity Exploration and Production Co,Park,82435,10.00,4.60,"1,315",0.0,"2,143","[-108.8149338, 44.8667017]"
+510,2012.0,WY,Sugarloaf Plant,Windsor Energy Group,Windsor Energy Group,Park County,82435,0.86,0.74,"1,120",0.0,"1,143","[-108.8149338, 44.8667017]"
+511,2012.0,WY,Table Rock Gas Plant,"Chevron USA, Inc.","Chevron USA, Inc.",Sweetwater,82901,47.00,12.00,867,0.0,"1,000","[-108.902683, 41.3615496]"
+512,2012.0,WY,Vermillion Gas Plant,QEP Field Services,QEP Field Services,Sweetwater,82934,50.00,49.00,"1,118",0.0,685,"[-109.9973244, 41.5937675]"
+513,2012.0,WY,Worland Plant,Devon Energy Corp,Devon Energy Corp,Washakie,82401,20.00,7.00,"1,340",0.0,"5,000","[-107.9824261, 43.9400396]"
+514,2012.0,WY,Worland Plant,Washakie Midstream Services LLC,Washakie Midstream Services LLC,Washakie,82401,6.00,1.20,"1,248",0.0,"4,057","[-107.9824261, 43.9400396]"
+515,2012.0,WY,YU Bench,"Saga Petroleum, LLC",Saga Petroleum LLC,Park,82414,5.00,1.30,"1,270",0.0,715,"[-109.0427429, 44.52055439999999]"
+516,,,,,,,,,,,,,"[0, 0]"
