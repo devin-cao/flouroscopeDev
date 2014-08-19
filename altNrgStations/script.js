@@ -145,10 +145,11 @@ d3.json("world-110m2.json", function(error, topology) {
             svg.append("text")
                 .text(d['Street Address'] + ", " + d['City'] + ", " + d["State"])
                 .attr("id", "plantNameText")
-                .attr("x",d3.select(this).attr("cx") - 10)
-                .attr("y",d3.select(this).attr("cy"))
-                .attr("text-anchor","end")
-                .attr("fill","blue")
+                .attr("x", 200)
+                .attr("y",height - 350)
+                .attr("text-anchor","start")
+                .attr("fill","black")
+                .attr("font-size", 20)
         })
         .on("mouseout",function(){
             d3.select(this)
@@ -160,7 +161,6 @@ d3.json("world-110m2.json", function(error, topology) {
                 .remove()
         })
 
-        //.each("end",function(d,i){ movingCircles() })
 });
 
 
@@ -176,6 +176,8 @@ svg.append("text")
 //Legend and selector stuff!
 
 types = ['BD', 'CNG', 'E85', 'ELEC', 'HY', 'LNG', 'LPG']
+
+var clicked = false
 
 //Makes legend circles!
 svg.selectAll("circle")
@@ -193,6 +195,9 @@ svg.selectAll("circle")
     .attr("fill", function(d){
         return colorChooser(d)
     })
+    // .on("click", function(d){
+    //     if (clicked){ clicked = false} //reset clicked variable if already clicked
+    // })
     .on("mouseover", function(d){
         d3.select(this)
             .transition()
@@ -205,18 +210,15 @@ svg.selectAll("circle")
             .attr("fill-opacity", 0.01)
 
         d3.selectAll("." + selected)
-            //.transition()
             .attr("r",8)
             .attr("fill-opacity", 0.3)
     })
-
     .on("mouseout", function(d){
         d3.select(this)
             .transition()
             .attr("r", 15)
 
         d3.select("g").selectAll("circle")
-            //.transition()
             .attr("r",4)
             .attr("fill-opacity", 0.3)
     })
