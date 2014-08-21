@@ -1,4 +1,4 @@
-#A repo for holding MCT web flouroscope work on:
+#Potential visaulizations for MCT web flouroscopes:
 
 ---
 
