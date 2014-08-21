@@ -2,30 +2,30 @@
 
 ---
 
-## nodeFillingStations/: 
+### nodeFillingStations/: 
 	
 	* A functional node view of alternative energy filling stations around the country. Filter by different types by interacting with a legend. 
 	data: http://www.afdc.energy.gov/fuels/data_methods_stations.html
 
-## hexbinFillingStations/: 
+### hexbinFillingStations/: 
 	
 	* Hexbin representation of all data from /nodeFillingStations
 
-## hexbinSolarLevels/: 
+### hexbinSolarLevels/: 
 	
 	* A hexbin representation of average daily solar radiation levels around the country: 
 	data: http://www.nrel.gov/gis/data_solar.html
 
-## nodeCaPowerPlants/: 
+### nodeCaPowerPlants/: 
 
 	* A filtered node visualization of the different powerplants in the state of California. 
 	data: http://www.energyalmanac.ca.gov/powerplants/
 
-## nuclearPlants/: 
+### nuclearPlants/: 
 
 	* Not functional yet. 
 
-## data/: 
+### data/: 
 	
 	* Holds all of the data currently aggregated. 
 
