@@ -1,0 +1,443 @@
+,Facility,Location,Process,Capacity MWe net,Current Status,Start Year,Owner,Country,ISO country code,lon,lat
+0,Atucha-1," -33.9669, -59.2086",PHWR,335,Operating,1974.0,Nucleoelectrica Argentina SA,Argentina,AR,-59.2086,-33.9669
+1,Embalse," -32.2315, -64.4423",PHWR,600,Operating,1984.0,Nucleoelectrica Argentina SA,Argentina,AR,-64.4423,-32.2315
+2,Armenia-2 (Metsamor)," 40.1813, 44.1472",PWR/VVER,376,Operating,1980.0,JSC Armenia NPP,Armenia,AM,44.1472,40.1813
+3,Doel-1," 51.3227, 4.25868",PWR,392,Operating,1975.0,"Indivision Doel (EBES, INTERCOM, UNERG)",Belgium,BE,4.25868,51.3227
+4,Doel-2," 51.3227, 4.25919",PWR,392,Operating,1975.0,"Indivision Doel (EBES, INTERCOM, UNERG)",Belgium,BE,4.25919,51.3227
+5,Doel-3," 51.3249, 4.25658",PWR,985,Operating,1982.0,"Indivision Doel (EBES, INTERCOM, UNERG)",Belgium,BE,4.25658,51.3249
+6,Doel-4," 51.3249, 4.25708",PWR,1001,Operating,1985.0,"Indivision Doel (EBES, INTERCOM, UNERG)",Belgium,BE,4.25708,51.3249
+7,Tihange-1," 50.5333, 5.271",PWR,962,Operating,1975.0,Electrabel,Belgium,BE,5.271,50.5333
+8,Tihange-2," 50.5328, 5.271",PWR,1008,Operating,1983.0,Electrabel,Belgium,BE,5.271,50.5328
+9,Tihange-3," 50.5323, 5.271",PWR,1015,Operating,1985.0,Electrabel,Belgium,BE,5.271,50.5323
+10,Angra-1," -23.008, -44.4567",PWR,626,Operating,1985.0,Eletronuclear,Brazil,BR,-44.4567,-23.008
+11,Angra-2," -23.0065, -44.4578",PWR,1270,Operating,2001.0,Eletronuclear,Brazil,BR,-44.4578,-23.0065
+12,Kozloduy-5," 43.746647, 23.769614",PWR/VVER,953,Operating,1988.0,National Electricity Co (NEC),Bulgaria,BG,23.769614,43.746647
+13,Kozloduy-6," 43.7463, 23.7709",PWR/VVER,953,Operating,1993.0,National Electricity Co (NEC),Bulgaria,BG,23.7709,43.7463
+14,Bruce-3," 44.3411, -81.5716",PHWR/CANDU,769,Operating,1978.0,Ontario Power Generation (OPG),Canada,CA,-81.5716,44.3411
+15,Bruce-4," 44.3416, -81.5716",PHWR/CANDU,769,Operating,1979.0,Ontario Power Generation (OPG),Canada,CA,-81.5716,44.3416
+16,Bruce-5," 44.3198, -81.588",PHWR/CANDU,785,Operating,1985.0,Ontario Power Generation (OPG),Canada,CA,-81.588,44.3198
+17,Bruce-6," 44.3193, -81.588",PHWR/CANDU,785,Operating,1984.0,Ontario Power Generation (OPG),Canada,CA,-81.588,44.3193
+18,Bruce-7," 44.3188, -81.588",PHWR/CANDU,785,Operating,1986.0,Ontario Power Generation (OPG),Canada,CA,-81.588,44.3188
+19,Bruce-8," 44.3183, -81.588",PHWR/CANDU,785,Operating,1987.0,Ontario Power Generation (OPG),Canada,CA,-81.588,44.3183
+20,Darlington-1," 43.867, -78.7244",PHWR/CANDU,881,Operating,1992.0,Ontario Power Generation (OPG),Canada,CA,-78.7244,43.867
+21,Darlington-2," 43.8665, -78.7244",PHWR/CANDU,881,Operating,1990.0,Ontario Power Generation (OPG),Canada,CA,-78.7244,43.8665
+22,Darlington-3," 43.866, -78.7244",PHWR/CANDU,881,Operating,1993.0,Ontario Power Generation (OPG),Canada,CA,-78.7244,43.866
+23,Darlington-4," 43.8655, -78.7244",PHWR/CANDU,881,Operating,1993.0,Ontario Power Generation (OPG),Canada,CA,-78.7244,43.8655
+24,Gentilly-2," 46.3941, -72.3553",PHWR/CANDU,638,Operating,1983.0,Hydro-Quebec,Canada,CA,-72.3553,46.3941
+25,Pickering-1," 43.8116, -79.0695",PHWR/CANDU,515,Operating,1971.0,Ontario Hydro,Canada,CA,-79.0695,43.8116
+26,Pickering-4," 43.8113, -79.0673",PHWR/CANDU,515,Operating,1973.0,Ontario Hydro,Canada,CA,-79.0673,43.8113
+27,Pickering-5," 43.8107, -79.0649",PHWR/CANDU,516,Operating,1983.0,Ontario Hydro,Canada,CA,-79.0649,43.8107
+28,Pickering-6," 43.8105, -79.0642",PHWR/CANDU,516,Operating,1984.0,Ontario Power Generation (OPG),Canada,CA,-79.0642,43.8105
+29,Pickering-7," 43.8102, -79.063",PHWR/CANDU,516,Operating,1985.0,Ontario Hydro,Canada,CA,-79.063,43.8102
+30,Pickering-8," 43.81, -79.062",PHWR/CANDU,516,Operating,1986.0,Ontario Hydro,Canada,CA,-79.062,43.81
+31,Point Lepreau," 45.068, -66.4554",PHWR/CANDU,635,Operating,1983.0,New Brunswick Power,Canada,CA,-66.4554,45.068
+32,Chinese Experimental Fast Reactor (CEFR)," 39.739435, 116.03016",FBR,20,Operating,,China Institute of Atomic Energy,"China, mainland",CN,116.03016,39.739435
+33,Daya Bay 1 (Guangdong-1)," 22.5989, 114.544",PWR,944,Operating,1994.0,Guangdong Nuclear Power JVC (GNP JVC),"China, mainland",CN,114.544,22.5989
+34,Daya Bay 2 (Guangdong-2)," 22.5986, 114.544",PWR,944,Operating,1994.0,Guangdong Nuclear Power JVC (GNP JVC),"China, mainland",CN,114.544,22.5986
+35,Lingao-1," 22.6058, 114.55",PWR,935,Operating,2002.0,Lingao Nuclear Power Co,"China, mainland",CN,114.55,22.6058
+36,Lingao-2," 22.6053, 114.55",PWR,935,Operating,2003.0,Lingao Nuclear Power Co,"China, mainland",CN,114.55,22.6053
+37,Lingao-3," 22.6089, 114.552",PWR,1000,Operating,2010.0,Guangdong Nuclear Power JVC (GNP JVC),"China, mainland",CN,114.552,22.6089
+38,Qinshan-1 (Phase I)," 30.4398, 120.95",PWR,279,Operating,1994.0,China National Nuclear Corp (CNNC),"China, mainland",CN,120.95,30.4398
+39,"Qinshan-2 (Phase II, Unit 1)"," 30.421, 120.945",PWR,610,Operating,2002.0,China National Nuclear Corp (CNNC),"China, mainland",CN,120.945,30.421
+40,"Qinshan-3 (Phase II, Unit 2)"," 30.4208, 120.946",PWR,610,Operating,2004.0,China National Nuclear Corp (CNNC),"China, mainland",CN,120.946,30.4208
+41,"Qinshan-4 (Phase III, Unit 1)"," 30.436, 120.961",PHWR/CANDU,665,Operating,2002.0,China National Nuclear Corp (CNNC),"China, mainland",CN,120.961,30.436
+42,"Qinshan-5 (Phase III, Unit 2)"," 30.4354, 120.961",PHWR/CANDU,665,Operating,2003.0,China National Nuclear Corp (CNNC),"China, mainland",CN,120.961,30.4354
+43,"Qinshan-6 (Phase II, Unit 3)"," 30.4189, 120.942",PWR,650,Operating,2010.0,China National Nuclear Corp (CNNC),"China, mainland",CN,120.942,30.4189
+44,Tianwan-1," 34.6898, 119.456",PWR,950,Operating,2006.0,Jiangsu Nuclear Power Corp (CNNC),"China, mainland",CN,119.456,34.6898
+45,Tianwan-2," 34.6888, 119.456",PWR,950,Operating,2007.0,Jiangsu Nuclear Power Corp (CNNC),"China, mainland",CN,119.456,34.6888
+46,Dukovany-1," 49.0893, 16.1491",PWR,428,Operating,1985.0,CEZ,Czech Republic,CZ,16.1491,49.0893
+47,Dukovany-2," 49.0889, 16.1489",PWR,412,Operating,1986.0,CEZ,Czech Republic,CZ,16.1489,49.0889
+48,Dukovany-3," 49.0886, 16.1488",PWR,471,Operating,1986.0,CEZ,Czech Republic,CZ,16.1488,49.0886
+49,Dukovany-4," 49.0883, 16.1486",PWR,470,Operating,1986.0,CEZ,Czech Republic,CZ,16.1486,49.0883
+50,Temelin-1," 49.1812, 14.3771",PWR,963,Operating,2002.0,CEZ,Czech Republic,CZ,14.3771,49.1812
+51,Temelin-2," 49.1807, 14.3769",PWR,963,Operating,2002.0,CEZ,Czech Republic,CZ,14.3769,49.1807
+52,Loviisa-1," 60.3715, 26.3423",PWR/VVER,488,Operating,1977.0,Fortum Power and Heat Oy,Finland,FI,26.3423,60.3715
+53,Loviisa-2," 60.3714, 26.3429",PWR/VVER,488,Operating,1981.0,Fortum Power and Heat Oy,Finland,FI,26.3429,60.3714
+54,Olkiluoto-1," 61.2354, 21.444",BWR,840,Operating,1979.0,Teollisuuden Voima Oy (TVO),Finland,FI,21.444,61.2354
+55,Olkiluoto-2," 61.2354, 21.445",BWR,860,Operating,1982.0,Teollisuuden Voima Oy (TVO),Finland,FI,21.445,61.2354
+56,Belleville-1," 47.5105, 2.87116",PWR,1310,Operating,1988.0,Electricite de France (EdF),France,FR,2.87116,47.5105
+57,Belleville-2," 47.51, 2.87123",PWR,1310,Operating,1989.0,Electricite de France (EdF),France,FR,2.87123,47.51
+58,Blayais-1," 45.2562, -0.691293",PWR,910,Operating,1981.0,Electricite de France (EdF),France,FR,-0.691293,45.2562
+59,Blayais-2," 45.2561, -0.690765",PWR,910,Operating,1983.0,Electricite de France (EdF),France,FR,-0.690765,45.2561
+60,Blayais-3," 45.2561, -0.690331",PWR,910,Operating,1983.0,Electricite de France (EdF),France,FR,-0.690331,45.2561
+61,Blayais-4," 45.2561, -0.689882",PWR,910,Operating,1983.0,Electricite de France (EdF),France,FR,-0.689882,45.2561
+62,Bugey-2," 45.7975, 5.2672",PWR,910,Operating,1979.0,Electricite de France (EdF),France,FR,5.2672,45.7975
+63,Bugey-3," 45.7975, 5.2682",PWR,910,Operating,1979.0,Electricite de France (EdF),France,FR,5.2682,45.7975
+64,Bugey-4," 45.7998, 5.26725",PWR,880,Operating,1979.0,Electricite de France (EdF),France,FR,5.26725,45.7998
+65,Bugey-5," 45.7998, 5.26825",PWR,900,Operating,1980.0,Electricite de France (EdF),France,FR,5.26825,45.7998
+66,Cattenom-1," 49.4164, 6.21737",PWR,1300,Operating,1987.0,Electricite de France (EdF),France,FR,6.21737,49.4164
+67,Cattenom-2," 49.415877, 6.217372",PWR,1300,Operating,1988.0,Electricite de France (EdF),France,FR,6.217372,49.415877
+68,Cattenom-3," 49.4154, 6.21737",PWR,1300,Operating,1991.0,Electricite de France (EdF),France,FR,6.21737,49.4154
+69,Cattenom-4," 49.4149, 6.21737",PWR,1300,Operating,1992.0,Electricite de France (EdF),France,FR,6.21737,49.4149
+70,Chinon-B1," 47.2298, 0.168232",PWR,905,Operating,1984.0,Electricite de France (EdF),France,FR,0.168232,47.2298
+71,Chinon-B2," 47.2293, 0.168249",PWR,905,Operating,1984.0,Electricite de France (EdF),France,FR,0.168249,47.2293
+72,Chinon-B3," 47.2242, 0.170887",PWR,905,Operating,1987.0,Electricite de France (EdF),France,FR,0.170887,47.2242
+73,Chinon-B4," 47.2242, 0.17147",PWR,905,Operating,1988.0,Electricite de France (EdF),France,FR,0.17147,47.2242
+74,Chooz-B1," 50.0892, 4.7907",PWR,1500,Operating,2000.0,Electricite de France (EdF),France,FR,4.7907,50.0892
+75,Chooz-B2," 50.0885, 4.7907",PWR,1500,Operating,2000.0,Electricite de France (EdF),France,FR,4.7907,50.0885
+76,Civaux-1," 46.4566, 0.654464",PWR,1495,Operating,2002.0,Electricite de France (EdF),France,FR,0.654464,46.4566
+77,Civaux-2," 46.4566, 0.655464",PWR,1495,Operating,2002.0,Electricite de France (EdF),France,FR,0.655464,46.4566
+78,Cruas-1," 44.6336, 4.75652",PWR,915,Operating,1984.0,Electricite de France (EdF),France,FR,4.75652,44.6336
+79,Cruas-2," 44.6331, 4.75652",PWR,915,Operating,1985.0,Electricite de France (EdF),France,FR,4.75652,44.6331
+80,Cruas-3," 44.6326, 4.75652",PWR,915,Operating,1984.0,Electricite de France (EdF),France,FR,4.75652,44.6326
+81,Cruas-4," 44.6321, 4.75652",PWR,915,Operating,1985.0,Electricite de France (EdF),France,FR,4.75652,44.6321
+82,Dampierre-1," 47.7323, 2.51311",PWR,890,Operating,1980.0,Electricite de France (EdF),France,FR,2.51311,47.7323
+83,Dampierre-2," 47.7323, 2.51411",PWR,890,Operating,1981.0,Electricite de France (EdF),France,FR,2.51411,47.7323
+84,Dampierre-3," 47.7323, 2.51511",PWR,890,Operating,1981.0,Electricite de France (EdF),France,FR,2.51511,47.7323
+85,Dampierre-4," 47.7323, 2.51611",PWR,890,Operating,1981.0,Electricite de France (EdF),France,FR,2.51611,47.7323
+86,Fessenheim-1," 47.903, 7.56437",PWR,880,Operating,1977.0,Electricite de France (EdF),France,FR,7.56437,47.903
+87,Fessenheim-2," 47.9029, 7.56506",PWR,880,Operating,1978.0,Electricite de France (EdF),France,FR,7.56506,47.9029
+88,Flamanville-1," 49.5367, -1.88112",PWR,1330,Operating,1986.0,Electricite de France (EdF),France,FR,-1.88112,49.5367
+89,Flamanville-2," 49.5367, -1.88058",PWR,1330,Operating,1987.0,Electricite de France (EdF),France,FR,-1.88058,49.5367
+90,Golfech-1," 44.1046, 0.84536",PWR,1310,Operating,1991.0,Electricite de France (EdF),France,FR,0.84536,44.1046
+91,Golfech-2," 44.1041, 0.84536",PWR,1310,Operating,1994.0,Electricite de France (EdF),France,FR,0.84536,44.1041
+92,Gravelines-1," 51.0139, 2.13752",PWR,915,Operating,1980.0,Electricite de France (EdF),France,FR,2.13752,51.0139
+93,Gravelines-2," 51.0134, 2.13752",PWR,915,Operating,1980.0,Electricite de France (EdF),France,FR,2.13752,51.0134
+94,Gravelines-3," 51.0129, 2.13752",PWR,915,Operating,1981.0,Electricite de France (EdF),France,FR,2.13752,51.0129
+95,Gravelines-4," 51.0124, 2.13752",PWR,915,Operating,1981.0,Electricite de France (EdF),France,FR,2.13752,51.0124
+96,Gravelines-5," 51.0119, 2.13752",PWR,915,Operating,1985.0,Electricite de France (EdF),France,FR,2.13752,51.0119
+97,Gravelines-6," 51.0114, 2.13752",PWR,915,Operating,1985.0,Electricite de France (EdF),France,FR,2.13752,51.0114
+98,Nogent-1," 48.517, 3.52004",PWR,1310,Operating,1988.0,Electricite de France (EdF),France,FR,3.52004,48.517
+99,Nogent-2," 48.5164, 3.52004",PWR,1310,Operating,1989.0,Electricite de France (EdF),France,FR,3.52004,48.5164
+100,Paluel-1," 49.8569, 0.635286",PWR,1330,Operating,1985.0,Electricite de France (EdF),France,FR,0.635286,49.8569
+101,Paluel-2," 49.8564, 0.635286",PWR,1330,Operating,1985.0,Electricite de France (EdF),France,FR,0.635286,49.8564
+102,Paluel-3," 49.8559, 0.635286",PWR,1330,Operating,1986.0,Electricite de France (EdF),France,FR,0.635286,49.8559
+103,Paluel-4," 49.8555, 0.635286",PWR,1330,Operating,1986.0,Electricite de France (EdF),France,FR,0.635286,49.8555
+104,Penly-1," 49.975, 1.21494",PWR,1330,Operating,1990.0,Electricite de France (EdF),France,FR,1.21494,49.975
+105,Penly-2," 49.9746, 1.21494",PWR,1330,Operating,1992.0,Electricite de France (EdF),France,FR,1.21494,49.9746
+106,St. Alban-1," 45.404, 4.75397",PWR,1335,Operating,1986.0,Electricite de France (EdF),France,FR,4.75397,45.404
+107,St. Alban-2," 45.404, 4.75498",PWR,1335,Operating,1987.0,Electricite de France (EdF),France,FR,4.75498,45.404
+108,St. Laurent-B1," 47.7211, 1.58069",PWR,915,Operating,1983.0,Electricite de France (EdF),France,FR,1.58069,47.7211
+109,St. Laurent-B2," 47.720411, 1.580724",PWR,915,Operating,1983.0,Electricite de France (EdF),France,FR,1.580724,47.720411
+110,Tricastin-1," 44.3297, 4.73318",PWR,915,Operating,1980.0,Electricite de France (EdF),France,FR,4.73318,44.3297
+111,Tricastin-2," 44.3302, 4.73318",PWR,915,Operating,1980.0,Electricite de France (EdF),France,FR,4.73318,44.3302
+112,Tricastin-3," 44.3307, 4.73318",PWR,880,Operating,1981.0,Electricite de France (EdF),France,FR,4.73318,44.3307
+113,Tricastin-4," 44.3312, 4.73318",PWR,880,Operating,1981.0,Electricite de France (EdF),France,FR,4.73318,44.3312
+114,Biblis-A," 49.7085, 8.41479",PWR,1167,Operating,1975.0,RWE Power AG,Germany,DE,8.41479,49.7085
+115,Biblis-B," 49.7078, 8.41479",PWR,1240,Operating,1977.0,RWE Power AG,Germany,DE,8.41479,49.7078
+116,Brokdorf," 53.85, 9.34455",PWR,1370,Operating,1986.0,EON Kernkraft GmbH,Germany,DE,9.34455,53.85
+117,Brunsbuttel," 53.8906, 9.20187",BWR,771,Operating,1977.0,Hamburgische Electricitaetswerke AG (HEW),Germany,DE,9.20187,53.8906
+118,Emsland," 52.4706, 7.32177",PWR,1329,Operating,1988.0,RWE Power AG,Germany,DE,7.32177,52.4706
+119,Grafenrheinfeld," 49.984, 10.1857",PWR,1275,Operating,1982.0,EON Kernkraft GmbH,Germany,DE,10.1857,49.984
+120,Grohnde," 52.0332, 9.41151",PWR,1360,Operating,1985.0,EON Kernkraft GmbH,Germany,DE,9.41151,52.0332
+121,Gundremmingen-B," 48.5153, 10.4037",BWR,1284,Operating,1984.0,RWE Power AG,Germany,DE,10.4037,48.5153
+122,Gundremmingen-C," 48.5153, 10.4042",BWR,1288,Operating,1985.0,RWE Power AG,Germany,DE,10.4042,48.5153
+123,Isar-1," 48.607, 12.2958",BWR,878,Operating,1979.0,EON Kernkraft GmbH,Germany,DE,12.2958,48.607
+124,Isar-2," 48.6069, 12.2958",PWR,1400,Operating,1988.0,EON Kernkraft GmbH,Germany,DE,12.2958,48.6069
+125,Krummel," 53.4104, 10.4097",BWR,1260,Operating,1984.0,EON Kernkraft / Hamburgische Electricitaetswerke AG (HEW),Germany,DE,10.4097,53.4104
+126,Neckarwestheim-1," 49.0394, 9.17555",PWR,785,Operating,1976.0,EnBW Kraftwerk AG,Germany,DE,9.17555,49.0394
+127,Neckarwestheim-2," 49.0394, 9.17616",PWR,1310,Operating,1989.0,EnBW Kraftwerk AG,Germany,DE,9.17616,49.0394
+128,Philippsburg-1," 49.2526, 8.43235",BWR,890,Operating,1980.0,EnBW Kraftwerk AG,Germany,DE,8.43235,49.2526
+129,Philippsburg-2," 49.2526, 8.43335",PWR,1392,Operating,1985.0,EnBW Kraftwerk AG,Germany,DE,8.43335,49.2526
+130,Unterweser," 53.4286, 8.47681",PWR,1345,Operating,1979.0,EON Kernkraft GmbH,Germany,DE,8.47681,53.4286
+131,Paks-1," 46.573998, 18.855155",PWR,470,Operating,1983.0,MVM,Hungary,HU,18.855155,46.573998
+132,Paks-2," 46.574, 18.8562",PWR,473,Operating,1984.0,MVM,Hungary,HU,18.8562,46.574
+133,Paks-3," 46.574, 18.8572",PWR,473,Operating,1986.0,MVM,Hungary,HU,18.8572,46.574
+134,Paks-4," 46.574, 18.8582",PWR,473,Operating,1987.0,MVM,Hungary,HU,18.8582,46.574
+135,Kaiga-1," 14.8652, 74.4381",PHWR,202,Operating,2000.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,74.4381,14.8652
+136,Kaiga-2," 14.8652, 74.4384",PHWR,202,Operating,2000.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,74.4384,14.8652
+137,Kaiga-3," 14.8653, 74.4418",PHWR,202,Operating,2007.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,74.4418,14.8653
+138,Kakrapar-1," 21.2355, 73.3507",PHWR,202,Operating,1993.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,73.3507,21.2355
+139,Kakrapar-2," 21.2352, 73.3507",PHWR,202,Operating,1995.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,73.3507,21.2352
+140,Kalpakkam-1 (Madras-1 / MAPS1)," 12.5571, 80.177",PHWR,150,Operating,1984.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,80.177,12.5571
+141,Kalpakkam-2 (Madras-2 / MAPS2)," 12.5571, 80.177",PHWR,150,Operating,1986.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,80.177,12.5571
+142,Narora-1," 28.1559, 78.4092",PHWR,202,Operating,1991.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,78.4092,28.1559
+143,Narora-2," 28.1554, 78.4092",PHWR,202,Operating,1992.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,78.4092,28.1554
+144,Rajasthan-1," 24.8762, 75.6083",PHWR,90,Operating,1973.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,75.6083,24.8762
+145,Rajasthan-2," 24.8762, 75.6092",PHWR,187,Operating,1981.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,75.6092,24.8762
+146,Rajasthan-3," 24.8723, 75.619",PHWR,202,Operating,2000.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,75.619,24.8723
+147,Rajasthan-4," 24.8718, 75.619",PHWR,202,Operating,2000.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,75.619,24.8718
+148,Rajasthan-5," 24.8722, 75.625",PHWR,202,Operating,2010.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,75.625,24.8722
+149,Tarapur-1," 19.8343, 72.6567",BWR,150,Operating,1969.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,72.6567,19.8343
+150,Tarapur-2," 19.8343, 72.6569",BWR,150,Operating,1969.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,72.6569,19.8343
+151,Tarapur-3," 19.8297, 72.6632",PHWR,490,Operating,2006.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,72.6632,19.8297
+152,Tarapur-4," 19.8297, 72.6636",PHWR,490,Operating,2005.0,Nuclear Power Corp of India Ltd (NPCIL),India,IN,72.6636,19.8297
+153,Fukushima-Daiichi-1," 37.4217, 141.031",BWR,439,Operating,1971.0,Tokyo Electric Power Co (TEPCO),Japan,JP,141.031,37.4217
+154,Fukushima-Daiichi-2," 37.4217, 141.032",BWR,760,Operating,1974.0,Tokyo Electric Power Co (TEPCO),Japan,JP,141.032,37.4217
+155,Fukushima-Daiichi-3," 37.4217, 141.033",BWR,760,Operating,1976.0,Tokyo Electric Power Co (TEPCO),Japan,JP,141.033,37.4217
+156,Fukushima-Daiichi-4," 37.4217, 141.034",BWR,760,Operating,1978.0,Tokyo Electric Power Co (TEPCO),Japan,JP,141.034,37.4217
+157,Fukushima-Daiichi-5," 37.429, 141.031",BWR,760,Operating,1978.0,Tokyo Electric Power Co (TEPCO),Japan,JP,141.031,37.429
+158,Fukushima-Daiichi-6," 37.429, 141.031",BWR,1067,Operating,1979.0,Tokyo Electric Power Co (TEPCO),Japan,JP,141.031,37.429
+159,Fukushima-Daini-1," 37.3153, 141.024",BWR,1067,Operating,1982.0,Tokyo Electric Power Co (TEPCO),Japan,JP,141.024,37.3153
+160,Fukushima-Daini-2," 37.3153, 141.025",BWR,1067,Operating,1984.0,Tokyo Electric Power Co (TEPCO),Japan,JP,141.025,37.3153
+161,Fukushima-Daini-3," 37.3153, 141.026",BWR,1067,Operating,1985.0,Tokyo Electric Power Co (TEPCO),Japan,JP,141.026,37.3153
+162,Fukushima-Daini-4," 37.3153, 141.027",BWR,1067,Operating,1987.0,Tokyo Electric Power Co (TEPCO),Japan,JP,141.027,37.3153
+163,Genkai-1," 33.5179, 129.837",PWR,529,Operating,1975.0,Kyushu Electric Power Co,Japan,JP,129.837,33.5179
+164,Genkai-2," 33.5174, 129.837",PWR,529,Operating,1981.0,Kyushu Electric Power Co,Japan,JP,129.837,33.5174
+165,Genkai-3," 33.5169, 129.837",PWR,1127,Operating,1994.0,Kyushu Electric Power Co,Japan,JP,129.837,33.5169
+166,Genkai-4," 33.5164, 129.837",PWR,1127,Operating,1997.0,Kyushu Electric Power Co,Japan,JP,129.837,33.5164
+167,Hamaoka-3," 34.6203, 138.141",BWR,1056,Operating,1987.0,Chubu Electric Power Co,Japan,JP,138.141,34.6203
+168,Hamaoka-4," 34.6198, 138.141",BWR,1092,Operating,1993.0,Chubu Electric Power Co,Japan,JP,138.141,34.6198
+169,Hamaoka-5," 34.6193, 138.141",ABWR,1380,Operating,2005.0,Chubu Electric Power Co,Japan,JP,138.141,34.6193
+170,Higashi-Dori-1 (Tohoku)," 41.1881, 141.393",BWR,1067,Operating,2005.0,Tohoku Electric Power Co,Japan,JP,141.393,41.1881
+171,Ikata-1," 33.491, 132.309",PWR,538,Operating,1977.0,Shikoku Electric Power Co,Japan,JP,132.309,33.491
+172,Ikata-2," 33.491, 132.31",PWR,538,Operating,1982.0,Shikoku Electric Power Co,Japan,JP,132.31,33.491
+173,Ikata-3," 33.4908, 132.312",PWR,846,Operating,1994.0,Shikoku Electric Power Co,Japan,JP,132.312,33.4908
+174,Kashiwazaki Kariwa-1," 37.434, 138.598",BWR,1067,Operating,1985.0,Tokyo Electric Power Co (TEPCO),Japan,JP,138.598,37.434
+175,Kashiwazaki Kariwa-2," 37.4335, 138.598",BWR,1067,Operating,1990.0,Tokyo Electric Power Co (TEPCO),Japan,JP,138.598,37.4335
+176,Kashiwazaki Kariwa-3," 37.433, 138.598",BWR,1067,Operating,1993.0,Tokyo Electric Power Co (TEPCO),Japan,JP,138.598,37.433
+177,Kashiwazaki Kariwa-4," 37.4325, 138.598",BWR,1067,Operating,1994.0,Tokyo Electric Power Co (TEPCO),Japan,JP,138.598,37.4325
+178,Kashiwazaki Kariwa-5," 37.432, 138.598",BWR,1067,Operating,1990.0,Tokyo Electric Power Co (TEPCO),Japan,JP,138.598,37.432
+179,Kashiwazaki Kariwa-6," 37.4315, 138.598",ABWR,1315,Operating,1996.0,Tokyo Electric Power Co (TEPCO),Japan,JP,138.598,37.4315
+180,Kashiwazaki Kariwa-7," 37.431, 138.598",ABWR,1315,Operating,1997.0,Tokyo Electric Power Co (TEPCO),Japan,JP,138.598,37.431
+181,Mihama-1," 35.7013, 135.962",PWR,320,Operating,1970.0,Kansai Electric Power Co,Japan,JP,135.962,35.7013
+182,Mihama-2," 35.7008, 135.962",PWR,470,Operating,1972.0,Kansai Electric Power Co,Japan,JP,135.962,35.7008
+183,Mihama-3," 35.7034, 135.961",PWR,780,Operating,1976.0,Kansai Electric Power Co,Japan,JP,135.961,35.7034
+184,Monju," 35.73906, 135.98808",FBR,246,Operating,1995.0,Japan Nuclear Cycle Development Institute (JNC),Japan,JP,135.98808,35.73906
+185,Ohi-1," 35.5437, 135.652",PWR,1120,Operating,1979.0,Kansai Electric Power Co,Japan,JP,135.652,35.5437
+186,Ohi-2," 35.5432, 135.652",PWR,1120,Operating,1979.0,Kansai Electric Power Co,Japan,JP,135.652,35.5432
+187,Ohi-3,"35.5422, 135.652",PWR,1127,Operating,1991.0,Kansai Electric Power Co,Japan,JP,135.652,35.5422
+188,Ohi-4," 35.5422, 135.652",PWR,1127,Operating,1993.0,Kansai Electric Power Co,Japan,JP,135.652,35.5422
+189,Onagawa-1," 38.4, 141.504",BWR,498,Operating,1984.0,Tohoku Electric Power Co,Japan,JP,141.504,38.4
+190,Onagawa-2," 38.4005, 141.504",BWR,796,Operating,1995.0,Tohoku Electric Power Co,Japan,JP,141.504,38.4005
+191,Onagawa-3," 38.401, 141.504",BWR,796,Operating,2002.0,Tohoku Electric Power Co,Japan,JP,141.504,38.401
+192,Sendai-1," 31.8339, 130.193",PWR,846,Operating,1984.0,Kyushu Electric Power Co,Japan,JP,130.193,31.8339
+193,Sendai-2," 31.8339, 130.193",PWR,846,Operating,1985.0,Kyushu Electric Power Co,Japan,JP,130.193,31.8339
+194,Shika-1," 37.0611, 136.728",BWR,505,Operating,1993.0,Hokuriku Electric Power Co,Japan,JP,136.728,37.0611
+195,Shika-2," 37.0611, 136.729",ABWR,1358,Operating,2006.0,Hokuriku Electric Power Co,Japan,JP,136.729,37.0611
+196,Shimane-1," 35.5368, 132.999",BWR,439,Operating,1974.0,Chugoku Electric Power Co,Japan,JP,132.999,35.5368
+197,Shimane-2," 35.5367, 133",BWR,789,Operating,1989.0,Chugoku Electric Power Co,Japan,JP,133.0,35.5367
+198,Takahama-1," 35.5195, 135.503",PWR,780,Operating,1974.0,Kansai Electric Power Co,Japan,JP,135.503,35.5195
+199,Takahama-2," 35.52, 135.503",PWR,780,Operating,1975.0,Kansai Electric Power Co,Japan,JP,135.503,35.52
+200,Takahama-3," 35.5205, 135.503",PWR,830,Operating,1985.0,Kansai Electric Power Co,Japan,JP,135.503,35.5205
+201,Takahama-4," 35.521, 135.503",PWR,830,Operating,1985.0,Kansai Electric Power Co,Japan,JP,135.503,35.521
+202,Tokai-2," 36.4664, 140.614",BWR,1056,Operating,1978.0,Japan Atomic Power Co (JAPCO),Japan,JP,140.614,36.4664
+203,Tomari-1," 43.0375, 140.515",PWR,550,Operating,1989.0,Hokkaido Electric Power Co,Japan,JP,140.515,43.0375
+204,Tomari-2," 43.0375, 140.516",PWR,550,Operating,1991.0,Hokkaido Electric Power Co,Japan,JP,140.516,43.0375
+205,Tomari-3," 43.0344, 140.517",PWR,912,Operating,2009.0,Hokkaido Electric Power Co,Japan,JP,140.517,43.0344
+206,Tsuruga-1," 35.672469, 136.079132",BWR,341,Operating,1970.0,Japan Atomic Power Co (JAPCO),Japan,JP,136.079132,35.672469
+207,Tsuruga-2," 35.6725, 136.08",PWR,1115,Operating,1987.0,Japan Atomic Power Co (JAPCO),Japan,JP,136.08,35.6725
+208,Kori-1," 35.3212, 129.295",PWR,563,Operating,1978.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,129.295,35.3212
+209,Kori-2," 35.3212, 129.296",PWR,612,Operating,1983.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,129.296,35.3212
+210,Kori-3," 35.3212, 129.297",PWR,903,Operating,1985.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,129.297,35.3212
+211,Kori-4," 35.3212, 129.298",PWR,903,Operating,1986.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,129.298,35.3212
+212,Shin-Kori-1," 35.3271355679, 129.301743507",PWR,1001,Operating,2011.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,129.301743507,35.3271355679
+213,Ulchin-1," 37.0929, 129.393",PWR,920,Operating,1988.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,129.393,37.0929
+214,Ulchin-2," 37.0929, 129.394",PWR,920,Operating,1989.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,129.394,37.0929
+215,Ulchin-3," 37.0929, 129.395",PWR,960,Operating,1998.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,129.395,37.0929
+216,Ulchin-4," 37.0929, 129.396",PWR,960,Operating,1999.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,129.396,37.0929
+217,Ulchin-5," 37.0929, 129.397",PWR,950,Operating,2004.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,129.397,37.0929
+218,Ulchin-6," 37.0929, 129.398",PWR,950,Operating,2005.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,129.398,37.0929
+219,Wolsong-1," 35.7101, 129.476",PHWR,629,Operating,1983.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,129.476,35.7101
+220,Wolsong-2," 35.7101, 129.477",PHWR,700,Operating,1997.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,129.477,35.7101
+221,Wolsong-3," 35.7101, 129.478",PHWR,700,Operating,1998.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,129.478,35.7101
+222,Wolsong-4," 35.7101, 129.479",PHWR,700,Operating,1999.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,129.479,35.7101
+223,Yonggwang-1," 35.4039, 126.419",PWR,900,Operating,1986.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,126.419,35.4039
+224,Yonggwang-2," 35.4034, 126.419",PWR,900,Operating,1987.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,126.419,35.4034
+225,Yonggwang-3," 35.4029, 126.419",PWR,950,Operating,1995.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,126.419,35.4029
+226,Yonggwang-4," 35.4024, 126.419",PWR,950,Operating,1996.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,126.419,35.4024
+227,Yonggwang-5," 35.4019, 126.419",PWR,950,Operating,2002.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,126.419,35.4019
+228,Yonggwang-6," 35.4014, 126.419",PWR,950,Operating,2002.0,Korea Electric Power Corp (Kepco),Korea RO (South),KR,126.419,35.4014
+229,Laguna Verde-1," 19.7189, -96.4049",BWR,800,Operating,1990.0,Comision Federal de Electricidad (CFEM),Mexico,MX,-96.4049,19.7189
+230,Laguna Verde-2," 19.7189, -96.4039",BWR,800,Operating,1995.0,Comision Federal de Electricidad (CFEM),Mexico,MX,-96.4039,19.7189
+231,Borssele," 51.4311, 3.71867",PWR,452,Operating,1973.0,N.V. Elektriciteits-Produktiemaatschappij Zuid-Nederland (EPZ),Netherlands,NL,3.71867,51.4311
+232,Chasma-1 (Chasnupp-1)," 32.3919, 71.463",PWR,300,Operating,2000.0,Pakistan Atomic Energy Commission (PAEC),Pakistan,PK,71.463,32.3919
+233,Karachi-1 (Kanupp-1)," 24.8451, 66.7895",PHWR,125,Operating,1972.0,Pakistan Atomic Energy Commission (PAEC),Pakistan,PK,66.7895,24.8451
+234,Cernavoda-1," 44.3216, 28.0605",PHWR/CANDU,655,Operating,1996.0,RENEL,Romania,RO,28.0605,44.3216
+235,Cernavoda-2," 44.3216, 28.0615",PHWR,650,Operating,2007.0,RENEL,Romania,RO,28.0615,44.3216
+236,Balakovo-1," 52.0915, 47.9519",PWR/VVER,950,Operating,1986.0,Rosenergoatom,Russian Federation,RU,47.9519,52.0915
+237,Balakovo-2," 52.0921, 47.9536",PWR/VVER,950,Operating,1988.0,Rosenergoatom,Russian Federation,RU,47.9536,52.0921
+238,Balakovo-3," 52.0927, 47.9558",PWR/VVER,950,Operating,1989.0,Rosenergoatom,Russian Federation,RU,47.9558,52.0927
+239,Balakovo-4," 52.0932, 47.9579",PWR/VVER,950,Operating,1993.0,Rosenergoatom,Russian Federation,RU,47.9579,52.0932
+240,Beloyarsk-3," 56.8415, 61.3188",FBR,560,Operating,1981.0,Rosenergoatom,Russian Federation,RU,61.3188,56.8415
+241,Bilibino 1," 68.0586, 166.492",LWGR/EGP,12,Operating,1970.0,Rosenergoatom,Russian Federation,RU,166.492,68.0586
+242,Bilibino 2," 68.0586, 166.493",LWGR/EGP,12,Operating,1975.0,Rosenergoatom,Russian Federation,RU,166.493,68.0586
+243,Bilibino 3," 68.0586, 166.494",LWGR/EGP,12,Operating,1976.0,Rosenergoatom,Russian Federation,RU,166.494,68.0586
+244,Bilibino 4," 68.0586, 166.495",LWGR/EGP,12,Operating,1977.0,Rosenergoatom,Russian Federation,RU,166.495,68.0586
+245,Kalinin-1," 57.9028, 35.0571",PWR/VVER,950,Operating,1985.0,Rosenergoatom,Russian Federation,RU,35.0571,57.9028
+246,Kalinin-2," 57.9039, 35.0586",PWR/VVER,950,Operating,1987.0,Rosenergoatom,Russian Federation,RU,35.0586,57.9039
+247,Kalinin-3," 57.9051, 35.0606",PWR/VVER,950,Operating,2004.0,Rosenergoatom,Russian Federation,RU,35.0606,57.9051
+248,Kola-1," 67.4667, 32.4913",PWR/VVER,411,Operating,1973.0,Rosenergoatom,Russian Federation,RU,32.4913,67.4667
+249,Kola-2," 67.4667, 32.4923",PWR/VVER,411,Operating,1975.0,Rosenergoatom,Russian Federation,RU,32.4923,67.4667
+250,Kola-3," 67.4667, 32.4933",PWR/VVER,411,Operating,1982.0,Rosenergoatom,Russian Federation,RU,32.4933,67.4667
+251,Kola-4," 67.4667, 32.4943",PWR/VVER,411,Operating,1984.0,Rosenergoatom,Russian Federation,RU,32.4943,67.4667
+252,Kursk-1," 51.674, 35.6067",LWGR/RBMK,925,Operating,1977.0,Rosenergoatom,Russian Federation,RU,35.6067,51.674
+253,Kursk-2," 51.6735, 35.6067",LWGR/RBMK,925,Operating,1979.0,Rosenergoatom,Russian Federation,RU,35.6067,51.6735
+254,Kursk-3," 51.673, 35.6067",LWGR/RBMK,925,Operating,1984.0,Rosenergoatom,Russian Federation,RU,35.6067,51.673
+255,Kursk-4," 51.6725, 35.6067",LWGR/RBMK,925,Operating,1986.0,Rosenergoatom,Russian Federation,RU,35.6067,51.6725
+256,Leningrad-1," 59.8403, 29.0274",LWGR/RBMK,925,Operating,1974.0,Leningrad NPP,Russian Federation,RU,29.0274,59.8403
+257,Leningrad-2," 59.8403, 29.0284",LWGR/RBMK,925,Operating,1976.0,Leningrad NPP,Russian Federation,RU,29.0284,59.8403
+258,Leningrad-3," 59.8403, 29.0294",LWGR/RBMK,925,Operating,1980.0,Leningrad NPP,Russian Federation,RU,29.0294,59.8403
+259,Leningrad-4," 59.8403, 29.0304",LWGR/RBMK,925,Operating,1981.0,Leningrad NPP,Russian Federation,RU,29.0304,59.8403
+260,Novovoronezh-3," 51.2744, 39.2064",PWR/VVER,385,Operating,1972.0,Rosenergoatom,Russian Federation,RU,39.2064,51.2744
+261,Novovoronezh-4," 51.2739, 39.2064",PWR/VVER,385,Operating,1973.0,Rosenergoatom,Russian Federation,RU,39.2064,51.2739
+262,Novovoronezh-5," 52.3807, 39.2112",PWR/VVER,950,Operating,1981.0,Rosenergoatom,Russian Federation,RU,39.2112,52.3807
+263,Rostov-1 (Volgodonsk-1)," 47.5988, 42.373",PWR/VVER,950,Operating,2000.0,Rosenergoatom,Russian Federation,RU,42.373,47.5988
+264,Rostov-2 (Volgodonsk-2)," 47.6, 42.3739",PWR/VVER,950,Operating,,Rosenergoatom,Russian Federation,RU,42.3739,47.6
+265,Smolensk-1," 54.1688, 33.2448",LWGR/RBMK,925,Operating,1983.0,Rosenergoatom,Russian Federation,RU,33.2448,54.1688
+266,Smolensk-2," 54.1683, 33.2448",LWGR/RBMK,925,Operating,1985.0,Rosenergoatom,Russian Federation,RU,33.2448,54.1683
+267,Smolensk-3," 54.1678, 33.2448",LWGR/RBMK,925,Operating,1990.0,Rosenergoatom,Russian Federation,RU,33.2448,54.1678
+268,Bohunice-3," 48.4921, 17.6869",PWR/VVER,408,Operating,1985.0,Slovak Energy Board,Slovak Republic,SK,17.6869,48.4921
+269,Bohunice-4," 48.4916, 17.6869",PWR/VVER,408,Operating,1985.0,Slovak Energy Board,Slovak Republic,SK,17.6869,48.4916
+270,Mochovce-1," 48.2609, 18.4547",PWR/VVER,420,Operating,1998.0,Slovak Energy Board,Slovak Republic,SK,18.4547,48.2609
+271,Mochovce-2," 48.2604, 18.4547",PWR/VVER,420,Operating,2000.0,Slovak Energy Board,Slovak Republic,SK,18.4547,48.2604
+272,Krsko," 45.9389, 15.516",PWR,676,Operating,1983.0,Nuklearna Elektrarna Krsko (NEK),Slovenia,SI,15.516,45.9389
+273,Koeberg-1," -33.6773, 18.4334",PWR,921,Operating,1984.0,Eskom,South Africa,ZA,18.4334,-33.6773
+274,Koeberg-2," -33.6773, 18.4344",PWR,921,Operating,1985.0,Eskom,South Africa,ZA,18.4344,-33.6773
+275,Almaraz-1," 39.8074, -5.69769",PWR,947,Operating,1983.0,Centrales Nucleares Almaraz-Trillo,Spain,ES,-5.69769,39.8074
+276,Almaraz-2," 39.8074, -5.69669",PWR,950,Operating,1984.0,Centrales Nucleares Almaraz-Trillo,Spain,ES,-5.69669,39.8074
+277,Asco-1," 41.2016, 0.571359",PWR,996,Operating,1984.0,Endesa,Spain,ES,0.571359,41.2016
+278,Asco-2," 41.2016, 0.572359",PWR,992,Operating,1986.0,Endesa,Spain,ES,0.572359,41.2016
+279,Cofrentes," 39.2162, -1.05132",BWR,1063,Operating,1985.0,Iberdrola S.A.,Spain,ES,-1.05132,39.2162
+280,Santa Maria de Garona," 42.7753, -3.20535",BWR,446,Operating,1971.0,Nuclenor S.A.,Spain,ES,-3.20535,42.7753
+281,Trillo-1," 40.6993, -2.62211",PWR,1003,Operating,1988.0,Centrales Nucleares Almaraz-Trillo,Spain,ES,-2.62211,40.6993
+282,Vandellos-2," 40.9485, 0.867494",PWR,1045,Operating,1988.0,Asociacion Nuclear Asco-Vandellos A.I.E.,Spain,ES,0.867494,40.9485
+283,Forsmark-1," 60.4047, 18.1681",BWR,968,Operating,1980.0,Forsmark Kraftgrupp AB,Sweden,SE,18.1681,60.4047
+284,Forsmark-2," 60.4047, 18.1702",BWR,964,Operating,1981.0,Forsmark Kraftgrupp AB,Sweden,SE,18.1702,60.4047
+285,Forsmark-3," 60.4068, 18.1546",BWR,1155,Operating,1985.0,Forsmark Kraftgrupp AB,Sweden,SE,18.1546,60.4068
+286,Oskarshamn-1," 57.4146, 16.6658",BWR,467,Operating,1972.0,OKG Aktiebolag,Sweden,SE,16.6658,57.4146
+287,Oskarshamn-2," 57.4146, 16.6668",BWR,602,Operating,1975.0,OKG Aktiebolag,Sweden,SE,16.6668,57.4146
+288,Oskarshamn-3," 57.4161, 16.671",BWR,1400,Operating,1985.0,OKG Aktiebolag,Sweden,SE,16.671,57.4161
+289,Ringhals-1," 57.259, 12.1112",BWR,840,Operating,1976.0,Swedish State Power Board,Sweden,SE,12.1112,57.259
+290,Ringhals-2," 57.259, 12.1122",PWR,870,Operating,1975.0,Swedish State Power Board,Sweden,SE,12.1122,57.259
+291,Ringhals-3," 57.259, 12.1132",PWR,920,Operating,1981.0,Swedish State Power Board,Sweden,SE,12.1132,57.259
+292,Ringhals-4," 57.259, 12.1142",PWR,915,Operating,1983.0,Swedish State Power Board,Sweden,SE,12.1142,57.259
+293,Beznau-1," 47.552, 8.22946",PWR,365,Operating,1969.0,Nordostschweizerische Kraftwerke (NOK),Switzerland,CH,8.22946,47.552
+294,Beznau-2," 47.552, 8.23046",PWR,365,Operating,1971.0,Nordostschweizerische Kraftwerke (NOK),Switzerland,CH,8.23046,47.552
+295,Goesgen," 47.3663, 7.96898",PWR,970,Operating,1979.0,Kernkraftwerk,Switzerland,CH,7.96898,47.3663
+296,Leibstadt," 47.6012, 8.18341",BWR,1165,Operating,1984.0,Kernkraft Leibstadt AG (KKL),Switzerland,CH,8.18341,47.6012
+297,Muehleberg," 46.969, 7.26622",BWR,355,Operating,1972.0,BKW Energie AG,Switzerland,CH,7.26622,46.969
+298,Chin Shan-1," 25.2924, 121.567",BWR,604,Operating,1978.0,Taiwan Power Co,Taiwan,TW,121.567,25.2924
+299,Chin Shan-2," 25.2924, 121.568",BWR,604,Operating,1979.0,Taiwan Power Co,Taiwan,TW,121.568,25.2924
+300,Kuosheng-1," 25.2025, 121.662",BWR,948,Operating,1981.0,Taiwan Power Co,Taiwan,TW,121.662,25.2025
+301,Kuosheng-2," 25.203, 121.662",BWR,948,Operating,1983.0,Taiwan Power Co,Taiwan,TW,121.662,25.203
+302,Maanshan-1," 21.9585, 120.753",PWR,890,Operating,1984.0,Taiwan Power Co,Taiwan,TW,120.753,21.9585
+303,Maanshan-2," 21.9585, 120.754",PWR,890,Operating,1985.0,Taiwan Power Co,Taiwan,TW,120.754,21.9585
+304,Khmelnitski-1," 50.3007, 26.6493",PWR/VVER,950,Operating,1988.0,Energoatom,Ukraine,UA,26.6493,50.3007
+305,Khmelnitski-2," 50.3012, 26.6471",PWR/VVER,950,Operating,2004.0,Energoatom,Ukraine,UA,26.6471,50.3012
+306,Rovno-1," 51.3261, 25.8996",PWR/VVER,402,Operating,1981.0,Energoatom,Ukraine,UA,25.8996,51.3261
+307,Rovno-2," 51.3261, 25.9006",PWR/VVER,416,Operating,1982.0,Energoatom,Ukraine,UA,25.9006,51.3261
+308,Rovno-3," 51.3261, 25.9016",PWR/VVER,950,Operating,1987.0,Energoatom,Ukraine,UA,25.9016,51.3261
+309,Rovno-4," 51.3261, 25.9026",PWR/VVER,950,Operating,,Energoatom,Ukraine,UA,25.9026,51.3261
+310,South Ukraine-1," 47.8113, 31.2199",PWR/VVER,950,Operating,1983.0,Energoatom,Ukraine,UA,31.2199,47.8113
+311,South Ukraine-2," 47.8108, 31.2199",PWR/VVER,950,Operating,1985.0,Energoatom,Ukraine,UA,31.2199,47.8108
+312,South Ukraine-3," 47.8116, 31.2238",PWR/VVER,950,Operating,1989.0,Energoatom,Ukraine,UA,31.2238,47.8116
+313,Zaporozhe-1," 47.5084, 34.6265",PWR/VVER,950,Operating,1985.0,Energoatom,Ukraine,UA,34.6265,47.5084
+314,Zaporozhe-2," 47.5079, 34.6265",PWR/VVER,950,Operating,1986.0,Energoatom,Ukraine,UA,34.6265,47.5079
+315,Zaporozhe-3," 47.5074, 34.6265",PWR/VVER,950,Operating,1987.0,Energoatom,Ukraine,UA,34.6265,47.5074
+316,Zaporozhe-4," 47.5069, 34.6265",PWR/VVER,950,Operating,1988.0,Energoatom,Ukraine,UA,34.6265,47.5069
+317,Zaporozhe-5," 47.5064, 34.6265",PWR/VVER,950,Operating,1989.0,Energoatom,Ukraine,UA,34.6265,47.5064
+318,Zaporozhe-6," 47.5059, 34.6265",PWR/VVER,950,Operating,1996.0,Energoatom,Ukraine,UA,34.6265,47.5059
+319,Dungeness-B1," 50.9126, 0.961755",AGR,555,Operating,1989.0,Electricite de France (EdF),United Kingdom,GB,0.961755,50.9126
+320,Dungeness-B2," 50.9121, 0.961755",AGR,555,Operating,1985.0,Electricite de France (EdF),United Kingdom,GB,0.961755,50.9121
+321,Hartlepool-1," 54.6339, -1.17961",AGR,605,Operating,1989.0,Electricite de France (EdF),United Kingdom,GB,-1.17961,54.6339
+322,Hartlepool-2," 54.6336, -1.17961",AGR,605,Operating,1989.0,Electricite de France (EdF),United Kingdom,GB,-1.17961,54.6336
+323,Heysham-A1," 54.0287, -2.91227",AGR,575,Operating,1989.0,Electricite de France (EdF),United Kingdom,GB,-2.91227,54.0287
+324,Heysham-A2," 54.0282, -2.91227",AGR,575,Operating,1989.0,Electricite de France (EdF),United Kingdom,GB,-2.91227,54.0282
+325,Heysham-B1," 54.0277, -2.91227",AGR,625,Operating,1989.0,Electricite de France (EdF),United Kingdom,GB,-2.91227,54.0277
+326,Heysham-B2," 54.0272, -2.91227",AGR,625,Operating,1989.0,Electricite de France (EdF),United Kingdom,GB,-2.91227,54.0272
+327,Hinkley Point-B1," 51.2082, -3.1305",AGR,610,Operating,1978.0,Electricite de France (EdF),United Kingdom,GB,-3.1305,51.2082
+328,Hinkley Point-B2," 51.2077, -3.1305",AGR,610,Operating,1976.0,Electricite de France (EdF),United Kingdom,GB,-3.1305,51.2077
+329,Hunterston-B1," 55.721, -4.89341",AGR,595,Operating,1976.0,Electricite de France (EdF),United Kingdom,GB,-4.89341,55.721
+330,Hunterston-B2," 55.7205, -4.89341",AGR,595,Operating,1977.0,Electricite de France (EdF),United Kingdom,GB,-4.89341,55.7205
+331,Oldbury-1," 51.6492, -2.56709",GCR (Magnox),217,Operating,1967.0,Nuclear Decommissioning Authority (NDA),United Kingdom,GB,-2.56709,51.6492
+332,Oldbury-2," 51.6488, -2.56709",GCR (Magnox),217,Operating,1968.0,Nuclear Decommissioning Authority (NDA),United Kingdom,GB,-2.56709,51.6488
+333,Sizewell-B," 52.2149, 1.62269",PWR,1188,Operating,1995.0,Electricite de France (EdF),United Kingdom,GB,1.62269,52.2149
+334,Torness unit A," 55.9664, -2.39883",AGR,625,Operating,1988.0,Electricite de France (EdF),United Kingdom,GB,-2.39883,55.9664
+335,Torness unit B," 55.9659, -2.39883",AGR,625,Operating,1989.0,Electricite de France (EdF),United Kingdom,GB,-2.39883,55.9659
+336,Wylfa-1," 53.4159, -4.48044",GCR (Magnox),490,Operating,1971.0,Nuclear Decommissioning Authority (NDA),United Kingdom,GB,-4.48044,53.4159
+337,Wylfa-2," 53.4154, -4.48044",GCR (Magnox),490,Operating,1972.0,Nuclear Decommissioning Authority (NDA),United Kingdom,GB,-4.48044,53.4154
+338,Arkansas Nuclear One-1," 35.3103, -93.2296",PWR,836,Operating,1974.0,Entergy Nuclear,United States,US,-93.2296,35.3103
+339,Arkansas Nuclear One-2," 35.3103, -93.2286",PWR,965,Operating,1980.0,Entergy Nuclear,United States,US,-93.2286,35.3103
+340,Beaver Valley-1," 40.6238, -80.4319",PWR,810,Operating,1976.0,First Energy,United States,US,-80.4319,40.6238
+341,Beaver Valley-2," 40.6238, -80.4309",PWR,833,Operating,1987.0,First Energy,United States,US,-80.4309,40.6238
+342,Braidwood-1," 41.247, -88.2296",PWR,1120,Operating,1988.0,Exelon Nuclear Co,United States,US,-88.2296,41.247
+343,Braidwood-2," 41.247, -88.2288",PWR,1120,Operating,1988.0,Exelon Nuclear Co,United States,US,-88.2288,41.247
+344,Browns Ferry-1," 34.7038, -87.119",BWR,1065,Operating,1974.0,Tennessee Valley Authority (TVA),United States,US,-87.119,34.7038
+345,Browns Ferry-2," 34.7033, -87.119",BWR,1118,Operating,1975.0,Tennessee Valley Authority (TVA),United States,US,-87.119,34.7033
+346,Browns Ferry-3," 34.7028, -87.119",BWR,1118,Operating,1977.0,Tennessee Valley Authority (TVA),United States,US,-87.119,34.7028
+347,Brunswick-1," 33.9579, -78.0071",BWR,820,Operating,1977.0,Progress Energy Corp,United States,US,-78.0071,33.9579
+348,Brunswick-2," 33.9574, -78.0071",BWR,811,Operating,1975.0,Progress Energy Corp,United States,US,-78.0071,33.9574
+349,Byron-1," 42.0744, -89.2766",PWR,1105,Operating,1985.0,Exelon Nuclear Co,United States,US,-89.2766,42.0744
+350,Byron-2," 42.0744, -89.2756",PWR,1105,Operating,1987.0,Exelon Nuclear Co,United States,US,-89.2756,42.0744
+351,Callaway-1," 38.763, -91.7814",PWR,1235,Operating,1984.0,Ameren,United States,US,-91.7814,38.763
+352,Calvert Cliffs-1," 38.4345, -76.4389",PWR,825,Operating,1975.0,Constellation Energy,United States,US,-76.4389,38.4345
+353,Calvert Cliffs-2," 38.434, -76.4389",PWR,825,Operating,1977.0,Constellation Energy,United States,US,-76.4389,38.434
+354,Catawba-1," 35.053, -81.071",PWR,1129,Operating,1985.0,Duke Power Co,United States,US,-81.071,35.053
+355,Catawba-2," 35.053, -81.07",PWR,1129,Operating,1986.0,Duke Power Co,United States,US,-81.07,35.053
+356,Clinton-1," 40.1717, -88.8335",BWR,930,Operating,1987.0,AmerGen Energy Co,United States,US,-88.8335,40.1717
+357,Columbia (WNP-2)," 46.4713, -119.333",BWR,1150,Operating,1984.0,Energy Northwest,United States,US,-119.333,46.4713
+358,Comanche Peak-1," 32.3007, -97.7865",PWR,1150,Operating,1990.0,TXU Electric Co,United States,US,-97.7865,32.3007
+359,Comanche Peak-2," 32.3007, -97.7855",PWR,1150,Operating,1993.0,TXU Electric Co,United States,US,-97.7855,32.3007
+360,Cooper," 40.3609, -95.6434",BWR,764,Operating,1974.0,Nebraska Public Power District (NPPD),United States,US,-95.6434,40.3609
+361,Crystal River-3," 28.9659, -82.6971",PWR,868,Operating,1977.0,Progress Energy Corp,United States,US,-82.6971,28.9659
+362,Davis Besse-1," 41.5969, -83.0919",PWR,877,Operating,1978.0,First Energy,United States,US,-83.0919,41.5969
+363,Diablo Canyon-1," 35.2122, -120.854",PWR,1130,Operating,1985.0,Pacific Gas and Electric Co (PG&E),United States,US,-120.854,35.2122
+364,Diablo Canyon-2," 35.2122, -120.853",PWR,1160,Operating,1986.0,Pacific Gas and Electric Co (PG&E),United States,US,-120.853,35.2122
+365,Donald Cook-1," 41.9752, -86.5641",PWR,1020,Operating,1975.0,Indiana Michigan Power Co,United States,US,-86.5641,41.9752
+366,Donald Cook-2," 41.9752, -86.5631",PWR,1108,Operating,1978.0,Indiana Michigan Power Co,United States,US,-86.5631,41.9752
+367,Dresden-2," 41.38615, -88.26802",BWR,912,Operating,1970.0,Exelon Nuclear Co,United States,US,-88.26802,41.38615
+368,Dresden-3," 41.38513, -88.26837",BWR,794,Operating,1971.0,Exelon Nuclear Co,United States,US,-88.26837,41.38513
+369,Duane Arnold-1," 42.101, -91.776",BWR,600,Operating,1975.0,FPL Group,United States,US,-91.776,42.101
+370,Enrico Fermi-2," 41.9627, -83.2566",BWR,1139,Operating,1988.0,Detroit Edison Co,United States,US,-83.2566,41.9627
+371,Farley-1," 31.2231, -85.1145",PWR,828,Operating,1977.0,Alabama Power,United States,US,-85.1145,31.2231
+372,Farley-2," 31.2231, -85.1135",PWR,838,Operating,1981.0,Alabama Power,United States,US,-85.1135,31.2231
+373,FitzPatrick," 43.521, -76.4026",BWR,780,Operating,1975.0,Entergy Nuclear,United States,US,-76.4026,43.521
+374,Fort Calhoun-1," 41.5202, -96.076",PWR,485,Operating,1974.0,Omaha Public Power District (OPPD),United States,US,-96.076,41.5202
+375,Grand Gulf-1," 32.0069, -91.0452",BWR,1204,Operating,1985.0,Entergy Nuclear,United States,US,-91.0452,32.0069
+376,H B Robinson-2," 34.4024, -80.1584",PWR,683,Operating,1971.0,Progress Energy Corp,United States,US,-80.1584,34.4024
+377,Hatch-1," 31.9347, -82.3461",BWR,863,Operating,1975.0,Southern Nuclear Operating Co,United States,US,-82.3461,31.9347
+378,Hatch-2," 31.9343, -82.3461",BWR,878,Operating,1979.0,Southern Nuclear Operating Co,United States,US,-82.3461,31.9343
+379,Hope Creek-1," 39.4668, -75.5354",BWR,1031,Operating,1986.0,Public Service Electric and Gas Co (PSEG),United States,US,-75.5354,39.4668
+380,Indian Point-2," 41.2693, -73.9497",PWR,975,Operating,1974.0,Entergy Nuclear,United States,US,-73.9497,41.2693
+381,Indian Point-3," 41.2688, -73.9497",PWR,979,Operating,1976.0,Entergy Nuclear,United States,US,-73.9497,41.2688
+382,Kewaunee," 44.4696, -87.498",PWR,556,Operating,1974.0,Dominion Resources,United States,US,-87.498,44.4696
+383,LaSalle-1," 41.2461, -88.6724",BWR,1078,Operating,1984.0,Exelon Nuclear Co,United States,US,-88.6724,41.2461
+384,LaSalle-2," 41.2456, -88.6724",BWR,1078,Operating,1984.0,Exelon Nuclear Co,United States,US,-88.6724,41.2456
+385,Limerick-1," 40.2251, -75.5835",BWR,1200,Operating,1986.0,Exelon Nuclear Co,United States,US,-75.5835,40.2251
+386,Limerick-2," 40.2246, -75.5835",BWR,1200,Operating,1990.0,Exelon Nuclear Co,United States,US,-75.5835,40.2246
+387,McGuire-1," 35.4333, -80.9463",PWR,1100,Operating,1981.0,Duke Power Co,United States,US,-80.9463,35.4333
+388,McGuire-2," 35.4327, -80.9463",PWR,1100,Operating,1984.0,Duke Power Co,United States,US,-80.9463,35.4327
+389,Millstone-2," 41.3116, -72.166",PWR,875,Operating,1975.0,Dominion Virginia Power,United States,US,-72.166,41.3116
+390,Millstone-3," 41.3111, -72.166",PWR,1152,Operating,1986.0,Dominion Virginia Power,United States,US,-72.166,41.3111
+391,Monticello," 45.3337, -93.8504",BWR,593,Operating,1971.0,Xcel Energy,United States,US,-93.8504,45.3337
+392,Nine Mile Point-1," 43.5216, -76.4124",BWR,610,Operating,1969.0,Constellation Energy,United States,US,-76.4124,43.5216
+393,Nine Mile Point-2," 43.5205, -76.4126",BWR,1143,Operating,1988.0,Constellation Energy,United States,US,-76.4126,43.5205
+394,North Anna-1," 38.0612, -77.7918",PWR,925,Operating,1978.0,Dominion Virginia Power,United States,US,-77.7918,38.0612
+395,North Anna-2," 38.0607, -77.7918",PWR,917,Operating,1980.0,Dominion Virginia Power,United States,US,-77.7918,38.0607
+396,Oconee-1," 34.7964, -82.8944",PWR,846,Operating,1973.0,Duke Power Co,United States,US,-82.8944,34.7964
+397,Oconee-2," 34.7959, -82.8944",PWR,846,Operating,1974.0,Duke Power Co,United States,US,-82.8944,34.7959
+398,Oconee-3," 34.7954, -82.8944",PWR,846,Operating,1974.0,Duke Power Co,United States,US,-82.8944,34.7954
+399,Oyster Creek," 39.8146, -74.2077",BWR,610,Operating,1969.0,AmerGen Energy Co,United States,US,-74.2077,39.8146
+400,Palisades," 42.3226, -86.3161",PWR,789,Operating,1971.0,Consumers Energy,United States,US,-86.3161,42.3226
+401,Palo Verde-1," 33.3873, -112.863",PWR,1243,Operating,1986.0,Arizona Nuclear Power Project (ANPP),United States,US,-112.863,33.3873
+402,Palo Verde-2," 33.3868, -112.863",PWR,1243,Operating,1986.0,Arizona Nuclear Power Project (ANPP),United States,US,-112.863,33.3868
+403,Palo Verde-3," 33.3863, -112.863",PWR,1247,Operating,1988.0,Arizona Nuclear Power Project (ANPP),United States,US,-112.863,33.3863
+404,Peach Bottom-2," 39.7589, -76.2702",BWR,1110,Operating,1974.0,Exelon Nuclear Co,United States,US,-76.2702,39.7589
+405,Peach Bottom-3," 39.7584, -76.2702",BWR,1110,Operating,1974.0,Exelon Nuclear Co,United States,US,-76.2702,39.7584
+406,Perry-1," 41.8006, -81.1465",BWR,1265,Operating,1987.0,First Energy,United States,US,-81.1465,41.8006
+407,Pilgrim-1," 41.9449, -70.5776",BWR,670,Operating,1972.0,Entergy Nuclear,United States,US,-70.5776,41.9449
+408,Point Beach-1," 44.2816, -87.5343",PWR,485,Operating,1970.0,Wisconsin Electric Power Co,United States,US,-87.5343,44.2816
+409,Point Beach-2," 44.2811, -87.5343",PWR,485,Operating,1972.0,Wisconsin Electric Power Co,United States,US,-87.5343,44.2811
+410,Prairie Island-1," 44.6223, -92.6314",PWR,530,Operating,1973.0,Xcel Energy,United States,US,-92.6314,44.6223
+411,Prairie Island-2," 44.6218, -92.6314",PWR,530,Operating,1974.0,Xcel Energy,United States,US,-92.6314,44.6218
+412,Quad Cities-1," 41.7268, -90.3078",BWR,789,Operating,1973.0,Exelon Nuclear Co,United States,US,-90.3078,41.7268
+413,Quad Cities-2," 41.7263, -90.3078",BWR,789,Operating,1973.0,Exelon Nuclear Co,United States,US,-90.3078,41.7263
+414,R E Ginna," 43.2786, -77.3108",PWR,580,Operating,1970.0,Constellation Energy,United States,US,-77.3108,43.2786
+415,River Bend-1," 30.7273, -91.3716",BWR,936,Operating,1986.0,Entergy Nuclear,United States,US,-91.3716,30.7273
+416,Salem-1," 39.463, -75.5342",PWR,1106,Operating,1977.0,Public Service Electric and Gas Co (PSEG),United States,US,-75.5342,39.463
+417,Salem-2," 39.4625, -75.5342",PWR,1106,Operating,1981.0,Public Service Electric and Gas Co (PSEG),United States,US,-75.5342,39.4625
+418,San Onofre-2," 33.3673, -117.556",PWR,1070,Operating,1983.0,Southern California Edison,United States,US,-117.556,33.3673
+419,San Onofre-3," 33.3668, -117.556",PWR,1080,Operating,1984.0,Southern California Edison,United States,US,-117.556,33.3668
+420,Seabrook-1," 42.8974, -70.8493",PWR,1162,Operating,1990.0,Florida Power and Light Co (FPL),United States,US,-70.8493,42.8974
+421,Sequoyah-1," 35.2277, -85.0936",PWR,1147,Operating,1981.0,Tennessee Valley Authority (TVA),United States,US,-85.0936,35.2277
+422,Sequoyah-2," 35.2272, -85.0936",PWR,1142,Operating,1982.0,Tennessee Valley Authority (TVA),United States,US,-85.0936,35.2272
+423,Shearon Harris-1," 35.6349, -78.9548",PWR,860,Operating,1987.0,Progress Energy Corp,United States,US,-78.9548,35.6349
+424,South Texas-1," 28.7967, -96.0444",PWR,1268,Operating,1988.0,STP Nuclear Operating Co,United States,US,-96.0444,28.7967
+425,South Texas-2," 28.7962, -96.0444",PWR,1268,Operating,1989.0,STP Nuclear Operating Co,United States,US,-96.0444,28.7962
+426,St. Lucie-1," 27.3484, -80.2439",PWR,839,Operating,1976.0,Florida Power and Light Co (FPL),United States,US,-80.2439,27.3484
+427,St. Lucie-2," 27.3484, -80.2438",PWR,839,Operating,1983.0,Florida Power and Light Co (FPL),United States,US,-80.2438,27.3484
+428,Surry-1," 37.1664, -76.7003",PWR,810,Operating,1972.0,Dominion Virginia Power,United States,US,-76.7003,37.1664
+429,Surry-2," 37.1659, -76.7003",PWR,815,Operating,1973.0,Dominion Virginia Power,United States,US,-76.7003,37.1659
+430,Susquehanna-1," 41.0929, -76.1428",BWR,1100,Operating,1983.0,Pennsylvania Power and Light Co (PP&L),United States,US,-76.1428,41.0929
+431,Susquehanna-2," 41.0924, -76.1428",BWR,1103,Operating,1985.0,Pennsylvania Power and Light Co (PP&L),United States,US,-76.1428,41.0924
+432,Three Mile Island-1," 40.1539, -76.727",PWR,786,Operating,1974.0,AmerGen Energy Co,United States,US,-76.727,40.1539
+433,Turkey Point-3," 25.4346, -80.3301",PWR,693,Operating,1972.0,Florida Power and Light Co (FPL),United States,US,-80.3301,25.4346
+434,Turkey Point-4," 25.4346, -80.3291",PWR,693,Operating,1973.0,Florida Power and Light Co (FPL),United States,US,-80.3291,25.4346
+435,Vermont Yankee," 42.7787, -72.5143",BWR,510,Operating,1972.0,Entergy Nuclear,United States,US,-72.5143,42.7787
+436,Virgil C Summer-1," 34.2985, -81.3138",PWR,885,Operating,1984.0,South Carolina Electric and Gas Co,United States,US,-81.3138,34.2985
+437,Vogtle-1," 33.1425, -81.7596",PWR,1148,Operating,1987.0,Southern Nuclear Operating Co,United States,US,-81.7596,33.1425
+438,Vogtle-2," 33.142, -81.7596",PWR,1149,Operating,1989.0,Southern Nuclear Operating Co,United States,US,-81.7596,33.142
+439,Waterford-3," 29.9944, -90.4708",PWR,1075,Operating,1985.0,Entergy Nuclear,United States,US,-90.4708,29.9944
+440,Watts Bar-1," 35.601, -84.7893",PWR,1128,Operating,1996.0,Tennessee Valley Authority (TVA),United States,US,-84.7893,35.601
+441,Wolf Creek," 38.2392, -95.6905",PWR,1135,Operating,1985.0,KGE/KCPL/KEPC,United States,US,-95.6905,38.2392
