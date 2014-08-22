@@ -1,122 +1,40 @@
-//values I expect sluice to give me"
-var upperLeft = [-151,58], 
-    bottomRight =[-54,10.5];
+var width = 1200,
+    height = 700,
+    centered;
 
-var margin = {top: 0, left: 0, bottom: 0, right: 0}
-  , width = parseInt(d3.select('body').style('width'))
-  , mapRatio = (9/16)
-  , height = width * mapRatio;
-
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#visualization").append("svg")
     .attr("width", width)
-    .attr("height", height);
+    .attr("height", height)
 
-//////////////////////////////////////////////////////////////////////////////////
-d3.csv("renewableStations.csv",function(data){ //renewable energy stations
-
-// //Use info from the window size to draw the svg:
-// var margin = {top: 0, left: 0, bottom: 0, right: 0}
-//   , width = parseInt(d3.select('body').style('width'))
-//   , mapRatio = (9/16)
-//   , height = width * mapRatio; //this will need to be set to the default aspect ration for the WebThing
-
-
-
-//set up the projection: 
-var projection = d3.geo.mercator()
-    .scale(1)
-    .translate([0,0]);
+var projection = d3.geo.albersUsa()
+    .scale(1100)
+    .translate([(3.2*width) / 5, height / 2]);
 
 var path = d3.geo.path()
     .projection(projection);
 
-var //ulPoint = projection([-85,24]), //trying cuba for a sec
-    //brPoint = projection([-74,19]),
-    ulPoint = projection(upperLeft), 
-    brPoint = projection(bottomRight),
-    s = 1 / Math.max((brPoint[0] - ulPoint[0]) / width, (brPoint[1] - ulPoint[1]) / height),
-    t = [(width - s * (brPoint[0] + ulPoint[0])) / 2, (height - s * (brPoint[1] + ulPoint[1])) / 2];
-
-// Update the projection to use computed scale & translate.
-projection
-    .scale(s)
-    .translate(t);
-
-
-//Code to deal with a resizing of the WebThing:
 var g = svg.append("g");
 
-d3.select(window).on('resize', function(){ resize() });
-
-function resize() {
-    width = parseInt(d3.select('body').style('width'));
-    height = parseInt(d3.select('body').style('height'));
-    //height = width * mapRatio;
-
-    // resize the map container
-    svg
-        .attr('width', width)
-        .attr('height', height);
-/*
-    // update projection
-    var ulPoint = projection(upperLeft), 
-        brPoint = projection(bottomRight),
-        s = 1 / Math.max((brPoint[0] - ulPoint[0]) / width, (brPoint[1] - ulPoint[1]) / height),
-        t = [(width - s * (brPoint[0] + ulPoint[0])) / 2, (height - s * (brPoint[1] + ulPoint[1])) / 2];
-
-// Update the projection to use computed scale & translate.
-    projection
-        .scale(s)
-        .translate(t);t. 
-
-    // resize the map
-    g.selectAll('path').attr('d', path);
- */   
-    //move the data-nodes as well
-    d3.selectAll("circle")
-        .attr("cx",function(d){
-            return projection([d.lon, d.lat])[0]
-        })
-        .attr("cy",function(d){
-             return projection([d.lon, d.lat])[1]
-        })
-}
+queue()
+    .defer(d3.json,"us-10m.json")
+    .defer(d3.csv, "renewableStations.csv")
+    .await(ready);
 
 
-//Pulsating points: 
-var movingCircles = function(){
-    g.selectAll("circle")
-        .transition()
-        .duration(800)
-        .ease("log")
-        .attr("r", 5)
-        .attr("fill", "blue")
-        .each("end", function(){
-            d3.select(this)
-                .transition()
-                .duration(800)
-                .ease("log")
-                .attr("r", 3)
-                //.attr("fill", "red")
-                .each("end",function(){
-                    movingCircles()
-                })
-        })
-}
+function ready(error, us, data) {
 
-// load and display the World
-d3.json("world-110m2.json", function(error, topology) {
-    g.selectAll("path")
-      .data(topojson.object(topology, topology.objects.countries)
-          .geometries)
-    .enter()
-      .append("path")
-      .attr("d", path)
-      .on("click", function(d){
+    g.append("g")
+          .attr("id", "states")
+        .selectAll("path")
+          .data(topojson.feature(us, us.objects.states).features)
+        .enter().append("path")
+          .attr("d", path)
 
-        console.log(projection.invert(path.bounds(d)[0])) //UL corner
-        console.log(projection.invert(path.bounds(d)[1])) //BR corner
-    })
+      g.append("path")
+          .datum(topojson.mesh(us, us.objects.states))
+          .attr("id", "state-borders")
+          .attr("d", path);
+
 
     g.selectAll("circle")
         .data(data)
@@ -145,11 +63,12 @@ d3.json("world-110m2.json", function(error, topology) {
             svg.append("text")
                 .text(d['Street Address'] + ", " + d['City'] + ", " + d["State"])
                 .attr("id", "plantNameText")
-                .attr("x", 200)
-                .attr("y",height - 350)
+                .attr("x", 750)
+                .attr("y",100)
                 .attr("text-anchor","start")
                 .attr("fill","black")
                 .attr("font-size", 20)
+                .attr("font-family","optima")
         })
         .on("mouseout",function(){
             d3.select(this)
@@ -160,19 +79,15 @@ d3.json("world-110m2.json", function(error, topology) {
             d3.selectAll("#plantNameText")
                 .remove()
         })
-
-});
-
+}
 
 svg.append("text")
-    .text("Renewable energy filling stations")
+    .text("Alternative Fuel Filling Stations")
     .attr("x", 15)
     .attr("y", 55)
     .attr("text-anchor","start")
     .attr("font-size", 25)
-
-})
-
+    .attr("font-family","optima")
 //Legend and selector stuff!
 
 types = ['BD', 'CNG', 'E85', 'ELEC', 'HY', 'LNG', 'LPG']
@@ -195,32 +110,67 @@ svg.selectAll("circle")
     .attr("fill", function(d){
         return colorChooser(d)
     })
-    // .on("click", function(d){
-    //     if (clicked){ clicked = false} //reset clicked variable if already clicked
-    // })
+    .on("click", function(d){
+        if (clicked){ 
+            clicked = false
+
+            d3.select(this)
+                .transition()
+                .attr("r", 15)
+
+            d3.select("g").selectAll("circle")
+                .attr("r",4)
+                .attr("fill-opacity", 0.3)
+
+        } else {
+            clicked = true
+
+            d3.select(this)
+                .transition()
+                .attr("r", 20)
+
+            var selected = d3.select(this).attr("id") //grab the type so it can be used
+
+            d3.select("g").selectAll("circle")
+                //.transition()
+                .attr("fill-opacity", 0.01)
+
+            d3.selectAll("." + selected)
+                //.attr("r",8)
+                .attr("fill-opacity", 0.3)
+        } 
+    })
     .on("mouseover", function(d){
-        d3.select(this)
-            .transition()
-            .attr("r", 20)
+        if (clicked){
+            //do nothing
+        } else {
+            d3.select(this)
+                .transition()
+                .attr("r", 20)
 
-        var selected = d3.select(this).attr("id") //grab the type so it can be used
+            var selected = d3.select(this).attr("id") //grab the type so it can be used
 
-        d3.select("g").selectAll("circle")
-            //.transition()
-            .attr("fill-opacity", 0.01)
+            d3.select("g").selectAll("circle")
+                //.transition()
+                .attr("fill-opacity", 0.01)
 
-        d3.selectAll("." + selected)
-            .attr("r",8)
-            .attr("fill-opacity", 0.3)
+            d3.selectAll("." + selected)
+                //.attr("r",8)
+                .attr("fill-opacity", 0.3)
+        }
     })
     .on("mouseout", function(d){
-        d3.select(this)
-            .transition()
-            .attr("r", 15)
+        if (clicked){
+            //do nothing
+        } else {
+            d3.select(this)
+                .transition()
+                .attr("r", 15)
 
-        d3.select("g").selectAll("circle")
-            .attr("r",4)
-            .attr("fill-opacity", 0.3)
+            d3.select("g").selectAll("circle")
+                .attr("r",4)
+                .attr("fill-opacity", 0.3)
+        }
     })
 
 svg.selectAll("text")
@@ -235,6 +185,26 @@ svg.selectAll("text")
     .attr("text-anchor","start")
     .attr("font-size", 15)
     .attr("font-family", "optima")
+
+    svg.classed("blurred",true)
+
+    var intro = d3.select("#intro")
+                    .attr("width", 400)
+
+    //Define a blur filter 
+    var filter = svg.append("defs")
+      .append("filter")
+        .attr("id", "blur")
+      .append("feGaussianBlur")
+        .attr("stdDeviation", 5);
+
+    //Allow user to move forward on click.  
+    d3.select("#continueText")
+        .on("click", function(d){
+            svg.classed("blurred", false)
+            intro.remove()
+
+        })
 
 function colorChooser(type) {
     if            (type ===  "BD"){

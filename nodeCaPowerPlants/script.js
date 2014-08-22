@@ -1,23 +1,17 @@
-//values I expect sluice to give me
-var upperLeft   = [-136.72485,42.42576], 
-    bottomRight = [-113.17017,32.08723];
+//Set the initial view bounds: 
+var upperLeft   = [-136,42.5], 
+    bottomRight = [-114.5,31.5];
 
 
 //////////////////////////////////////////////////////////////////////////////////
-//load up the csv with whatever data you are working with: 
+//load up the csv: 
+d3.csv("caPowerPlantData.csv",function(data){
 
-//d3.csv("data/randomGeoData.csv",function(data){  //Random Data
-//d3.csv("data/latLonIfiedData.csv",function(data){ //Natural Gas data
-//d3.csv("data/renewableStations.csv",function(data){ //renewable energy stations
-d3.csv("data/caPowerPlantData.csv",function(data){
+var width = 1200,
+    height = 700,
+    centered;
 
-//Use info from the window size to draw the svg:
-var margin = {top: 0, left: 0, bottom: 0, right: 0}
-  , width = parseInt(d3.select('body').style('width'))
-  , mapRatio = (10/16)
-  , height = width * mapRatio; //this will need to be set to the default aspect ration for the WebThing
-
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#visaulization").append("svg")
     .attr("width", width)
     .attr("height", height)
 
@@ -44,25 +38,11 @@ nodeScale = d3.scale.sqrt()
     .domain([   d3.min( data  ,function(d){ return +d.ONLINE_MW; }), 
                 d3.max( data  ,function(d){ return +d.ONLINE_MW; })
              ])    
-    .range([1,20]);
+    .range([3,25]);
 
-//Code to deal with a resizing of the WebThing:
 var g = svg.append("g");
 
-
-// // // load and display the World
-// d3.json("world-110m2.json", function(error, topology) {
-//     g.selectAll("path")
-//       .data(topojson.object(topology, topology.objects.countries).geometries)
-//     .enter()
-//       .append("path")
-//       .attr("d", path)
-//       .on("click", function(d){
-
-//         console.log(projection.invert(path.bounds(d)[0])) //UL corner
-//         console.log(projection.invert(path.bounds(d)[1])) //BR corner
-//     })
-
+//Load up the map.
 d3.json("us-10m.json", function(error, us) {
   g.append("g")
       .attr("id", "states")
@@ -81,9 +61,17 @@ g.selectAll("circle")
     .data(data, function(d){return d["Unnamed: 0"]})
     .enter()
     .append("circle")
-    .attr("r", function(d){
-        return nodeScale(d.ONLINE_MW)
+    .attr("class",function(d){
+        if (d.FACILITY === "Oil/Gas"){
+            return "Oil"
+        } else{
+        return d.FACILITY
+    }
     })
+    // .attr("r", function(d){
+    //     return nodeScale(d.ONLINE_MW)
+    // })
+    .attr("r", 0)
     .attr("fill",function(d){
         return colorChooser(d.FACILITY)
     })
@@ -194,7 +182,7 @@ svg.append("text")
     .attr("x", 15)
     .attr("y", 40)
     .attr("text-anchor","start")
-    .attr("font-size", 25)
+    .attr("font-size", 30)
     .attr("font-family", "optima")
 
 })
@@ -229,7 +217,7 @@ function colorChooser(type) {
             return "yellow"
         } else if (type === "Coal"){
             return "saddlebrown"
-        } else { //coal is left
+        } else {                        //coal is left
             return "black"
         }
 }
@@ -253,11 +241,8 @@ svg.selectAll("text")
     .attr("y", function (d,i){
         return (115 + (i * legendSpace))
     })
-    // .attr("fill", function(d){
-    //     return colorChooser(d)
-    // })
     .attr("text-anchor","start")
-    .attr("font-size", 10)
+    .attr("font-size", 14)
     .attr("font-family", "optima")
 
 
@@ -266,6 +251,13 @@ svg.selectAll("circle")
     .enter()
     .append("circle")
     .attr("class","legend")
+    .attr("id",function(d){
+        if(d === "Oil/Gas"){
+            return "Oil"
+        } else {
+            return d
+    }
+    })
     .attr("r",10)
     .attr("cx", 25)
     .attr("cy", function (d,i){
@@ -278,45 +270,63 @@ svg.selectAll("circle")
         d3.select(this)
             .transition()
             .attr("r", 20)
+
+        d3.select("g").selectAll("circle")
+            .attr("fill-opacity", 0.01)
+
+        d3.selectAll("."+d3.select(this).attr("id"))
+            .attr("fill-opacity", 1)
     })
     .on("mouseout", function(d){
         d3.select(this)
             .transition()
             .attr("r", 10)
+
+        d3.select("g").selectAll("circle")
+            .attr("fill-opacity", 0.3)
     })
 
-// zoom and pan
-var zoom = d3.behavior.zoom()
-    .on("zoom",function() {
-        g.attr("transform","translate("+ 
-            d3.event.translate.join(",")+")scale("+d3.event.scale+")");
-        g.selectAll("circle")
-            .attr("d", path.projection(projection));
-        g.selectAll("path")  
-            .attr("d", path.projection(projection)); 
+// // zoom and pan
+// var zoom = d3.behavior.zoom()
+//     .on("zoom",function() {
+//         g.attr("transform","translate("+ 
+//             d3.event.translate.join(",")+")scale("+d3.event.scale+")");
+//         g.selectAll("circle")
+//             .attr("d", path.projection(projection));
+//         g.selectAll("path")  
+//             .attr("d", path.projection(projection)); 
 
-  });
+//   });
 
-svg.call(zoom)
+// svg.call(zoom)
+
+svg.classed("blurred",true)
+
+var intro = d3.select("#intro")
+                .attr("width", 400)
+
+//Define a blur filter 
+var filter = svg.append("defs")
+  .append("filter")
+    .attr("id", "blur")
+  .append("feGaussianBlur")
+    .attr("stdDeviation", 5);
+
+//Allow user to move forward on click.  
+d3.select("#continueText")
+    .on("click", function(d){
+        svg.classed("blurred", false)
+        intro.remove()
+
+        d3.selectAll("g").selectAll("circle")
+            .transition()
+            .duration(1000)
+            .attr("r", function(d){
+                return nodeScale(d.ONLINE_MW)
+            })
+
+    })
 
 });
 
 
-var movingCircles = function(){
-    console.log("function was triggered")
-    d3.selectAll("circle")
-        .transition()
-        .duration(800)
-        .ease("sin")
-        .attr("r", 10)
-        .each("end", function(){
-            d3.select(this)
-                .transition()
-                .duration(800)
-                .ease("sin")
-                .attr("r", 5)
-                .each("end",function(){
-                    movingCircles()
-                })
-        })
-}
