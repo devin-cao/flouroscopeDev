@@ -1,6 +1,6 @@
 .map {
     margin: 0 auto;
-    width: 1000px;
+    width: auto;
     height: auto;
 }
 
@@ -12,7 +12,7 @@
 }
 
 .land {
-  fill: #222;
+  fill: black;
 }
 
 .boundary {
@@ -22,4 +22,10 @@
 
 svg {
     margin: 0 auto;
+}
+
+path {
+  stroke: white;
+  stroke-width: 0.25px;
+  fill: grey;
 }

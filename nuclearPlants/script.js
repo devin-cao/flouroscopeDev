@@ -54,12 +54,31 @@ function ready(error, topology, data) {
     .append("circle")
     .attr("r", 4)
     .attr("fill-opacity", 0.8)
-    .attr("fill","steelblue")
+    .attr("fill","gold")
     .attr("cx",function(d){
       return projection([d.lon, d.lat])[0]
     })
     .attr("cy",function(d){
       return projection([d.lon, d.lat])[1]
+    })
+    .on("mouseover", function(d){
+        d3.select(this)
+            .attr("r",6)
+
+        // console.log(d3.select(this).attr("cx"))
+
+        // g.append("text")
+        //     .attr("id","reactorInfo")
+        //     .attr("x", d3.select(this).attr("cx"))
+        //     .attr("y", d3.select(this).attr("cy"))
+        //     .text(d.Facility)
+    })
+    .on("mouseout", function(d){
+        d3.select(this)
+            .attr("r",4)
+
+        // d3.select("#reactorInfo")
+        // .remove()
     })
 
 }
@@ -69,10 +88,10 @@ var zoom = d3.behavior.zoom()
     .on("zoom",function() {
         g.attr("transform","translate("+ 
             d3.event.translate.join(",")+")scale("+d3.event.scale+")");
-        g.selectAll("circle")
-            .attr("d", path.projection(projection));
-        g.selectAll("path")  
-            .attr("d", path.projection(projection)); 
+        // g.selectAll("circle")
+        //     .attr("d", path.projection(projection));
+        // g.selectAll("path")  
+        //     .attr("d", path.projection(projection)); 
 
   });
 
