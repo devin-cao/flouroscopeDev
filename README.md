@@ -23,7 +23,7 @@
 
 ### nuclearPlants/: 
 
-	* Not functional yet. 
+	* Nuclear plants around the world with zooming and panning. 
 
 ### data/: 
 	
