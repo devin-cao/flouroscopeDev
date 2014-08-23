@@ -15,6 +15,12 @@ var projection = d3.geo.mercator()
     .scale(1)
     .translate([0,0]);
 
+// var projection = d3.geo.orthographic()
+//                 .scale(150)
+//                 .translate([300, 300])
+//                 .rotate(0)
+//                 .clipAngle(90)
+
 var path = d3.geo.path()
     .projection(projection);
 
@@ -46,6 +52,7 @@ function ready(error, topology, data) {
           .geometries)
     .enter()
       .append("path")
+      .attr("class","mapLines")
       .attr("d", path)
 
     g.selectAll("circle")
@@ -76,20 +83,24 @@ function ready(error, topology, data) {
     .on("mouseout", function(d){
         d3.select(this)
             .attr("r",4)
-
-        // d3.select("#reactorInfo")
-        // .remove()
     })
 
 }
 
+
 // zoom and pan
 var zoom = d3.behavior.zoom()
+
     .on("zoom",function() {
+        console.log("translate: " + d3.event.translate)
+        console.log("scale: " + d3.event.scale)
         g.attr("transform","translate("+ 
             d3.event.translate.join(",")+")scale("+d3.event.scale+")");
-        // g.selectAll("circle")
-        //     .attr("d", path.projection(projection));
+
+        var scale = d3.event.scale
+        
+        g.selectAll("circle")
+            .attr("d", d3.svg.symbol().type(function (d) { return d.Shape; }).size(150/scale))
         // g.selectAll("path")  
         //     .attr("d", path.projection(projection)); 
 

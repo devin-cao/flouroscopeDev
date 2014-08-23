@@ -73,7 +73,23 @@ function ready(error, topology, data) {
       .style("fill", function(d){ return brightness(d3.mean(d, function(d){return +d.annualAverage; }))})
       .transition()
       .duration(1000)
-      .attr("d", hexbin.hexagon(hexRadius - 0.5))
+      .attr("d", hexbin.hexagon(hexRadius - 1))
 }
 
+// zoom and pan
+var zoom = d3.behavior.zoom()
+    .on("zoom",function() {
+        g.attr("transform","translate("+ 
+            d3.event.translate.join(",")+")scale("+d3.event.scale+")");
+        d3.select(".hexagons")
+          .attr("transform","translate("+ 
+              d3.event.translate.join(",")+")scale("+d3.event.scale+")");
+        // g.selectAll("circle")
+        //     .attr("d", path.projection(projection));
+        g.selectAll("path")  
+            .attr("d", path.projection(projection)); 
+
+  });
+
+svg.call(zoom)
 
