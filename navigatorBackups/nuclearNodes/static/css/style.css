@@ -1,0 +1,15 @@
+svg { 
+	position:fixed; 
+	top:0; 
+	left:0; 
+	height:100%; 
+	width:100%;
+	/*border: 10px solid red;*/
+	margin: 0 auto;
+	background-color: rgba(200, 54, 54, 0.3);
+}
+
+
+body {
+	padding:0px;
+}

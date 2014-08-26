@@ -27,7 +27,7 @@ var hexbin = d3.hexbin()
     .size([width, height])
     .radius(hexRadius);
 
-var brightness = d3.scale.linear()
+var brightness = d3.scale.sqrt()
     .domain( [2, 8.2] ) 
     .range(["black", "gold"])
 
@@ -36,11 +36,12 @@ var ulPoint = projection(upperLeft),
     s = 1 / Math.max((brPoint[0] - ulPoint[0]) / width, (brPoint[1] - ulPoint[1]) / height),
     t = [(width - s * (brPoint[0] + ulPoint[0])) / 2, (height - s * (brPoint[1] + ulPoint[1])) / 2];
 
-
 // Update the projection to use computed scale & translate.
 projection
     .scale(s)
     .translate(t);
+
+console.log("t: " + t + ", s: " + s)
 
 //Code to deal with a resizing of the WebThing:
 var g = svg.append("g");
@@ -71,9 +72,22 @@ function ready(error, topology, data) {
       .attr("d", hexbin.hexagon(0.1))
       .attr("transform", function(d) {return "translate(" + d.x + "," + d.y + ")"; })
       .style("fill", function(d){ return brightness(d3.mean(d, function(d){return +d.annualAverage; }))})
+      .on("mouseover", function(d){
+          d3.select(this)
+            .transition()
+            .duration(50)
+            .style("fill", "blue")
+      })
+      .on("mouseout", function(d){
+          d3.select(this)
+            .transition()
+            .duration(2500)
+            .style("fill", function(d){ return brightness(d3.mean(d, function(d){return +d.annualAverage; }))})
+      })
       .transition()
       .duration(1000)
       .attr("d", hexbin.hexagon(hexRadius - 1))
+
 }
 
 // zoom and pan
@@ -89,6 +103,8 @@ var zoom = d3.behavior.zoom()
         g.selectAll("path")  
             .attr("d", path.projection(projection)); 
 
+console.log("Translate: " + d3.event.translate + ", Scale: " + d3.event.scale)
+ 
   });
 
 svg.call(zoom)
