@@ -21,7 +21,7 @@ var projection = d3.geo.mercator()
 var path = d3.geo.path()
     .projection(projection);
 
-var hexRadius = 15
+var hexRadius = 14
 
 var hexbin = d3.hexbin()
     .size([width, height])

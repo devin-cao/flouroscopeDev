@@ -1,0 +1,53 @@
+<html>
+  <head>
+    <title>Navigator Demo</title>
+    <script type="text/javascript" src="/sluice/javascript/vendor/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="/sluice/javascript/vendor/jquery-ui-1.8.16.min.js"></script>
+    <script type="text/javascript" src="/sluice/javascript/vendor/jquery.ui.touch-punch.min.js"></script>
+    <script type="text/javascript" src="/sluice/javascript/vendor/underscore.js"></script>
+    
+    {{ jsplasma | safe }}
+
+    
+    <link rel="stylesheet" type="text/css" href="{{url_for('navigator.static', filename='css/style.css')}}"/>
+  </head>
+
+  <body>
+
+ 	<!--<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">-->
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+	<script src="http://d3js.org/topojson.v0.min.js"></script>
+  <script src="http://d3js.org/d3.hexbin.v0.min.js"></script>
+  <!--<script src="{{url_for('navigator.static', filename='js/nodeData.js')}}"></script>-->
+  <script src="{{url_for('navigator.static', filename='js/nodeData.js')}}"></script>
+ 	<script src="{{url_for('navigator.static', filename='js/locinfo.js')}}"></script>
+
+
+
+<!--
+    <h1>Browser Bounds</h1>
+    <p><b>Browser Name:</b> <span id="browser"/></p>
+
+    <table>
+      <tr>
+        <td></td>
+        <td>Longitude</td>
+        <td>Latitude</td>
+      </tr>
+
+      <tr>
+        <td>Upper left</td>
+        <td><span id="minlon"/></td>
+        <td><span id="minlat"></td>
+      </tr>
+
+      <tr>
+        <td>Bottom right</td>
+        <td><span id="maxlon"/></td>
+        <td><span id="maxlat"></td>
+      </tr>
+-->
+  </body>
+
+</html>
